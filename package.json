@@ -1,0 +1,23 @@
+{
+  "name": "films",
+  "version": "1.0.0",
+  "description": "Site containing a list of films Serge Nevsky watched for the past few years.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dejital/films.git"
+  },
+  "keywords": [
+    "films",
+    "database"
+  ],
+  "author": "Serge Nevsky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dejital/films/issues"
+  },
+  "homepage": "https://github.com/Dejital/films#readme"
+}
