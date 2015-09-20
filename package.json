@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/Dejital/films/issues"
   },
-  "homepage": "https://github.com/Dejital/films#readme"
+  "homepage": "https://github.com/Dejital/films#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0"
+  }
 }
