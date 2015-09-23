@@ -3,7 +3,7 @@
  */
 
 require('angular');
-var MainController = require('./controllers/MainController');
+var FilmsController = require('./controllers/FilmsController');
 
 var app = angular.module('app', []);
-app.controller('MainController', ['$scope', MainController]);
+app.controller('FilmsController', ['$scope', FilmsController]);

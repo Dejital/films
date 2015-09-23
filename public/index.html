@@ -2,13 +2,18 @@
 <html ng-app="app">
 <head lang="en">
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Films</title>
     <script src="/js/main.js"></script>
     <link rel="stylesheet" href="/css/screen.css">
 </head>
 <body>
-    <div ng-controller="MainController">
-        <h1>{{ message }}</h1>
+    <div ng-controller="FilmsController">
+        <ul>
+            <li ng-repeat="film in films">
+                {{ film.title }}
+            </li>
+        </ul>
     </div>
 </body>
 </html>

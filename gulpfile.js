@@ -32,5 +32,5 @@ gulp.task('watch', function() {
     gulp.watch('sass/screen.sass', ['sass']);
 });
 
-gulp.task('default', ['connect', 'watch']);
+gulp.task('default', ['watch', 'connect']);
 
