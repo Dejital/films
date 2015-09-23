@@ -1,0 +1,32 @@
+//colors
+$body: #444;
+$hyperlink: #0066cc;
+$hyperlinkHover: #2288ee;
+$hyperlinkVisited: #bb88ee;
+
+html {
+  margin: 20px;
+}
+.content {
+  max-width: 800px;
+  margin: 0 auto 50px;
+  padding: 0 2em;
+  line-height: 1.6em;
+  color: $body;
+  a {
+    border-bottom: 1px dotted $hyperlink;
+    color: $hyperlink;
+    text-decoration: none;
+  }
+  a:hover {
+    color: $hyperlinkHover;
+    border-bottom: 1px dotted $hyperlinkHover;
+  }
+  a:visited {
+    color: $hyperlinkVisited;
+    border-bottom: 1px dotted $hyperlinkVisited;
+  }
+}
+table {
+  width: 100%;
+}

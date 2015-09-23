@@ -1,2 +1,22 @@
-h1 {
-  color: #D41; }
+html {
+  margin: 20px; }
+
+.content {
+  max-width: 800px;
+  margin: 0 auto 50px;
+  padding: 0 2em;
+  line-height: 1.6em;
+  color: #444; }
+  .content a {
+    border-bottom: 1px dotted #0066cc;
+    color: #0066cc;
+    text-decoration: none; }
+  .content a:hover {
+    color: #2288ee;
+    border-bottom: 1px dotted #2288ee; }
+  .content a:visited {
+    color: #bb88ee;
+    border-bottom: 1px dotted #bb88ee; }
+
+table {
+  width: 100%; }

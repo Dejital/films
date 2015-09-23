@@ -23,13 +23,13 @@ gulp.task('browserify', function() {
 });
 
 gulp.task('sass', function() {
-    return sass('sass/screen.sass')
+    return sass('sass/screen.scss')
         .pipe(gulp.dest('./public/css'))
 });
 
 gulp.task('watch', function() {
     gulp.watch('app/**/*.js', ['browserify']);
-    gulp.watch('sass/screen.sass', ['sass']);
+    gulp.watch('sass/screen.scss', ['sass']);
 });
 
 gulp.task('default', ['watch', 'connect']);

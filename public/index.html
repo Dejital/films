@@ -5,15 +5,41 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Films</title>
     <script src="/js/main.js"></script>
+    <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.6.0/pure-min.css">
     <link rel="stylesheet" href="/css/screen.css">
 </head>
 <body>
-    <div ng-controller="FilmsController">
-        <ul>
-            <li ng-repeat="film in films">
-                {{ film.title }}
-            </li>
-        </ul>
+    <div class="content">
+        <header>
+            <h1>Films I've Seen</h1>
+            <h2>Compiled by <a href="http://snevsky.com">Serge Nevsky</a></h2>
+            <p>I've kept a list of films I've seen since January 2009. The following is that list.</p>
+        </header>
+        <div class="films" ng-controller="FilmsController">
+            <table class="pure-table pure-table-horizontal">
+                <thead>
+                    <tr>
+                        <th>Rating</th>
+                        <th>Title</th>
+                        <th>Year</th>
+                        <th>Director</th>
+                        <th>Date Seen</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr ng-repeat="film in films">
+                        <td>{{film.rating}}</td>
+                        <td>{{film.title}}</td>
+                        <td>{{film.releaseYear}}</td>
+                        <td>{{film.director}}</td>
+                        <td>{{film.dateSeen}}</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <footer>
+            <p><a href="https://github.com/Dejital/films">Fork me on Github</a></p>
+        </footer>
     </div>
 </body>
 </html>
