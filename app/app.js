@@ -6,4 +6,4 @@ require('angular');
 var FilmsController = require('./controllers/FilmsController');
 
 var app = angular.module('app', []);
-app.controller('FilmsController', ['$scope', FilmsController]);
+app.controller('FilmsController', ['$scope', '$http', FilmsController]);
