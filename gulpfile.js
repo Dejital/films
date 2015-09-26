@@ -11,7 +11,7 @@ var source = require('vinyl-source-stream');
 gulp.task('connect', function () {
     connect.server({
         root: 'public',
-        port: 4000
+        port: 5000
     })
 });
 
