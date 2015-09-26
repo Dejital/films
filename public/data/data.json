@@ -4294,7 +4294,7 @@
         "title": "The Way Way Back",
         "year": 2013,
         "director": "Faxon & Rash",
-        "dateSeen": "11/8/2014",
+        "dateSeen": "11/8/2013",
         "repeat?": false
     },
     {
@@ -4302,7 +4302,7 @@
         "title": "The September Issue",
         "year": 2009,
         "director": "Cutler",
-        "dateSeen": "11/9/2014",
+        "dateSeen": "11/9/2013",
         "repeat?": false
     },
     {
@@ -4310,7 +4310,7 @@
         "title": "L’amour fou",
         "year": 2010,
         "director": "Thoretton",
-        "dateSeen": "11/12/2014",
+        "dateSeen": "11/12/2013",
         "repeat?": false
     },
     {
@@ -4318,7 +4318,7 @@
         "title": "The Devil Wears Prada",
         "year": 2006,
         "director": "Frankel",
-        "dateSeen": "11/15/2014",
+        "dateSeen": "11/15/2013",
         "repeat?": false
     },
     {
@@ -4342,7 +4342,7 @@
         "title": "Knocked Up",
         "year": 2007,
         "director": "Apatow",
-        "dateSeen": "11/26/2014",
+        "dateSeen": "11/26/2013",
         "repeat?": false
     },
     {
@@ -4350,7 +4350,7 @@
         "title": "Forgetting Sarah Marshall",
         "year": 2008,
         "director": "Stoller",
-        "dateSeen": "11/27/2014",
+        "dateSeen": "11/27/2013",
         "repeat?": false
     },
     {
@@ -4358,7 +4358,7 @@
         "title": "Fresh",
         "year": 1994,
         "director": "Yakin",
-        "dateSeen": "11/29/2014",
+        "dateSeen": "11/29/2013",
         "repeat?": false
     },
     {
@@ -4366,7 +4366,7 @@
         "title": "Before Midnight",
         "year": 2013,
         "director": "Linklater",
-        "dateSeen": "12/1/2014",
+        "dateSeen": "12/1/2013",
         "repeat?": true
     },
     {
@@ -4374,7 +4374,7 @@
         "title": "Journey to Italy",
         "year": 1954,
         "director": "Rossellini",
-        "dateSeen": "12/2/2014",
+        "dateSeen": "12/2/2013",
         "repeat?": false
     },
     {
@@ -4382,7 +4382,7 @@
         "title": "The Deer Hunter",
         "year": 1978,
         "director": "Cimino",
-        "dateSeen": "12/5/2014",
+        "dateSeen": "12/5/2013",
         "repeat?": false
     },
     {
@@ -4391,6 +4391,622 @@
         "year": 2007,
         "director": "Mottola",
         "dateSeen": "12/8/2013",
+        "repeat?": true
+    },
+    {
+        "rating": 2,
+        "title": "The Wolf of Wall Street",
+        "year": 2013,
+        "director": "Scorsese",
+        "dateSeen": 41640,
+        "repeat?": false
+    },
+    {
+        "rating": 2,
+        "title": "American Hustle",
+        "year": 2013,
+        "director": "Russell",
+        "dateSeen": 41643,
+        "repeat?": false
+    },
+    {
+        "rating": 3,
+        "title": "Her",
+        "year": 2013,
+        "director": "Jonze",
+        "dateSeen": 41650,
+        "repeat?": false
+    },
+    {
+        "rating": 3,
+        "title": "40 Days and 40 Nights",
+        "year": 2002,
+        "director": "Lehmann",
+        "dateSeen": 41663,
+        "repeat?": false
+    },
+    {
+        "rating": 4,
+        "title": "The Hunt",
+        "year": 2012,
+        "director": "Vinterberg",
+        "dateSeen": 41718,
+        "repeat?": false
+    },
+    {
+        "rating": 2,
+        "title": "Knocked Up",
+        "year": 2007,
+        "director": "Apatow",
+        "dateSeen": 41719,
+        "repeat?": true
+    },
+    {
+        "rating": 3,
+        "title": "Alone in the Wilderness",
+        "year": 2004,
+        "director": "Proenneke",
+        "dateSeen": 41720,
+        "repeat?": false
+    },
+    {
+        "rating": 4,
+        "title": "La grande illusion",
+        "year": 1937,
+        "director": "Renoir",
+        "dateSeen": 41720,
+        "repeat?": false
+    },
+    {
+        "rating": 5,
+        "title": "Blue is the Warmest Color",
+        "year": 2013,
+        "director": "Kechiche",
+        "dateSeen": 41730,
+        "repeat?": false
+    },
+    {
+        "rating": 2,
+        "title": "Sullivan's Travels",
+        "year": 1941,
+        "director": "Sturges",
+        "dateSeen": 41738,
+        "repeat?": false
+    },
+    {
+        "rating": 2,
+        "title": "Close-Up",
+        "year": 1990,
+        "director": "Kiarostami",
+        "dateSeen": 41739,
+        "repeat?": false
+    },
+    {
+        "rating": 3,
+        "title": "Der Untergang",
+        "year": 2004,
+        "director": "Hirschbiegel",
+        "dateSeen": 41745,
+        "repeat?": false
+    },
+    {
+        "rating": 2,
+        "title": "Inside Llewyn Davis",
+        "year": 2013,
+        "director": "Coen",
+        "dateSeen": 41763,
+        "repeat?": false
+    },
+    {
+        "rating": 2,
+        "title": "Neighbors",
+        "year": 2014,
+        "director": "Stoller",
+        "dateSeen": 41769,
+        "repeat?": false
+    },
+    {
+        "rating": 3,
+        "title": "Encounters at the end of the world",
+        "director": "Herzog",
+        "dateSeen": 41791,
+        "repeat?": false
+    },
+    {
+        "rating": 3,
+        "title": "One flew over the cuckoo's nest",
+        "dateSeen": 41791,
+        "repeat?": true
+    },
+    {
+        "rating": 3,
+        "title": "Happy people a year in the taiga",
+        "dateSeen": 41792,
+        "repeat?": false
+    },
+    {
+        "rating": 3,
+        "title": "Aguirre",
+        "director": "Herzog",
+        "dateSeen": 41794,
+        "repeat?": false
+    },
+    {
+        "rating": 3,
+        "title": "The Grand Budapest Hotel",
+        "director": "Wes Anderson",
+        "dateSeen": 41798,
+        "repeat?": false
+    },
+    {
+        "rating": 2,
+        "title": "A Walk to Remember",
+        "dateSeen": 41833,
+        "repeat?": false
+    },
+    {
+        "rating": 2,
+        "title": "Guardians of the Galaxy",
+        "year": 2014,
+        "dateSeen": 41860,
+        "repeat?": false
+    },
+    {
+        "rating": 3,
+        "title": "Boyhood",
+        "year": 2014,
+        "director": "Linklater",
+        "dateSeen": 41867,
+        "repeat?": false
+    },
+    {
+        "rating": 2,
+        "title": "The Hundred-Foot Journey",
+        "year": 2014,
+        "dateSeen": 41876,
+        "repeat?": false
+    },
+    {
+        "rating": 2,
+        "title": "Fault in Our Stars",
+        "year": 2014,
+        "dateSeen": 41901,
+        "repeat?": false
+    },
+    {
+        "rating": 4,
+        "title": "Amelie",
+        "dateSeen": 41917,
+        "repeat?": true
+    },
+    {
+        "rating": 4,
+        "title": "Godfather Pt. 1",
+        "dateSeen": 41918,
+        "repeat?": true
+    },
+    {
+        "rating": 4,
+        "title": "Some Like It Hot",
+        "dateSeen": 41919,
+        "repeat?": true
+    },
+    {
+        "rating": 3,
+        "title": "Zodiac",
+        "dateSeen": 41927,
+        "repeat?": false
+    },
+    {
+        "rating": 2,
+        "title": "Katthi ",
+        "dateSeen": 41933,
+        "repeat?": false
+    },
+    {
+        "rating": 2,
+        "title": "Chef",
+        "dateSeen": "10/22/2014",
+        "repeat?": false
+    },
+    {
+        "rating": 3,
+        "title": "Instructions Not Included",
+        "dateSeen": 41935,
+        "repeat?": false
+    },
+    {
+        "rating": 1,
+        "title": "Sahara",
+        "dateSeen": 41936,
+        "repeat?": false
+    },
+    {
+        "rating": 2,
+        "title": "Charlie and the Chocolate Factory",
+        "dateSeen": 41937,
+        "repeat?": false
+    },
+    {
+        "rating": 1,
+        "title": "The Purge",
+        "dateSeen": 41937,
+        "repeat?": false
+    },
+    {
+        "rating": 2,
+        "title": "Purge 2",
+        "dateSeen": 41937,
+        "repeat?": false
+    },
+    {
+        "rating": 4,
+        "title": "Interstellar",
+        "dateSeen": 41950,
+        "repeat?": false
+    },
+    {
+        "rating": 2,
+        "title": "Contact",
+        "dateSeen": 41958,
+        "repeat?": false
+    },
+    {
+        "rating": 2,
+        "title": "The Interview",
+        "dateSeen": 41999,
+        "repeat?": false
+    },
+    {
+        "rating": 2,
+        "title": "Romeo + Juliet",
+        "year": 1996,
+        "director": "Buz Luhrmann",
+        "dateSeen": 42012,
+        "repeat?": false
+    },
+    {
+        "rating": 3,
+        "title": "Baraka",
+        "year": 1992,
+        "director": "Fricke",
+        "dateSeen": 42013,
+        "repeat?": false
+    },
+    {
+        "rating": 2,
+        "title": "Pk",
+        "year": 2014,
+        "director": "Hirani",
+        "dateSeen": 42014,
+        "repeat?": false
+    },
+    {
+        "rating": 4,
+        "title": "Whiplash",
+        "year": 2014,
+        "director": "Chazelle",
+        "dateSeen": 42014,
+        "repeat?": false
+    },
+    {
+        "rating": 2,
+        "title": "Birdman",
+        "year": 2014,
+        "director": "Inarritu",
+        "dateSeen": 42015,
+        "repeat?": false
+    },
+    {
+        "rating": 2,
+        "title": "Selma",
+        "year": 2014,
+        "director": "DuVernay",
+        "dateSeen": 42016,
+        "repeat?": false
+    },
+    {
+        "rating": 3,
+        "title": "The Big Lebowski",
+        "year": 1998,
+        "director": "Coen Brothers",
+        "dateSeen": 42019,
+        "repeat?": true
+    },
+    {
+        "rating": 3,
+        "title": "Sling Blade",
+        "year": 1996,
+        "director": "Thornton",
+        "dateSeen": 42026,
+        "repeat?": false
+    },
+    {
+        "rating": 3,
+        "title": "Senna",
+        "year": 2010,
+        "director": "Kapadia",
+        "dateSeen": 42034,
+        "repeat?": false
+    },
+    {
+        "rating": 2,
+        "title": "Rush",
+        "year": 2013,
+        "director": "Howard",
+        "dateSeen": 42035,
+        "repeat?": false
+    },
+    {
+        "rating": 3,
+        "title": "In the Mood for Love",
+        "year": 2000,
+        "director": "Kar-wai",
+        "dateSeen": 42036,
+        "repeat?": false
+    },
+    {
+        "rating": 3,
+        "title": "Silence of the Lambs",
+        "year": 1991,
+        "director": "Demme",
+        "dateSeen": 42042,
+        "repeat?": true
+    },
+    {
+        "rating": 2,
+        "title": "Manhunter",
+        "year": 1986,
+        "director": "Mann",
+        "dateSeen": 42050,
+        "repeat?": false
+    },
+    {
+        "rating": 3,
+        "title": "What We Do in the Shadows",
+        "year": 2014,
+        "director": "Clment, Waititi",
+        "dateSeen": 42062,
+        "repeat?": false
+    },
+    {
+        "rating": 3,
+        "title": "Strangers on a Train",
+        "year": 1951,
+        "director": "Hitchcock",
+        "dateSeen": 42064,
+        "repeat?": true
+    },
+    {
+        "rating": 2,
+        "title": "Honeymoon",
+        "year": 2014,
+        "director": "Janiak",
+        "dateSeen": 42085,
+        "repeat?": false
+    },
+    {
+        "rating": 4,
+        "title": "Star Wars: Episode IV",
+        "year": 1977,
+        "director": "Lucas",
+        "dateSeen": 42098,
+        "repeat?": false
+    },
+    {
+        "rating": 2,
+        "title": "Star Wars: Episode V",
+        "year": 1980,
+        "director": "Kershner",
+        "dateSeen": 42098,
+        "repeat?": false
+    },
+    {
+        "rating": 2,
+        "title": "Star Wars: Episode VI",
+        "year": 1983,
+        "director": "Marquand",
+        "dateSeen": 42098,
+        "repeat?": false
+    },
+    {
+        "rating": 1,
+        "title": "Trading Places",
+        "year": 1983,
+        "director": "Landis",
+        "dateSeen": 42108,
+        "repeat?": false
+    },
+    {
+        "rating": 3,
+        "title": "Volver",
+        "year": 2006,
+        "director": "Almodovar",
+        "dateSeen": 42109,
+        "repeat?": false
+    },
+    {
+        "rating": 2,
+        "title": "Autumn Spring",
+        "year": 2001,
+        "director": "Michalek",
+        "dateSeen": 42110,
+        "repeat?": false
+    },
+    {
+        "rating": 2,
+        "title": "Marnie",
+        "year": 1964,
+        "director": "Hitchcock",
+        "dateSeen": 42125,
+        "repeat?": false
+    },
+    {
+        "rating": 3,
+        "title": "Jaws",
+        "year": 1975,
+        "director": "Spielberg",
+        "dateSeen": 42134,
+        "repeat?": false
+    },
+    {
+        "rating": 2,
+        "title": "50 Shades of Grey",
+        "year": 2015,
+        "director": "Taylor-Johnston",
+        "dateSeen": 42133,
+        "repeat?": false
+    },
+    {
+        "rating": 2,
+        "title": "Avengers: Age of Ultron",
+        "year": 2015,
+        "director": "Whedon",
+        "dateSeen": 42132,
+        "repeat?": false
+    },
+    {
+        "rating": 4,
+        "title": "Office Space",
+        "year": 1999,
+        "director": "Judge",
+        "dateSeen": 42146,
+        "repeat?": true
+    },
+    {
+        "rating": 4,
+        "title": "Catch Me If You Can",
+        "year": 2002,
+        "director": "Spielberg",
+        "dateSeen": 42147,
+        "repeat?": true
+    },
+    {
+        "rating": 3,
+        "title": "Superbad",
+        "year": 2007,
+        "director": "Mottola",
+        "dateSeen": 42148,
+        "repeat?": true
+    },
+    {
+        "rating": 2,
+        "title": "Seven Year Itch",
+        "year": 1955,
+        "director": "Wilder",
+        "dateSeen": 42151,
+        "repeat?": false
+    },
+    {
+        "rating": 2,
+        "title": "The Impostor",
+        "year": 2012,
+        "director": "Layton",
+        "dateSeen": 42159,
+        "repeat?": false
+    },
+    {
+        "rating": 5,
+        "title": "The Hunt",
+        "year": 2012,
+        "director": "Vinterberg",
+        "dateSeen": 42160,
+        "repeat?": true
+    },
+    {
+        "rating": 4,
+        "title": "Mad Max: Fury Road",
+        "year": 2015,
+        "director": "Miller",
+        "dateSeen": 42162,
+        "repeat?": false
+    },
+    {
+        "rating": 2,
+        "title": "Baahubali: The Beginning",
+        "year": 2015,
+        "director": "Rajamouli",
+        "dateSeen": 42210,
+        "repeat?": false
+    },
+    {
+        "rating": 4,
+        "title": "Kill Bill Vol. 1",
+        "year": 2003,
+        "director": "Tarantino",
+        "dateSeen": 42212,
+        "repeat?": true
+    },
+    {
+        "rating": 4,
+        "title": "Kill Bill Vol. 2",
+        "year": 2004,
+        "director": "Tarantino",
+        "dateSeen": 42213,
+        "repeat?": true
+    },
+    {
+        "rating": 4,
+        "title": "Shall We Dance?",
+        "year": 1996,
+        "director": "Suo",
+        "dateSeen": 42216,
+        "repeat?": false
+    },
+    {
+        "rating": 3,
+        "title": "La Dolce Vita",
+        "year": 1960,
+        "director": "Fellini",
+        "dateSeen": 42231,
+        "repeat?": false
+    },
+    {
+        "rating": 3,
+        "title": "Odd Man Out",
+        "year": 1947,
+        "director": "Reed",
+        "dateSeen": 42253,
+        "repeat?": false
+    },
+    {
+        "rating": 2,
+        "title": "Citizenfour",
+        "year": 2014,
+        "director": "Poitras",
+        "dateSeen": 42260,
+        "repeat?": false
+    },
+    {
+        "rating": 2,
+        "title": "Social Network",
+        "year": 2010,
+        "director": "Fincher",
+        "dateSeen": 42261,
+        "repeat?": true
+    },
+    {
+        "rating": 2,
+        "title": "Inside Job",
+        "year": 2010,
+        "director": "Ferguson",
+        "dateSeen": 42262,
+        "repeat?": false
+    },
+    {
+        "rating": 5,
+        "title": "Hurt Locker",
+        "year": 2008,
+        "director": "Bigelow",
+        "dateSeen": 42266,
+        "repeat?": true
+    },
+    {
+        "rating": 3,
+        "title": "300",
+        "year": 2006,
+        "director": "Snyder",
+        "dateSeen": "9/25/2015",
         "repeat?": true
     }
 ]
