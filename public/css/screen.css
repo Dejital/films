@@ -14,9 +14,6 @@ html {
   .content a:hover {
     color: #2288ee;
     border-bottom: 1px dotted #2288ee; }
-  .content a:visited {
-    color: #bb88ee;
-    border-bottom: 1px dotted #bb88ee; }
 
 table {
   width: 100%; }

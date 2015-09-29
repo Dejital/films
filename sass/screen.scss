@@ -22,10 +22,6 @@ html {
     color: $hyperlinkHover;
     border-bottom: 1px dotted $hyperlinkHover;
   }
-  a:visited {
-    color: $hyperlinkVisited;
-    border-bottom: 1px dotted $hyperlinkVisited;
-  }
 }
 table {
   width: 100%;
