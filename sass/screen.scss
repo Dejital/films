@@ -4,13 +4,10 @@ $hyperlink: #0066cc;
 $hyperlinkHover: #2288ee;
 $hyperlinkVisited: #bb88ee;
 
-html {
-  margin: 20px;
-}
 .content {
   max-width: 800px;
-  margin: 0 auto 50px;
-  padding: 0 2em;
+  margin: 0 auto;
+  padding: 0 1em;
   line-height: 1.6em;
   color: $body;
   a {
