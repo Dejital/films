@@ -16,6 +16,9 @@
             <p>I've kept a list of films I've seen since January 2009. The following is that list.</p>
         </header>
         <div class="films" ng-controller="FilmsController">
+            <form class="pure-form">
+                <input style="width: 100%;" ng-model="query" placeholder="Filter titles">
+            </form>
             <table class="pure-table pure-table-horizontal">
                 <thead>
                     <tr>
@@ -27,7 +30,7 @@
                     </tr>
                 </thead>
                 <tbody>
-                    <tr ng-repeat="film in films">
+                    <tr ng-repeat="film in films | filter:query">
                         <td>{{film.rating}}</td>
                         <td>{{film.title}}</td>
                         <td>{{film.year}}</td>
