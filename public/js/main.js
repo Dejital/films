@@ -20,7 +20,7 @@ module.exports = function($scope, $http) {
     $scope.order = function (predicate) {
         $scope.reverseSort = ($scope.predicate === predicate) ? !$scope.reverseSort : false;
         $scope.predicate = predicate;
-    }
+    };
 
     $http.get('data/data.json').success(function (data){
         $scope.films = data;
