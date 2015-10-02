@@ -12,5 +12,21 @@
     color: #2288ee;
     border-bottom: 1px dotted #2288ee; }
 
+a.selected {
+  color: #D41;
+  border-bottom: 1px dotted #D41; }
+
+a:hover.selected {
+  color: #ef6132;
+  border-bottom: 1px dotted #ef6132; }
+
+a.selectedReverse {
+  color: #7e270a;
+  border-bottom: 1px dotted #7e270a; }
+
+a:hover.selectedReverse {
+  color: #ae350d;
+  border-bottom: 1px dotted #ae350d; }
+
 table {
   width: 100%; }

@@ -3,6 +3,7 @@ $body: #444;
 $hyperlink: #0066cc;
 $hyperlinkHover: #2288ee;
 $hyperlinkVisited: #bb88ee;
+$accentColor: #D41;
 
 .content {
   max-width: 800px;
@@ -20,6 +21,28 @@ $hyperlinkVisited: #bb88ee;
     border-bottom: 1px dotted $hyperlinkHover;
   }
 }
+
+a.selected {
+  $color: $accentColor;
+  color: $color;
+  border-bottom: 1px dotted $color;
+}
+a:hover.selected {
+  $color: lighten($accentColor, 10%);
+  color: $color;
+  border-bottom: 1px dotted $color;
+}
+a.selectedReverse {
+  $color: darken($accentColor, 20%);
+  color: $color;
+  border-bottom: 1px dotted $color;
+}
+a:hover.selectedReverse {
+  $color: darken($accentColor, 10%);
+  color: $color;
+  border-bottom: 1px dotted $color;
+}
+
 table {
   width: 100%;
 }

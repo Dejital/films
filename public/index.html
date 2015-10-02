@@ -22,15 +22,40 @@
             <table class="pure-table pure-table-horizontal">
                 <thead>
                     <tr>
-                        <th>Rating</th>
-                        <th>Title</th>
-                        <th>Year</th>
-                        <th>Director</th>
-                        <th>Date Seen</th>
+                        <th>
+                            <a href="" ng-click="order('rating')"
+                               ng-class="{selected: predicate==='rating', selectedReverse: predicate==='rating' && reverseSort}">
+                                Rating
+                            </a>
+                        </th>
+                        <th>
+                            <a href="" ng-click="order('title')"
+                               ng-class="{selected: predicate==='title', selectedReverse: predicate==='title' && reverseSort}">
+                                Title
+                            </a>
+                        </th>
+                        <th>
+                            <a href="" ng-click="order('year')"
+                               ng-class="{selected: predicate==='year', selectedReverse: predicate==='year' && reverseSort}">
+                                Year
+                            </a>
+                        </th>
+                        <th>
+                            <a href="" ng-click="order('director')"
+                               ng-class="{selected: predicate==='director', selectedReverse: predicate==='director' && reverseSort}">
+                                Director
+                            </a>
+                        </th>
+                        <th>
+                            <a href="" ng-click="order('dateSeen')"
+                               ng-class="{selected: predicate==='dateSeen', selectedReverse: predicate==='dateSeen' && reverseSort}">
+                                Date Seen
+                            </a>
+                        </th>
                     </tr>
                 </thead>
                 <tbody>
-                    <tr ng-repeat="film in films | filter:query">
+                    <tr ng-repeat="film in films | filter:query | orderBy:predicate:reverseSort">
                         <td>{{film.rating}}</td>
                         <td>{{film.title}}</td>
                         <td>{{film.year}}</td>
