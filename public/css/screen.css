@@ -12,6 +12,12 @@
     color: #2288ee;
     border-bottom: 1px dotted #2288ee; }
 
+a.logo {
+  border-bottom: 0px; }
+
+a:hover.logo {
+  border-bottom: 0px; }
+
 a.selected {
   color: #D41;
   border-bottom: 1px dotted #D41; }
