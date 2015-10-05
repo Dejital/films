@@ -44,7 +44,8 @@ td.score4 {
 td.score5 {
   text-align: center;
   background-color: #FDC131;
-  color: #480000; }
+  color: #480000;
+  font-weight: bold; }
 
 .arrow {
   color: grey;
