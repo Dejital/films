@@ -4,6 +4,12 @@ $hyperlink: #0066cc;
 $hyperlinkHover: #2288ee;
 $hyperlinkVisited: #bb88ee;
 $accentColor: #D41;
+$scoreColor1: #FFD5D8;
+$scoreColor2: #FFF6CD;
+$scoreColor3: #D9EACA;
+$scoreColor4: #BCDDA1;
+$scoreColor5: #FDC131;
+$scoreColor5Foreground: #480000;
 
 .content {
   max-width: 800px;
@@ -52,4 +58,30 @@ a:hover.selectedReverse {
 
 table {
   width: 100%;
+}
+
+td.score1 {
+  text-align: center;
+  background-color: $scoreColor1;
+  color: black;
+}
+td.score2 {
+  text-align: center;
+  background-color: $scoreColor2;
+  color: black;
+}
+td.score3 {
+  text-align: center;
+  background-color: $scoreColor3;
+  color: black;
+}
+td.score4 {
+  text-align: center;
+  background-color: $scoreColor4;
+  color: black;
+}
+td.score5 {
+  text-align: center;
+  background-color: $scoreColor5;
+  color: $scoreColor5Foreground;
 }

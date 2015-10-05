@@ -20,7 +20,7 @@
             <form class="pure-form">
                 <input style="width: 100%;" ng-model="query" placeholder="Type to filter">
             </form>
-            <table class="pure-table pure-table-horizontal">
+            <table class="pure-table pure-table-bordered">
                 <thead>
                     <tr>
                         <th>
@@ -57,7 +57,12 @@
                 </thead>
                 <tbody>
                     <tr ng-repeat="film in films | filter:query | orderBy:predicate:reverseSort">
-                        <td>{{film.rating}}</td>
+                        <td ng-class="{'score1': film.rating == '1',
+                                       'score2': film.rating == '2',
+                                       'score3': film.rating == '3',
+                                       'score4': film.rating == '4',
+                                       'score5': film.rating == '5' }">
+                            {{film.rating}}</td>
                         <td>{{film.title}}</td>
                         <td>{{film.year}}</td>
                         <td>{{film.director}}</td>
