@@ -35,27 +35,6 @@ a:hover.logo {
   border-bottom: 0px;
 }
 
-a.selected {
-  $color: $accentColor;
-  color: $color;
-  border-bottom: 1px dotted $color;
-}
-a:hover.selected {
-  $color: lighten($accentColor, 10%);
-  color: $color;
-  border-bottom: 1px dotted $color;
-}
-a.selectedReverse {
-  $color: darken($accentColor, 20%);
-  color: $color;
-  border-bottom: 1px dotted $color;
-}
-a:hover.selectedReverse {
-  $color: darken($accentColor, 10%);
-  color: $color;
-  border-bottom: 1px dotted $color;
-}
-
 table {
   width: 100%;
 }
@@ -84,4 +63,9 @@ td.score5 {
   text-align: center;
   background-color: $scoreColor5;
   color: $scoreColor5Foreground;
+}
+
+.arrow {
+  color: grey;
+  font-size: small;
 }

@@ -24,34 +24,39 @@
                 <thead>
                     <tr>
                         <th>
-                            <a href="" ng-click="order('rating')"
-                               ng-class="{selected: predicate==='rating', selectedReverse: predicate==='rating' && reverseSort}">
+                            <a href="" ng-click="order('rating')">
                                 Rating
                             </a>
+                            <span class="arrow arrow-down" ng-show="predicate === 'rating' && !reverseSort">&#x25BC;</span>
+                            <span class="arrow arrow-up" ng-show="predicate === 'rating' && reverseSort">&#x25B2;</span>
                         </th>
                         <th>
-                            <a href="" ng-click="order('title')"
-                               ng-class="{selected: predicate==='title', selectedReverse: predicate==='title' && reverseSort}">
+                            <a href="" ng-click="order('title')">
                                 Title
                             </a>
+                            <span class="arrow arrow-down" ng-show="predicate === 'title' && !reverseSort">&#x25BC;</span>
+                            <span class="arrow arrow-up" ng-show="predicate === 'title' && reverseSort">&#x25B2;</span>
                         </th>
                         <th>
-                            <a href="" ng-click="order('year')"
-                               ng-class="{selected: predicate==='year', selectedReverse: predicate==='year' && reverseSort}">
+                            <a href="" ng-click="order('year')">
                                 Year
                             </a>
+                            <span class="arrow arrow-down" ng-show="predicate === 'year' && !reverseSort">&#x25BC;</span>
+                            <span class="arrow arrow-up" ng-show="predicate === 'year' && reverseSort">&#x25B2;</span>
                         </th>
                         <th>
-                            <a href="" ng-click="order('director')"
-                               ng-class="{selected: predicate==='director', selectedReverse: predicate==='director' && reverseSort}">
+                            <a href="" ng-click="order('director')">
                                 Director
                             </a>
+                            <span class="arrow arrow-down" ng-show="predicate === 'director' && !reverseSort">&#x25BC;</span>
+                            <span class="arrow arrow-up" ng-show="predicate === 'director' && reverseSort">&#x25B2;</span>
                         </th>
                         <th>
-                            <a href="" ng-click="order('dateSeen')"
-                               ng-class="{selected: predicate==='dateSeen', selectedReverse: predicate==='dateSeen' && reverseSort}">
+                            <a href="" ng-click="order('dateSeen')">
                                 Date Seen
                             </a>
+                            <span class="arrow arrow-down" ng-show="predicate === 'dateSeen' && !reverseSort">&#x25BC;</span>
+                            <span class="arrow arrow-up" ng-show="predicate === 'dateSeen' && reverseSort">&#x25B2;</span>
                         </th>
                     </tr>
                 </thead>
