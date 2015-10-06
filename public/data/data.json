@@ -5008,5 +5008,53 @@
         "director": "Snyder",
         "dateSeen": "9/25/2015",
         "repeat?": true
+    },
+    {
+        "rating": "2",
+        "title": "Life of Pi",
+        "year": "2012",
+        "director": "Lee",
+        "dateSeen": "9/25/2015",
+        "repeat?": false
+    },
+    {
+        "rating": "3",
+        "title": "Casino Royale",
+        "year": "2006",
+        "director": "Campbell",
+        "dateSeen": "9/26/2015",
+        "repeat?": true
+    },
+    {
+        "rating": "2",
+        "title": "Wild",
+        "year": "2014",
+        "director": "Vallée",
+        "dateSeen": "9/28/2015",
+        "repeat?": false
+    },
+    {
+        "rating": "3",
+        "title": "Harry Potter: Chamber of Secrets",
+        "year": "2002",
+        "director": "Columbus",
+        "dateSeen": "9/29/2015",
+        "repeat?": false
+    },
+    {
+        "rating": "5",
+        "title": "The Departed",
+        "year": "2006",
+        "director": "Scorcese",
+        "dateSeen": "10/2/2015",
+        "repeat?": true
+    },
+    {
+        "rating": "2",
+        "title": "Mickey Blue Eyes",
+        "year": "1999",
+        "director": "Makin",
+        "dateSeen": "10/3/2015",
+        "repeat?": false
     }
 ]
