@@ -5056,5 +5056,40 @@
         "director": "Makin",
         "dateSeen": "10/3/2015",
         "repeat?": false
+    },
+    {
+        "rating": "3",
+        "title": "Red Dog",
+        "year": "2011",
+        "director": "Stenders",
+        "dateSeen": "10/15/2015",
+        "repeat?": false
+    },
+    {
+        "rating": "3",
+        "title": "Locke",
+        "year": "2013",
+        "director": "Knight",
+        "dateSeen": "10/24/2015",
+        "repeat?": false,
+        "imdb": "tt2692904"
+    },
+    {
+        "rating": "2",
+        "title": "Martian",
+        "year": "2015",
+        "director": "Scott",
+        "dateSeen": "10/30/2015",
+        "repeat?": false,
+        "imdb": "tt3659388"
+    },
+    {
+        "rating": "2",
+        "title": "From Dusk till Dawn",
+        "year": "1996",
+        "director": "Rodriguez",
+        "dateSeen": "10/31/2015",
+        "repeat?": false,
+        "imdb": "tt0116367"
     }
 ]
