@@ -5091,5 +5091,41 @@
         "dateSeen": "10/31/2015",
         "repeat?": false,
         "imdb": "tt0116367"
+    },
+    {
+        "rating": "2",
+        "title": "Philomena",
+        "year": "2013",
+        "director": "Frears",
+        "dateSeen": "11/1/2015",
+        "repeat?": false,
+        "imdb": "tt2431286"
+    },
+    {
+        "rating": "3",
+        "title": "Addams Family",
+        "year": "1991",
+        "director": "Sonnenfeld",
+        "dateSeen": "11/4/2015",
+        "repeat?": false,
+        "imdb": "tt0101272"
+    },
+    {
+        "rating": "3",
+        "title": "Spectre",
+        "year": "2015",
+        "director": "Mendes",
+        "dateSeen": "11/6/2015",
+        "repeat?": false,
+        "imdb": "tt2379713"
+    },
+    {
+        "rating": "4",
+        "title": "Ex Machina",
+        "year": "2015",
+        "director": "Garland",
+        "dateSeen": "11/8/2015",
+        "repeat?": false,
+        "imdb": "tt0470752"
     }
 ]
