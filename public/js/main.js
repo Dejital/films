@@ -4,33 +4,50 @@
  */
 
 require('angular');
-var FilmsController = require('./controllers/FilmsController');
+var filmDataService = require('./services/FilmDataService');
+var filmsController = require('./controllers/FilmsController');
 
 var app = angular.module('app', []);
-app.controller('FilmsController', ['$scope', '$http', FilmsController]);
+app.factory('FilmDataService', ['$http', filmDataService]);
+app.controller('FilmsController', ['$scope', '$http', 'FilmDataService', filmsController]);
 
-},{"./controllers/FilmsController":2,"angular":4}],2:[function(require,module,exports){
+},{"./controllers/FilmsController":2,"./services/FilmDataService":3,"angular":5}],2:[function(require,module,exports){
 /**
  * Created by Serge on 9/22/15.
  */
 
-module.exports = function($scope, $http) {
-    $scope.reverseSort = true;
-    $scope.predicate = null;
-    $scope.order = function (predicate) {
-        $scope.reverseSort = ($scope.predicate === predicate) ? !$scope.reverseSort : false;
-        $scope.predicate = predicate;
-    };
+module.exports = function($scope, $http, filmDataService) {
+  $scope.films = [];
+  $scope.reverseSort = true;
+  $scope.predicate = null;
+  $scope.order = function (predicate) {
+    $scope.reverseSort = ($scope.predicate === predicate) ? !$scope.reverseSort : false;
+    $scope.predicate = predicate;
+  };
 
-    $http.get('data/data.json').success(function (data){
-        $scope.films = data;
-        angular.forEach($scope.films, function(film) {
-            film.dateSeen = new Date(film.dateSeen);
-        });
+  filmDataService.getFilms().then(function(data){
+    angular.forEach(data, function(film){
+        film.dateSeen = new Date(film.dateSeen);
+        $scope.films.push(film);
     });
+  });
 };
 
 },{}],3:[function(require,module,exports){
+/**
+ * Created by Serge on 11/9/15.
+ */
+
+module.exports = function($http) {
+  var getFilms = function() {
+    return $http.get('data/data.json').then(function(response) {
+      return response.data;
+    });
+  };
+  return { getFilms: getFilms };
+};
+
+},{}],4:[function(require,module,exports){
 /**
  * @license AngularJS v1.4.6
  * (c) 2010-2015 Google, Inc. http://angularjs.org
@@ -28857,8 +28874,8 @@ $provide.value("$locale", {
 })(window, document);
 
 !window.angular.$$csp().noInlineStyle && window.angular.element(document.head).prepend('<style type="text/css">@charset "UTF-8";[ng\\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide:not(.ng-hide-animate){display:none !important;}ng\\:form{display:block;}.ng-animate-shim{visibility:hidden;}.ng-anchor{position:absolute;}</style>');
-},{}],4:[function(require,module,exports){
+},{}],5:[function(require,module,exports){
 require('./angular');
 module.exports = angular;
 
-},{"./angular":3}]},{},[1]);
+},{"./angular":4}]},{},[1]);

@@ -3,7 +3,9 @@
  */
 
 require('angular');
-var FilmsController = require('./controllers/FilmsController');
+var filmDataService = require('./services/FilmDataService');
+var filmsController = require('./controllers/FilmsController');
 
 var app = angular.module('app', []);
-app.controller('FilmsController', ['$scope', '$http', FilmsController]);
+app.factory('FilmDataService', ['$http', filmDataService]);
+app.controller('FilmsController', ['$scope', '$http', 'FilmDataService', filmsController]);
