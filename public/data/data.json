@@ -635,7 +635,7 @@
     },
     {
         "rating": "5",
-        "title": "Inglorious Basterds",
+        "title": "Inglourious Basterds",
         "year": "2009",
         "director": "Tarantino",
         "dateSeen": "8/10/2009",
@@ -1598,7 +1598,7 @@
     },
     {
         "rating": "5",
-        "title": "Inglorious Basterds",
+        "title": "Inglourious Basterds",
         "year": "2009",
         "director": "Tarantino",
         "dateSeen": "3/7/2010",
@@ -5154,5 +5154,41 @@
         "dateSeen": "11/14/2015",
         "repeat?": false,
         "imdb": "tt1638355"
+    },
+    {
+        "rating": "3",
+        "title": "Trainwreck",
+        "year": "2015",
+        "director": "Apatow",
+        "dateSeen": "11/21/2015",
+        "repeat?": false,
+        "imdb": "tt3152624"
+    },
+    {
+        "rating": "4",
+        "title": "Casablanca",
+        "year": "1942",
+        "director": "Curtiz",
+        "dateSeen": "12/1/2015",
+        "repeat?": true,
+        "imdb": "tt0034583"
+    },
+    {
+        "rating": "4",
+        "title": "Inglourious Basterds",
+        "year": "2009",
+        "director": "Tarantino",
+        "dateSeen": "12/5/2015",
+        "repeat?": true,
+        "imdb": "tt0361748"
+    },
+    {
+        "rating": "4",
+        "title": "Singin' in the Rain",
+        "year": "1952",
+        "director": "Donen, Kelly",
+        "dateSeen": "12/6/2015",
+        "repeat?": true,
+        "imdb": "tt0045152"
     }
 ]
