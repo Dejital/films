@@ -5190,5 +5190,23 @@
         "dateSeen": "12/6/2015",
         "repeat?": true,
         "imdb": "tt0045152"
+    },
+    {
+        "rating": "3",
+        "title": "Zero Dark Thirty",
+        "year": "2012",
+        "director": "Bigelow",
+        "dateSeen": "12/12/2015",
+        "repeat?": true,
+        "imdb": "tt1790885"
+    },
+    {
+        "rating": "3",
+        "title": "A Most Violent Year",
+        "year": "2014",
+        "director": "Chandor",
+        "dateSeen": "12/13/2015",
+        "repeat?": false,
+        "imdb": "tt2937898"
     }
 ]
