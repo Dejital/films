@@ -5208,5 +5208,32 @@
         "dateSeen": "12/13/2015",
         "repeat?": false,
         "imdb": "tt2937898"
+    },
+    {
+        "rating": "3",
+        "title": "Miracle on 34th Street",
+        "year": "1947",
+        "director": "Seaton",
+        "dateSeen": "12/18/2015",
+        "repeat?": false,
+        "imdb": "tt0039628"
+    },
+    {
+        "rating": "3",
+        "title": "Home Alone",
+        "year": "1990",
+        "director": "Columbus",
+        "dateSeen": "12/19/2015",
+        "repeat?": false,
+        "imdb": "tt0099785"
+    },
+    {
+        "rating": "1",
+        "title": "Blind Date",
+        "year": "1987",
+        "director": "Edwards",
+        "dateSeen": "12/20/2015",
+        "repeat?": false,
+        "imdb": "tt0092666"
     }
 ]
