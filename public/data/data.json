@@ -5235,5 +5235,23 @@
         "dateSeen": "12/20/2015",
         "repeat?": false,
         "imdb": "tt0092666"
+    },
+    {
+        "rating": "3",
+        "title": "Murder on the Orient Express",
+        "year": "1974",
+        "director": "Lumet",
+        "dateSeen": "12/21/2015",
+        "repeat?": false,
+        "imdb": "tt0071877"
+    },
+    {
+        "rating": "3",
+        "title": "Kidnapping, Caucasian Style",
+        "year": "1967",
+        "director": "Gayday",
+        "dateSeen": "12/22/2015",
+        "repeat?": false,
+        "imdb": "tt0060584"
     }
 ]
