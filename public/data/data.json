@@ -5253,5 +5253,23 @@
         "dateSeen": "12/22/2015",
         "repeat?": false,
         "imdb": "tt0060584"
+    },
+    {
+        "rating": "3",
+        "title": "Star Wars: The Force Awakens",
+        "year": "2015",
+        "director": "Abrams",
+        "dateSeen": "12/25/2015",
+        "repeat?": false,
+        "imdb": "tt2488496"
+    },
+    {
+        "rating": "5",
+        "title": "Seven Samurai",
+        "year": "1954",
+        "director": "Kurosawa",
+        "dateSeen": "12/26/2015",
+        "repeat?": true,
+        "imdb": "tt0047478"
     }
 ]
