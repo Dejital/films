@@ -5271,5 +5271,75 @@
         "dateSeen": "12/26/2015",
         "repeat?": true,
         "imdb": "tt0047478"
+    },
+    {
+        "rating": "3",
+        "title": "Premam",
+        "year": "2015",
+        "director": "Puthren",
+        "dateSeen": "1/2/2016",
+        "repeat?": false,
+        "imdb": "tt4679210",
+        "country": "India"
+    },
+    {
+        "rating": "4",
+        "title": "The Revenant",
+        "year": "2015",
+        "director": "Inarritu",
+        "dateSeen": "1/8/2016",
+        "repeat?": false,
+        "imdb": "tt1663202",
+        "country": "USA"
+    },
+    {
+        "rating": "2",
+        "title": "The Big Short",
+        "year": "2015",
+        "director": "McKay",
+        "dateSeen": "1/11/2016",
+        "repeat?": false,
+        "imdb": "tt1596363",
+        "country": "USA"
+    },
+    {
+        "rating": "5",
+        "title": "Stalker",
+        "year": "1979",
+        "director": "Tarkovsky",
+        "dateSeen": "1/16/2016",
+        "repeat?": true,
+        "imdb": "tt0079944",
+        "country": "Russia"
+    },
+    {
+        "rating": "3",
+        "title": "Full Metal Jacket",
+        "year": "1987",
+        "director": "Kubrick",
+        "dateSeen": "2/9/2016",
+        "repeat?": true,
+        "imdb": "tt0093058",
+        "country": "USA"
+    },
+    {
+        "rating": "3",
+        "title": "Dr. Strangelove",
+        "year": "1964",
+        "director": "Kubrick",
+        "dateSeen": "2/10/2016",
+        "repeat?": true,
+        "imdb": "tt0057012",
+        "country": "USA"
+    },
+    {
+        "rating": "3",
+        "title": "Adaptation",
+        "year": "2002",
+        "director": "Jonze",
+        "dateSeen": "2/19/2016",
+        "repeat?": true,
+        "imdb": "tt0268126",
+        "country": "USA"
     }
 ]
