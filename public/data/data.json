@@ -5366,5 +5366,35 @@
         "repeat?": false,
         "imdb": "tt3682448",
         "country": "USA"
+    },
+    {
+        "rating": "2",
+        "title": "The Room",
+        "year": "2015",
+        "director": "Abrahamson",
+        "dateSeen": "3/17/2016",
+        "repeat?": false,
+        "imdb": "tt3170832",
+        "country": "USA"
+    },
+    {
+        "rating": "2",
+        "title": "Trumbo",
+        "year": "2015",
+        "director": "Roach",
+        "dateSeen": "3/19/2016",
+        "repeat?": false,
+        "imdb": "tt3203606",
+        "country": "USA"
+    },
+    {
+        "rating": "4",
+        "title": "Le Trou",
+        "year": "1960",
+        "director": "Becker",
+        "dateSeen": "3/20/2016",
+        "repeat?": false,
+        "imdb": "tt0054407",
+        "country": "France"
     }
 ]
