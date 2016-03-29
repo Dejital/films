@@ -5396,5 +5396,25 @@
         "repeat?": false,
         "imdb": "tt0054407",
         "country": "France"
+    },
+    {
+        "rating": "4",
+        "title": "Harakiri",
+        "year": "1962",
+        "director": "Kobayashi",
+        "dateSeen": "3/26/2016",
+        "repeat?": false,
+        "imdb": "tt0056058",
+        "country": "Japan"
+    },
+    {
+        "rating": "2",
+        "title": "Spotlight",
+        "year": "2015",
+        "director": "McCarthy",
+        "dateSeen": "3/27/2016",
+        "repeat?": false,
+        "imdb": "tt1895587",
+        "country": "USA"
     }
 ]
