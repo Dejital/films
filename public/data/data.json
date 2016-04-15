@@ -5416,5 +5416,25 @@
         "repeat?": false,
         "imdb": "tt1895587",
         "country": "USA"
+    },
+    {
+        "rating": "2",
+        "title": "Deadpool",
+        "year": "2016",
+        "director": "Miller",
+        "dateSeen": "4/1/2016",
+        "repeat?": false,
+        "imdb": "tt1431045",
+        "country": "USA"
+    },
+    {
+        "rating": "5",
+        "title": "Before Sunrise",
+        "year": "1995",
+        "director": "Linklater",
+        "dateSeen": "4/14/2016",
+        "repeat?": true,
+        "imdb": "tt0112471",
+        "country": "USA"
     }
 ]
