@@ -5601,6 +5601,14 @@
         "imdb": "tt1905040"
     },
     {
+        "rating": "2",
+        "title": "Jack Reacher",
+        "year": "2012",
+        "director": "McQuarrie",
+        "dateSeen": "6/22/2016",
+        "repeat?": false
+    },
+    {
         "rating": "4",
         "title": "Rear Window",
         "year": "1954",
@@ -5620,6 +5628,16 @@
         "imdb": "tt4094724"
     },
     {
+        "rating": "3",
+        "title": "It Happened One Night",
+        "year": "1934",
+        "director": "Capra",
+        "dateSeen": "7/9/2016",
+        "repeat?": false,
+        "imdb": "tt0025316",
+        "country": "USA"
+    },
+    {
         "rating": "5",
         "title": "Dheepan",
         "year": "2015",
@@ -5628,5 +5646,25 @@
         "repeat?": false,
         "imdb": "tt4082068",
         "country": "France"
+    },
+    {
+        "rating": "4",
+        "title": "Touch of Evil",
+        "year": "1958",
+        "director": "Welles",
+        "dateSeen": "7/11/2016",
+        "repeat?": false,
+        "imdb": "tt0052311",
+        "country": "USA"
+    },
+    {
+        "rating": "4",
+        "title": "Ladri di biciclette",
+        "year": "1948",
+        "director": "De Sica",
+        "dateSeen": "7/12/2016",
+        "repeat?": false,
+        "imdb": "tt0040522",
+        "country": "Italy"
     }
 ]
