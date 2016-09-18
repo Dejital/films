@@ -5778,5 +5778,13 @@
         "director": "Gordon",
         "dateSeen": "9/2/2016",
         "repeat?": false
+    },
+    {
+        "rating": "3",
+        "title": "Splendor in the Grass",
+        "year": "1961",
+        "director": "Kazan",
+        "dateSeen": "9/13/2016",
+        "repeat?": false
     }
 ]
