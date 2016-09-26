@@ -5796,5 +5796,14 @@
         "repeat?": false,
         "imdb": "tt1032846",
         "country": "Romania"
+    },
+    {
+        "rating": "2",
+        "title": "Let the Right One In",
+        "year": "2008",
+        "director": "Alfredson",
+        "dateSeen": "9/23/2016",
+        "repeat?": false,
+        "country": "Sweden"
     }
 ]
