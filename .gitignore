@@ -1,3 +1,6 @@
+# Repo specific
+update-data.sh
+
 # Logs
 logs
 *.log

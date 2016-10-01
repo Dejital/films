@@ -5805,5 +5805,29 @@
         "dateSeen": "9/23/2016",
         "repeat?": false,
         "country": "Sweden"
+    },
+    {
+        "rating": "2",
+        "title": "Don't Breathe",
+        "year": "2016",
+        "director": "Alvarez",
+        "dateSeen": "9/29/2016",
+        "repeat?": false
+    },
+    {
+        "rating": "2",
+        "title": "City 40",
+        "year": "2016",
+        "director": "Goetschel",
+        "dateSeen": "9/30/2016",
+        "repeat?": false
+    },
+    {
+        "rating": "3",
+        "title": "The Girl with the Dragon Tattoo",
+        "year": "2011",
+        "director": "Fincher",
+        "dateSeen": "9/30/2016",
+        "repeat?": false
     }
 ]
