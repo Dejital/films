@@ -5829,5 +5829,13 @@
         "director": "Fincher",
         "dateSeen": "9/30/2016",
         "repeat?": false
+    },
+    {
+        "rating": "5",
+        "title": "Before Sunset",
+        "year": "2004",
+        "director": "Linklater",
+        "dateSeen": "10/3/2016",
+        "repeat?": true
     }
 ]
