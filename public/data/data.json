@@ -5845,5 +5845,13 @@
         "director": "Dowdle",
         "dateSeen": "10/4/2016",
         "repeat?": false
+    },
+    {
+        "rating": "4",
+        "title": "Dial M for Murder",
+        "year": "1954",
+        "director": "Hitchcock",
+        "dateSeen": "10/6/2016",
+        "repeat?": false
     }
 ]
