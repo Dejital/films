@@ -5878,5 +5878,37 @@
         "dateSeen": "10/16/2016",
         "repeat?": false,
         "country": "India"
+    },
+    {
+        "rating": "5",
+        "title": "Lord of the Rings: Fellowship of the Ring",
+        "year": "2001",
+        "director": "Jackson",
+        "dateSeen": "10/21/2016",
+        "repeat?": true
+    },
+    {
+        "rating": "3",
+        "title": "Lord of the Rings: The Two Towers",
+        "year": "2002",
+        "director": "Jackson",
+        "dateSeen": "10/22/2016",
+        "repeat?": true
+    },
+    {
+        "rating": "4",
+        "title": "Lord of the Rings: Return of the King",
+        "year": "2003",
+        "director": "Jackson",
+        "dateSeen": "10/23/2016",
+        "repeat?": true
+    },
+    {
+        "rating": "4",
+        "title": "Rope",
+        "year": "1948",
+        "director": "Hitchcock",
+        "dateSeen": "10/29/2016",
+        "repeat?": true
     }
 ]
