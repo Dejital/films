@@ -5910,5 +5910,21 @@
         "director": "Hitchcock",
         "dateSeen": "10/29/2016",
         "repeat?": true
+    },
+    {
+        "rating": "3",
+        "title": "Match Point",
+        "year": "2005",
+        "director": "Allen",
+        "dateSeen": "10/30/2016",
+        "repeat?": false
+    },
+    {
+        "rating": "2",
+        "title": "Se7en",
+        "year": "1995",
+        "director": "Fincher",
+        "dateSeen": "10/31/2016",
+        "repeat?": false
     }
 ]
