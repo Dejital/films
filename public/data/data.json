@@ -5926,5 +5926,45 @@
         "director": "Fincher",
         "dateSeen": "10/31/2016",
         "repeat?": false
+    },
+    {
+        "rating": "4",
+        "title": "Before Midnight",
+        "year": "2013",
+        "director": "Linklater",
+        "dateSeen": "11/1/2016",
+        "repeat?": true
+    },
+    {
+        "rating": "2",
+        "title": "The Shining",
+        "year": "1980",
+        "director": "Kubrick",
+        "dateSeen": "11/4/2016",
+        "repeat?": true
+    },
+    {
+        "rating": "4",
+        "title": "Rushmore",
+        "year": "1998",
+        "director": "Wes Anderson",
+        "dateSeen": "11/7/2016",
+        "repeat?": true
+    },
+    {
+        "rating": "3",
+        "title": "One, Two, Three",
+        "year": "1961",
+        "director": "Wilder",
+        "dateSeen": "11/10/2016",
+        "repeat?": false
+    },
+    {
+        "rating": "2",
+        "title": "Imperium",
+        "year": "2016",
+        "director": "Ragussis",
+        "dateSeen": "11/12/2016",
+        "repeat?": false
     }
 ]
