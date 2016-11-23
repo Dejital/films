@@ -5966,5 +5966,29 @@
         "director": "Ragussis",
         "dateSeen": "11/12/2016",
         "repeat?": false
+    },
+    {
+        "rating": "3",
+        "title": "From Russia with Love",
+        "year": "1963",
+        "director": "Young",
+        "dateSeen": "11/19/2016",
+        "repeat?": false
+    },
+    {
+        "rating": "1",
+        "title": "Goldfinger",
+        "year": "1964",
+        "director": "Hamilton",
+        "dateSeen": "11/19/2016",
+        "repeat?": false
+    },
+    {
+        "rating": "2",
+        "title": "Goldeneye",
+        "year": "1995",
+        "director": "Campbell",
+        "dateSeen": "11/20/2016",
+        "repeat?": false
     }
 ]
