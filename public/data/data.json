@@ -5990,5 +5990,13 @@
         "director": "Campbell",
         "dateSeen": "11/20/2016",
         "repeat?": false
+    },
+    {
+        "rating": "5",
+        "title": "Pulp Fiction",
+        "year": "1994",
+        "director": "Tarantino",
+        "dateSeen": "11/23/2016",
+        "repeat?": true
     }
 ]
