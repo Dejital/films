@@ -12,6 +12,18 @@
     color: #2288ee;
     border-bottom: 1px dotted #2288ee; }
 
+@media (max-width: 580px) {
+  .pure-table {
+    font-size: 75%;
+  }
+}
+
+@media (max-width: 480px) {
+  .pure-table {
+    font-size: 60%;
+  }
+}
+
 a.logo {
   border-bottom: 0px; }
 
