@@ -1,5 +1,5 @@
 .content {
-  max-width: 800px;
+  max-width: 1200px;
   margin: 0 auto;
   padding: 0 1em;
   line-height: 1.6em;
@@ -62,3 +62,14 @@ td.score5 {
 .arrow {
   color: grey;
   font-size: small; }
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+.logo img {
+  height: 24px;
+  display: inline;
+}
