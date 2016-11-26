@@ -14,58 +14,50 @@
 
 @media (max-width: 1000px) {
   .pure-table {
-    font-size: 90%;
-  }
-}
+    font-size: 90%; } }
+@media (max-width: 580px) {
+  .pure-table {
+    font-size: 75%; } }
+@media (max-width: 480px) {
+  .pure-table {
+    font-size: 60%; } }
+@media (max-width: 580px) {
+  .pure-table td, .pure-table th {
+    padding: .3em .8em; } }
+@media (max-width: 480px) {
+  .pure-table td, .pure-table th {
+    padding: .1em .6em; } }
 
 @media (max-width: 768px) {
   #film-images {
-    display: none;
-  }
-}
-
-@media (max-width: 580px) {
-  .pure-table {
-    font-size: 75%;
-  }
-}
-
-@media (max-width: 480px) {
-  .pure-table {
-    font-size: 60%;
-  }
-}
+    display: none; } }
 
 a.logo {
-  border-bottom: 0px; }
+  border-bottom: 0; }
 
 a:hover.logo {
-  border-bottom: 0px; }
+  border-bottom: 0; }
 
 table {
   width: 100%; }
 
-td.score1 {
+td .score1 {
   text-align: center;
   background-color: #FFD5D8;
   color: black; }
-
-td.score2 {
+td .score2 {
   text-align: center;
   background-color: #FFF6CD;
   color: black; }
-
-td.score3 {
+td .score3 {
   text-align: center;
   background-color: #D9EACA;
   color: black; }
-
-td.score4 {
+td .score4 {
   text-align: center;
   background-color: #BCDDA1;
   color: black; }
-
-td.score5 {
+td .score5 {
   text-align: center;
   background-color: #FDC131;
   color: #480000;
@@ -78,10 +70,8 @@ td.score5 {
 img {
   max-width: 100%;
   height: auto;
-  display: block;
-}
+  display: block; }
 
 .logo img {
   height: 24px;
-  display: inline;
-}
+  display: inline; }
