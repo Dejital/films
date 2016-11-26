@@ -12,6 +12,18 @@
     color: #2288ee;
     border-bottom: 1px dotted #2288ee; }
 
+@media (max-width: 1000px) {
+  .pure-table {
+    font-size: 90%;
+  }
+}
+
+@media (max-width: 768px) {
+  #film-images {
+    display: none;
+  }
+}
+
 @media (max-width: 580px) {
   .pure-table {
     font-size: 75%;
