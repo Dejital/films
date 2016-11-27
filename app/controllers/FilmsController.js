@@ -11,10 +11,9 @@ module.exports = function($scope, $http, filmDataService) {
     $scope.predicate = predicate;
   };
 
-  filmDataService.getFilms().then(function(data){
-    angular.forEach(data, function(film){
-        film.dateSeen = new Date(film.dateSeen);
-        $scope.films.push(film);
-    });
+  var data = filmDataService.getFilms();
+  angular.forEach(data, function(film){
+      film.dateSeen = new Date(film.dateSeen);
+      $scope.films.push(film);
   });
 };

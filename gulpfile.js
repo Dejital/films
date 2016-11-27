@@ -6,7 +6,9 @@ var gulp = require('gulp');
 var sass = require('gulp-ruby-sass');
 var connect = require('gulp-connect');
 var browserify = require('browserify');
+var uglify = require('gulp-uglify');
 var source = require('vinyl-source-stream');
+var buffer = require('vinyl-buffer');
 
 gulp.task('connect', function () {
     connect.server({
@@ -19,6 +21,8 @@ gulp.task('browserify', function() {
     return browserify('./app/app.js')
         .bundle()
         .pipe(source('main.js'))
+        .pipe(buffer())
+        .pipe(uglify())
         .pipe(gulp.dest('./public/js/'))
 });
 

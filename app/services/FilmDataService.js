@@ -2,11 +2,9 @@
  * Created by Serge on 11/9/15.
  */
 
-module.exports = function($http) {
+module.exports = function(store) {
   var getFilms = function() {
-    return $http.get('data/data.json').then(function(response) {
-      return response.data;
-    });
+    return store;
   };
   return { getFilms: getFilms };
 };
