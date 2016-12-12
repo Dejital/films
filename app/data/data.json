@@ -5998,5 +5998,21 @@
         "director": "Tarantino",
         "dateSeen": "11/23/2016",
         "repeat?": true
+    },
+    {
+        "rating": "3",
+        "title": "Read My Lips",
+        "year": "2001",
+        "director": "Audiard",
+        "dateSeen": "12/9/2016",
+        "repeat?": false
+    },
+    {
+        "rating": "4",
+        "title": "The Handmaiden",
+        "year": "2016",
+        "director": "Chan-wook",
+        "dateSeen": "12/10/2016",
+        "repeat?": false
     }
 ]
