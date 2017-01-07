@@ -6014,5 +6014,37 @@
         "director": "Chan-wook",
         "dateSeen": "12/10/2016",
         "repeat?": false
+    },
+    {
+        "rating": "3",
+        "title": "Heiress",
+        "year": "1949",
+        "director": "Wyler",
+        "dateSeen": "12/15/2016",
+        "repeat?": false
+    },
+    {
+        "rating": "3",
+        "title": "Kung Fu Hustle",
+        "year": "2005",
+        "director": "Chow",
+        "dateSeen": "12/16/2016",
+        "repeat?": false
+    },
+    {
+        "rating": "3",
+        "title": "A Christmas Carol",
+        "year": "1951",
+        "director": "Hurst",
+        "dateSeen": "12/24/2016",
+        "repeat?": false
+    },
+    {
+        "rating": "3",
+        "title": "Dangal",
+        "year": "2016",
+        "director": "Tiwari",
+        "dateSeen": "12/25/2016",
+        "repeat?": false
     }
 ]
