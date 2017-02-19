@@ -6046,5 +6046,77 @@
         "director": "Tiwari",
         "dateSeen": "12/25/2016",
         "repeat?": false
+    },
+    {
+        "rating": "2",
+        "title": "Young Frankstein",
+        "year": "1974",
+        "director": "Brooks",
+        "dateSeen": "12/30/2016",
+        "repeat?": false
+    },
+    {
+        "rating": "2",
+        "title": "Birdman",
+        "year": "2014",
+        "director": "Inarritu",
+        "dateSeen": "2/8/2017",
+        "repeat?": true
+    },
+    {
+        "rating": "3",
+        "title": "La La Land",
+        "year": "2016",
+        "director": "Chazelle",
+        "dateSeen": "2/9/2017",
+        "repeat?": false
+    },
+    {
+        "rating": "2",
+        "title": "Manchester by the Sea",
+        "year": "2016",
+        "director": "Lonergan",
+        "dateSeen": "2/11/2017",
+        "repeat?": false
+    },
+    {
+        "rating": "3",
+        "title": "The Talented Mr. Ripley",
+        "year": "1999",
+        "director": "Minghella",
+        "dateSeen": "2/12/2017",
+        "repeat?": false
+    },
+    {
+        "rating": "1",
+        "title": "John Wick 2",
+        "year": "2017",
+        "director": "Stahelski",
+        "dateSeen": "2/17/2017",
+        "repeat?": false
+    },
+    {
+        "rating": "3",
+        "title": "The 39 Steps",
+        "year": "1935",
+        "director": "Hitchcock",
+        "dateSeen": "2/18/2017",
+        "repeat?": false
+    },
+    {
+        "rating": "3",
+        "title": "The Chasers",
+        "year": "2008",
+        "director": "Na Hong-Jin",
+        "dateSeen": "2/18/2017",
+        "repeat?": false
+    },
+    {
+        "rating": "4",
+        "title": "Notorious",
+        "year": "1946",
+        "director": "Hitchcock",
+        "dateSeen": "2/19/2017",
+        "repeat?": false
     }
 ]
