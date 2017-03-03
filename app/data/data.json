@@ -6109,7 +6109,8 @@
         "year": "2008",
         "director": "Na Hong-Jin",
         "dateSeen": "2/18/2017",
-        "repeat?": false
+        "repeat?": false,
+        "country": "South Korea"
     },
     {
         "rating": "4",
@@ -6118,5 +6119,40 @@
         "director": "Hitchcock",
         "dateSeen": "2/19/2017",
         "repeat?": false
+    },
+    {
+        "rating": "3",
+        "title": "The Man from Nowhere",
+        "year": "2010",
+        "director": "Jeong-Beom",
+        "dateSeen": "2/23/2017",
+        "repeat?": false,
+        "country": "South Korea"
+    },
+    {
+        "rating": "3",
+        "title": "Arrival",
+        "year": "2016",
+        "director": "Villeneuve",
+        "dateSeen": "2/24/2017",
+        "repeat?": false
+    },
+    {
+        "rating": "3",
+        "title": "Split",
+        "year": "2016",
+        "director": "Shyamalan",
+        "dateSeen": "2/25/2017",
+        "repeat?": false
+    },
+    {
+        "rating": "4",
+        "title": "The Salesman",
+        "year": "2016",
+        "director": "Farhadi",
+        "dateSeen": "2/26/2017",
+        "repeat?": false,
+        "imdb": "tt5186714",
+        "country": "Iran"
     }
 ]
