@@ -6154,5 +6154,94 @@
         "repeat?": false,
         "imdb": "tt5186714",
         "country": "Iran"
+    },
+    {
+        "rating": "3",
+        "title": "Mulholland Drive",
+        "year": "2001",
+        "director": "Lynch",
+        "dateSeen": "3/7/2017",
+        "repeat?": true
+    },
+    {
+        "rating": "3",
+        "title": "La grande guerra",
+        "year": "1959",
+        "director": "Monicelli",
+        "dateSeen": "3/8/2017",
+        "repeat?": false,
+        "country": "Italy"
+    },
+    {
+        "rating": "3",
+        "title": "Scarlet Street",
+        "year": "1945",
+        "director": "Fritz Lang",
+        "dateSeen": "3/9/2017",
+        "repeat?": true
+    },
+    {
+        "rating": "5",
+        "title": "A Shot in the Dark",
+        "year": "1964",
+        "director": "Edwards",
+        "dateSeen": "3/19/2017",
+        "repeat?": true
+    },
+    {
+        "rating": "2",
+        "title": "Crazy, Stupid, Love",
+        "year": "2011",
+        "director": "Ficarra",
+        "dateSeen": "3/30/2017",
+        "repeat?": false
+    },
+    {
+        "rating": "4",
+        "title": "The Place Beyond the Pines",
+        "year": "2012",
+        "director": "Cianfrance",
+        "dateSeen": "3/31/2017",
+        "repeat?": false
+    },
+    {
+        "rating": "3",
+        "title": "Fifth Element",
+        "year": "1997",
+        "director": "Besson",
+        "dateSeen": "4/15/2017",
+        "repeat?": true
+    },
+    {
+        "rating": "3",
+        "title": "Rush Hour",
+        "year": "1998",
+        "director": "Ratner",
+        "dateSeen": "4/16/2017",
+        "repeat?": true
+    },
+    {
+        "rating": "2",
+        "title": "Raiders of the Lost Ark",
+        "year": "1981",
+        "director": "Spielberg",
+        "dateSeen": "4/28/2017",
+        "repeat?": false
+    },
+    {
+        "rating": "3",
+        "title": "Midnight in Paris",
+        "year": "2011",
+        "director": "Allen",
+        "dateSeen": "5/19/2017",
+        "repeat?": true
+    },
+    {
+        "rating": "3",
+        "title": "The Man Who Knew Too Much",
+        "year": "1956",
+        "director": "Hitchcock",
+        "dateSeen": "5/25/2017",
+        "repeat?": false
     }
 ]
