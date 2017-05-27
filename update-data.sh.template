@@ -1,0 +1,4 @@
+#! /bin/bash
+
+gsjson {GOOGLE DRIVE DOCUMENT ID} app/data/data.json -b
+gulp browserify
