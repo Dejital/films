@@ -6243,5 +6243,21 @@
         "director": "Hitchcock",
         "dateSeen": "5/25/2017",
         "repeat?": false
+    },
+    {
+        "rating": "3",
+        "title": "Pleasantville",
+        "year": "1998",
+        "director": "Ross",
+        "dateSeen": "6/9/2017",
+        "repeat?": false
+    },
+    {
+        "rating": "2",
+        "title": "The Spy Who Loved Me",
+        "year": "1977",
+        "director": "Gilbert",
+        "dateSeen": "6/23/2017",
+        "repeat?": false
     }
 ]
