@@ -6259,5 +6259,45 @@
         "director": "Gilbert",
         "dateSeen": "6/23/2017",
         "repeat?": false
+    },
+    {
+        "rating": "2",
+        "title": "Police Story 3",
+        "year": "1992",
+        "director": "Tong",
+        "dateSeen": "7/4/2017",
+        "repeat?": false
+    },
+    {
+        "rating": "2",
+        "title": "Everyone Says I Love You",
+        "year": "1996",
+        "director": "Allen",
+        "dateSeen": "7/24/2017",
+        "repeat?": false
+    },
+    {
+        "rating": "2",
+        "title": "Dunkirk",
+        "year": "2017",
+        "director": "Nolan",
+        "dateSeen": "7/26/2017",
+        "repeat?": false
+    },
+    {
+        "rating": "2",
+        "title": "The Accountant",
+        "year": "2016",
+        "director": "Dubuque",
+        "dateSeen": "7/27/2017",
+        "repeat?": false
+    },
+    {
+        "rating": "2",
+        "title": "Ip Man",
+        "year": "2008",
+        "director": "Yip",
+        "dateSeen": "7/30/2017",
+        "repeat?": false
     }
 ]
