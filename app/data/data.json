@@ -6309,11 +6309,35 @@
         "repeat?": false
     },
     {
+        "rating": "1",
+        "title": "Finding Dory",
+        "year": "2016",
+        "director": "Stanton, MacLane",
+        "dateSeen": "8/3/2017",
+        "repeat?": false
+    },
+    {
         "rating": "2",
         "title": "Take the Money and Run",
         "year": "1969",
         "director": "Allen",
         "dateSeen": "8/5/2017",
         "repeat?": false
+    },
+    {
+        "rating": "2",
+        "title": "Get Out",
+        "year": "2017",
+        "director": "Peele",
+        "dateSeen": "8/12/2017",
+        "repeat?": false
+    },
+    {
+        "rating": "4",
+        "title": "The Red Shoes",
+        "year": "1948",
+        "director": "Powell, Pressburger",
+        "dateSeen": "8/14/2017",
+        "repeat?": true
     }
 ]
