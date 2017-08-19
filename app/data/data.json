@@ -6339,5 +6339,13 @@
         "director": "Powell, Pressburger",
         "dateSeen": "8/14/2017",
         "repeat?": true
+    },
+    {
+        "rating": "3",
+        "title": "Umberto D.",
+        "year": "1952",
+        "director": "De Sica",
+        "dateSeen": "8/18/2017",
+        "repeat?": false
     }
 ]
