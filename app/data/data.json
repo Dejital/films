@@ -6345,7 +6345,31 @@
         "title": "Umberto D.",
         "year": "1952",
         "director": "De Sica",
+        "dateSeen": "8/17/2017",
+        "repeat?": false
+    },
+    {
+        "rating": "3",
+        "title": "Rush Hour 2",
+        "year": "2001",
+        "director": "Ratner",
         "dateSeen": "8/18/2017",
+        "repeat?": true
+    },
+    {
+        "rating": "4",
+        "title": "Yana's Friends",
+        "year": "1999",
+        "director": "Kaplun",
+        "dateSeen": "8/20/2017",
+        "repeat?": false
+    },
+    {
+        "rating": "3",
+        "title": "Sympathy for Mr. Vengeance",
+        "year": "2002",
+        "director": "Chan-wook",
+        "dateSeen": "8/24/2017",
         "repeat?": false
     }
 ]
