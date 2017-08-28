@@ -20,7 +20,9 @@
     "url": "https://github.com/Dejital/films/issues"
   },
   "homepage": "https://github.com/Dejital/films#readme",
-  "devDependencies": {},
+  "devDependencies": {
+    "gsjson": "^0.1.8"
+  },
   "dependencies": {
     "angular": "^1.4.6",
     "browserify": "^11.1.0",
