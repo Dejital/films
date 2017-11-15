@@ -6371,5 +6371,61 @@
         "director": "Chan-wook",
         "dateSeen": "8/24/2017",
         "repeat?": false
+    },
+    {
+        "rating": "3",
+        "title": "Cat People",
+        "year": "1942",
+        "director": "Lewton",
+        "dateSeen": "10/27/2017",
+        "repeat?": false
+    },
+    {
+        "rating": "2",
+        "title": "The Leopard Man",
+        "year": "1943",
+        "director": "Lewton",
+        "dateSeen": "10/28/2017",
+        "repeat?": false
+    },
+    {
+        "rating": "2",
+        "title": "I Walked with a Zombie",
+        "year": "1943",
+        "director": "Lewton",
+        "dateSeen": "10/29/2017",
+        "repeat?": false
+    },
+    {
+        "rating": "5",
+        "title": "Deathproof",
+        "year": "2007",
+        "director": "Tarantino",
+        "dateSeen": "11/5/2017",
+        "repeat?": true
+    },
+    {
+        "rating": "3",
+        "title": "Django Unchained",
+        "year": "2012",
+        "director": "Tarantino",
+        "dateSeen": "11/6/2017",
+        "repeat?": true
+    },
+    {
+        "rating": "3",
+        "title": "Unfaithfully Yours",
+        "year": "1948",
+        "director": "Sturges",
+        "dateSeen": "11/10/2017",
+        "repeat?": false
+    },
+    {
+        "rating": "4",
+        "title": "High and Low",
+        "year": "1963",
+        "director": "Kurosawa",
+        "dateSeen": "11/14/2017",
+        "repeat?": true
     }
 ]
