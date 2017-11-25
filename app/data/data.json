@@ -6427,5 +6427,29 @@
         "director": "Kurosawa",
         "dateSeen": "11/14/2017",
         "repeat?": true
+    },
+    {
+        "rating": "3",
+        "title": "Teen Kanya",
+        "year": "1961",
+        "director": "Ray",
+        "dateSeen": "11/22/2017",
+        "repeat?": false
+    },
+    {
+        "rating": "2",
+        "title": "Jamaica Inn",
+        "year": "1939",
+        "director": "Hitchock",
+        "dateSeen": "11/23/2017",
+        "repeat?": false
+    },
+    {
+        "rating": "2",
+        "title": "Rush Hour 3",
+        "year": "2007",
+        "director": "Ratner",
+        "dateSeen": "11/24/2017",
+        "repeat?": true
     }
 ]
