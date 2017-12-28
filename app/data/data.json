@@ -6451,5 +6451,45 @@
         "director": "Ratner",
         "dateSeen": "11/24/2017",
         "repeat?": true
+    },
+    {
+        "rating": "3",
+        "title": "Austin Powers: International Man of Mystery",
+        "year": "1997",
+        "director": "Roach",
+        "dateSeen": "11/29/2017",
+        "repeat?": true
+    },
+    {
+        "rating": "2",
+        "title": "Austin Powers 2",
+        "year": "1999",
+        "director": "Roach",
+        "dateSeen": "11/30/2017",
+        "repeat?": true
+    },
+    {
+        "rating": "2",
+        "title": "Austin Powers 3",
+        "year": "2002",
+        "director": "Roach",
+        "dateSeen": "12/2/2017",
+        "repeat?": true
+    },
+    {
+        "rating": "3",
+        "title": "The Big Sick",
+        "year": "2017",
+        "director": "Showalter",
+        "dateSeen": "12/24/2017",
+        "repeat?": false
+    },
+    {
+        "rating": "3",
+        "title": "Detroit",
+        "year": "2017",
+        "director": "Bigelow",
+        "dateSeen": "12/27/2017",
+        "repeat?": false
     }
 ]
