@@ -6491,5 +6491,45 @@
         "director": "Bigelow",
         "dateSeen": "12/27/2017",
         "repeat?": false
+    },
+    {
+        "rating": "4",
+        "title": "Die Hard",
+        "year": "1988",
+        "director": "McTiernan",
+        "dateSeen": "12/29/2017",
+        "repeat?": false
+    },
+    {
+        "rating": "4",
+        "title": "Relatos salvajes",
+        "year": "2014",
+        "director": "Almodovar",
+        "dateSeen": "1/1/2017",
+        "repeat?": false
+    },
+    {
+        "rating": "3",
+        "title": "Todo sobre mi madre",
+        "year": "1999",
+        "director": "Almodovar",
+        "dateSeen": "1/2/2017",
+        "repeat?": false
+    },
+    {
+        "rating": "3",
+        "title": "8 Mile",
+        "year": "2002",
+        "director": "Hanson",
+        "dateSeen": "1/13/2017",
+        "repeat?": true
+    },
+    {
+        "rating": "4",
+        "title": "LA 92",
+        "year": "2017",
+        "director": "Lindsay, Martin",
+        "dateSeen": "1/15/2017",
+        "repeat?": false
     }
 ]
