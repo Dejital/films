@@ -6505,7 +6505,7 @@
         "title": "Relatos salvajes",
         "year": "2014",
         "director": "Almodovar",
-        "dateSeen": "1/1/2017",
+        "dateSeen": "1/1/2018",
         "repeat?": false
     },
     {
@@ -6513,7 +6513,7 @@
         "title": "Todo sobre mi madre",
         "year": "1999",
         "director": "Almodovar",
-        "dateSeen": "1/2/2017",
+        "dateSeen": "1/2/2018",
         "repeat?": false
     },
     {
@@ -6521,7 +6521,7 @@
         "title": "8 Mile",
         "year": "2002",
         "director": "Hanson",
-        "dateSeen": "1/13/2017",
+        "dateSeen": "1/13/2018",
         "repeat?": true
     },
     {
@@ -6529,7 +6529,39 @@
         "title": "LA 92",
         "year": "2017",
         "director": "Lindsay, Martin",
-        "dateSeen": "1/15/2017",
+        "dateSeen": "1/15/2018",
+        "repeat?": false
+    },
+    {
+        "rating": "3",
+        "title": "Disaster Artist",
+        "year": "2017",
+        "director": "Franco",
+        "dateSeen": "1/22/2018",
+        "repeat?": false
+    },
+    {
+        "rating": "2",
+        "title": "Baby Driver",
+        "year": "2017",
+        "director": "Wright",
+        "dateSeen": "2/10/2018",
+        "repeat?": false
+    },
+    {
+        "rating": "2",
+        "title": "Three Billboards Outside Ebbing, Missouri",
+        "year": "2017",
+        "director": "McDonagh",
+        "dateSeen": "2/15/2018",
+        "repeat?": false
+    },
+    {
+        "rating": "3",
+        "title": "Phantom Thread",
+        "year": "2017",
+        "director": "PT Anderson",
+        "dateSeen": "4/6/2018",
         "repeat?": false
     }
 ]
