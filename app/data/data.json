@@ -6563,5 +6563,13 @@
         "director": "PT Anderson",
         "dateSeen": "4/6/2018",
         "repeat?": false
+    },
+    {
+        "rating": "3",
+        "title": "Love in the Afternoon",
+        "year": "1957",
+        "director": "Wilder",
+        "dateSeen": "5/18/2018",
+        "repeat?": false
     }
 ]
