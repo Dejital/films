@@ -6571,5 +6571,53 @@
         "director": "Wilder",
         "dateSeen": "5/18/2018",
         "repeat?": false
+    },
+    {
+        "rating": "4",
+        "title": "Barry Lyndon",
+        "year": "1975",
+        "director": "Kubrick",
+        "dateSeen": "6/10/2018",
+        "repeat?": true
+    },
+    {
+        "rating": "4",
+        "title": "Der untergang",
+        "year": "2004",
+        "director": "Hirschbiegel",
+        "dateSeen": "6/12/2018",
+        "repeat?": true
+    },
+    {
+        "rating": "3",
+        "title": "While the City Sleeps",
+        "year": "1956",
+        "director": "Lang",
+        "dateSeen": "6/17/2018",
+        "repeat?": false
+    },
+    {
+        "rating": "2",
+        "title": "You only live once",
+        "year": "1937",
+        "director": "Lang",
+        "dateSeen": "6/19/2018",
+        "repeat?": false
+    },
+    {
+        "rating": "2",
+        "title": "Coco",
+        "year": "2017",
+        "director": "Unkrich",
+        "dateSeen": "6/23/2018",
+        "repeat?": false
+    },
+    {
+        "rating": "3",
+        "title": "Julieta",
+        "year": "2016",
+        "director": "Almodovar",
+        "dateSeen": "7/1/2018",
+        "repeat?": false
     }
 ]
