@@ -881,6 +881,7 @@
         "rating": "5",
         "title": "Sweet Smell of Success",
         "year": "1957",
+        "director": "Mackendrick",
         "dateSeen": "11/3/2009",
         "repeat?": false
     },
@@ -6619,5 +6620,29 @@
         "director": "Almodovar",
         "dateSeen": "7/1/2018",
         "repeat?": false
+    },
+    {
+        "rating": "4",
+        "title": "Sweet Smell of Success",
+        "year": "1957",
+        "director": "Mackendrick",
+        "dateSeen": "7/4/2018",
+        "repeat?": true
+    },
+    {
+        "rating": "5",
+        "title": "Yi Yi (A one and a two)",
+        "year": "2000",
+        "director": "Yang",
+        "dateSeen": "7/6/2018",
+        "repeat?": true
+    },
+    {
+        "rating": "5",
+        "title": "Jiro Dreams of Sushi",
+        "year": "2011",
+        "director": "Gelb",
+        "dateSeen": "7/14/2018",
+        "repeat?": true
     }
 ]
