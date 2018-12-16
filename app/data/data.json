@@ -6644,5 +6644,149 @@
         "director": "Gelb",
         "dateSeen": "7/14/2018",
         "repeat?": true
+    },
+    {
+        "rating": "5",
+        "title": "Léon: The Professional ",
+        "year": "1994",
+        "director": "Besson",
+        "dateSeen": "7/25/2018",
+        "repeat?": true
+    },
+    {
+        "rating": "2",
+        "title": "J.S.A. Joint Security Area",
+        "year": "2000",
+        "director": "Chan-wook",
+        "dateSeen": "8/24/2018",
+        "repeat?": false
+    },
+    {
+        "rating": "2",
+        "title": "Let the Fire Burn",
+        "year": "2013",
+        "director": "Osder",
+        "dateSeen": "8/25/2018",
+        "repeat?": false
+    },
+    {
+        "rating": "5",
+        "title": "The Departed",
+        "year": "2006",
+        "director": "Scorcese",
+        "dateSeen": "8/31/2018",
+        "repeat?": true
+    },
+    {
+        "rating": "3",
+        "title": "The Shop Around the Corner",
+        "year": "1940",
+        "director": "Lubitsch",
+        "dateSeen": "9/8/2018",
+        "repeat?": false
+    },
+    {
+        "rating": "3",
+        "title": "As Good As It Gets",
+        "year": "1997",
+        "director": "Brooks",
+        "dateSeen": "9/14/2018",
+        "repeat?": false
+    },
+    {
+        "rating": "3",
+        "title": "Won't You Be My Neighbor?",
+        "year": "2018",
+        "director": "Neville",
+        "dateSeen": "9/27/2018",
+        "repeat?": false
+    },
+    {
+        "rating": 3,
+        "title": "This Is the End",
+        "year": "2013",
+        "director": "Rogen, Goldberg",
+        "dateSeen": "10/10/2018",
+        "repeat?": true
+    },
+    {
+        "rating": "2",
+        "title": "The Hobbit: An Unexpected Journey",
+        "year": "2012",
+        "director": "Jackson",
+        "dateSeen": "10/10/2018",
+        "repeat?": true
+    },
+    {
+        "rating": "3",
+        "title": "Pineapple Express",
+        "year": "2008",
+        "director": "Green",
+        "dateSeen": "10/14/2018",
+        "repeat?": true
+    },
+    {
+        "rating": "4",
+        "title": "Gladiator",
+        "year": "2000",
+        "director": "Scott",
+        "dateSeen": "10/15/2018",
+        "repeat?": true
+    },
+    {
+        "rating": "4",
+        "title": "Snatch.",
+        "year": "2000",
+        "director": "Ritchie",
+        "dateSeen": "10/18/2018",
+        "repeat?": false
+    },
+    {
+        "rating": "3",
+        "title": "Le Samourai",
+        "year": "1967",
+        "director": "Melville",
+        "dateSeen": "10/19/2018",
+        "repeat?": true
+    },
+    {
+        "rating": 4,
+        "title": "Lock, Stock and Two Smoking Barrels",
+        "year": "1998",
+        "director": "Ritchie",
+        "dateSeen": "10/20/2018",
+        "repeat?": false
+    },
+    {
+        "rating": "3",
+        "title": "Master and Commander",
+        "year": "2003",
+        "director": "Weir",
+        "dateSeen": "10/28/2018",
+        "repeat?": false
+    },
+    {
+        "rating": "4",
+        "title": "Gattaca",
+        "year": "1997",
+        "director": "Niccol",
+        "dateSeen": "11/23/2018",
+        "repeat?": false
+    },
+    {
+        "rating": "4",
+        "title": "They Shall Not Grow Old",
+        "year": "2018",
+        "director": "Jackson",
+        "dateSeen": "12/14/2018",
+        "repeat?": false
+    },
+    {
+        "rating": "4",
+        "title": "Saving Private Ryan",
+        "year": "1998",
+        "director": "Spielberg",
+        "dateSeen": "12/14/2018",
+        "repeat?": false
     }
 ]
