@@ -12,7 +12,7 @@ var buffer = require('vinyl-buffer');
 
 gulp.task('connect', function () {
     connect.server({
-        root: 'public',
+        root: 'docs',
         port: process.env.PORT || 5000
     })
 });
@@ -23,12 +23,12 @@ gulp.task('browserify', function() {
         .pipe(source('main.js'))
         .pipe(buffer())
         .pipe(uglify())
-        .pipe(gulp.dest('./public/js/'))
+        .pipe(gulp.dest('./docs/js/'))
 });
 
 gulp.task('sass', function() {
     return sass('sass/screen.scss')
-        .pipe(gulp.dest('./public/css'))
+        .pipe(gulp.dest('./docs/css'))
 });
 
 gulp.task('watch', function() {
