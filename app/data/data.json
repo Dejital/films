@@ -5,7 +5,7 @@
         "year": "2003",
         "director": "Van Sant",
         "dateSeen": "1/2/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -13,70 +13,70 @@
         "year": "1989",
         "director": "Van Sant",
         "dateSeen": "1/3/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
         "title": "Death of a President",
         "year": "2006",
         "dateSeen": "1/4/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "1",
         "title": "Enemy at the Gates",
         "year": "2001",
         "dateSeen": "1/5/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
         "title": "Confessions of a Superhero",
         "year": "2007",
         "dateSeen": "1/6/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
         "title": "The Truman Show",
         "year": "1998",
         "dateSeen": "1/8/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
         "title": "The Man with Two Brains",
         "year": "1983",
         "dateSeen": "1/9/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
         "title": "Slumdog Millionaire",
         "year": "2008",
         "dateSeen": "1/10/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "5",
         "title": "Eternal Sunshine of the Spotless Mind",
         "year": "2004",
         "dateSeen": "1/11/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
         "title": "Lola rennt",
         "year": "1998",
         "dateSeen": "1/12/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "1",
         "title": "Garden State",
         "year": "2004",
         "dateSeen": "1/13/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
@@ -84,7 +84,7 @@
         "year": "2001",
         "director": "Wes Anderson",
         "dateSeen": "1/14/2009",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "3",
@@ -92,7 +92,7 @@
         "year": "2004",
         "director": "Wes Anderson",
         "dateSeen": "1/15/2009",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "4",
@@ -100,7 +100,7 @@
         "year": "1997",
         "director": "Wes Anderson",
         "dateSeen": "1/16/2009",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "5",
@@ -108,7 +108,7 @@
         "year": "1998",
         "director": "Wes Anderson",
         "dateSeen": "1/17/2009",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "2",
@@ -116,7 +116,7 @@
         "year": "2007",
         "director": "Wes Anderson",
         "dateSeen": "1/18/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "1",
@@ -124,7 +124,7 @@
         "year": "2007",
         "director": "Wes Anderson",
         "dateSeen": "1/19/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "5",
@@ -132,7 +132,7 @@
         "year": "2002",
         "director": "PT Anderson",
         "dateSeen": "2/1/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
@@ -140,105 +140,105 @@
         "year": "2007",
         "director": "PT Anderson",
         "dateSeen": "2/2/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
         "title": "Last King of Scotland",
         "year": "2006",
         "dateSeen": "2/3/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
         "title": "Moulin Rouge!",
         "year": "2001",
         "dateSeen": "2/4/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
         "title": "La Mome",
         "year": "2007",
         "dateSeen": "2/5/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
         "title": "The Graduate",
         "year": "1967",
         "dateSeen": "2/6/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "5",
         "title": "Secretary",
         "year": "2002",
         "dateSeen": "2/7/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
         "title": "The Pianist",
         "year": "2002",
         "dateSeen": "2/8/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "1",
         "title": "Million Dollar Baby",
         "year": "2004",
         "dateSeen": "2/9/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
         "title": "Big Fish",
         "year": "2003",
         "dateSeen": "2/10/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
         "title": "Wedding Crashers",
         "year": "2005",
         "dateSeen": "2/11/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "1",
         "title": "Taken",
         "year": "2009",
         "dateSeen": "2/12/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
         "title": "Fall From Grace",
         "year": "2007",
         "dateSeen": "2/13/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
         "title": "The Aviator",
         "year": "2004",
         "dateSeen": "2/14/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
         "title": "The Reader",
         "year": "2008",
         "dateSeen": "3/1/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
         "title": "La Science des reves",
         "year": "2006",
         "dateSeen": "3/2/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
@@ -246,28 +246,28 @@
         "year": "1948",
         "director": "Hitchcock",
         "dateSeen": "3/3/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
         "title": "Au revoir les enfants",
         "year": "1987",
         "dateSeen": "3/4/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
         "title": "Two Lovers",
         "year": "2008",
         "dateSeen": "3/5/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "1",
         "title": "My Girlfriend is a Cyborg",
         "year": "2008",
         "dateSeen": "3/6/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
@@ -275,7 +275,7 @@
         "year": "1958",
         "director": "Hitchcock",
         "dateSeen": "3/7/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
@@ -283,7 +283,7 @@
         "year": "1954",
         "director": "Hitchcock",
         "dateSeen": "3/8/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
@@ -291,7 +291,7 @@
         "year": "1959",
         "director": "Hitchcock",
         "dateSeen": "3/9/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -299,7 +299,7 @@
         "year": "1940",
         "director": "Hitchcock",
         "dateSeen": "3/10/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
@@ -307,7 +307,7 @@
         "year": "1951",
         "director": "Hitchcock",
         "dateSeen": "3/11/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "5",
@@ -315,42 +315,42 @@
         "year": "1943",
         "director": "Hitchcock",
         "dateSeen": "3/12/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
         "title": "Watchmen",
         "year": "2009",
         "dateSeen": "3/13/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
         "title": "Helter Skelter",
         "year": "2004",
         "dateSeen": "3/14/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
         "title": "Helter Skelter",
         "year": "1976",
         "dateSeen": "3/15/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
         "title": "L.A. Confidential",
         "year": "1997",
         "dateSeen": "3/16/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
         "title": "The Green Mile",
         "year": "1999",
         "dateSeen": "3/17/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "5",
@@ -358,21 +358,21 @@
         "year": "2000",
         "director": "Nolan",
         "dateSeen": "3/19/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
         "title": "The Fog of War",
         "year": "2003",
         "dateSeen": "3/20/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
         "title": "The Party",
         "year": "1968",
         "dateSeen": "3/21/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
@@ -380,49 +380,49 @@
         "year": "1999",
         "director": "Kubrick",
         "dateSeen": "4/1/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "1",
         "title": "Sunshine Cleaning",
         "year": "2009",
         "dateSeen": "4/2/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
         "title": "The Hours",
         "year": "2002",
         "dateSeen": "4/3/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
         "title": "Choke",
         "year": "2008",
         "dateSeen": "4/5/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "1",
         "title": "2:37 AM",
         "year": "2006",
         "dateSeen": "4/6/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
         "title": "Adventureland",
         "year": "2009",
         "dateSeen": "4/7/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
         "title": "A Beautiful Mind",
         "year": "2001",
         "dateSeen": "4/8/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
@@ -430,14 +430,14 @@
         "year": "1999",
         "director": "PT Anderson",
         "dateSeen": "4/9/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
         "title": "La Pianiste",
         "year": "2001",
         "dateSeen": "4/10/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -445,7 +445,7 @@
         "year": "1957",
         "director": "Bergman",
         "dateSeen": "4/11/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "5",
@@ -453,112 +453,112 @@
         "year": "1997",
         "director": "PT Anderson",
         "dateSeen": "4/12/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
         "title": "Benjamin Button",
         "year": "2008",
         "dateSeen": "4/13/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
         "title": "Friday Night Lights",
         "year": "2004",
         "dateSeen": "4/14/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
         "title": "Office Space",
         "year": "1999",
         "dateSeen": "4/15/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
         "title": "Star Trek",
         "year": "2009",
         "dateSeen": "5/1/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "5",
         "title": "Straw Dogs",
         "year": "1971",
         "dateSeen": "5/2/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
         "title": "Chinatown",
         "year": "1974",
         "dateSeen": "5/3/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "5",
         "title": "The Big Lebowski",
         "year": "1998",
         "dateSeen": "5/4/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
         "title": "Pavement: Slow Century",
         "year": "2002",
         "dateSeen": "5/5/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
         "title": "One Flew Over the Cuckoo's Nest",
         "year": "1975",
         "dateSeen": "7/1/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
         "title": "Anvil! The Story of Anvil",
         "year": "2009",
         "dateSeen": "7/2/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
         "title": "Harry Potter & the Half Blood Prince",
         "year": "2009",
         "dateSeen": "7/3/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
         "title": "500 Days of Summer",
         "year": "2009",
         "dateSeen": "7/4/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
         "title": "Death at a Funeral",
         "year": "2007",
         "dateSeen": "7/5/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
         "title": "Fast Food Nation",
         "year": "2008",
         "dateSeen": "7/6/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
         "title": "Le Grand Chef",
         "year": "2007",
         "dateSeen": "7/7/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "5",
@@ -566,7 +566,7 @@
         "year": "1985",
         "director": "John Hughes",
         "dateSeen": "7/8/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -574,7 +574,7 @@
         "year": "1986",
         "director": "John Hughes",
         "dateSeen": "7/9/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "1",
@@ -582,56 +582,56 @@
         "year": "1985",
         "director": "John Hughes",
         "dateSeen": "7/10/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
         "title": "Julie & Julia",
         "year": "2009",
         "dateSeen": "8/1/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
         "title": "The Last Hangman",
         "year": "2005",
         "dateSeen": "8/2/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
         "title": "Sideways",
         "year": "2004",
         "dateSeen": "8/3/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
         "title": "Les Parapluies de Cherbourg",
         "year": "1964",
         "dateSeen": "8/6/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
         "title": "Welcome to Dongmakgol",
         "year": "2005",
         "dateSeen": "8/7/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
         "title": "Alice in Wonderland",
         "year": "1903",
         "dateSeen": "8/8/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
         "title": "Alice in Wonderland",
         "year": "1951",
         "dateSeen": "8/9/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "5",
@@ -639,7 +639,7 @@
         "year": "2009",
         "director": "Tarantino",
         "dateSeen": "8/10/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -647,7 +647,7 @@
         "year": "2007",
         "director": "Rodriguez",
         "dateSeen": "8/11/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "5",
@@ -655,42 +655,42 @@
         "year": "2007",
         "director": "Tarantino",
         "dateSeen": "8/12/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
         "title": "The Last Waltz",
         "year": "1978",
         "dateSeen": "9/1/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "1",
         "title": "True Stories",
         "year": "1986",
         "dateSeen": "9/2/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "5",
         "title": "Stop Making Sense",
         "year": "1984",
         "dateSeen": "9/3/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
         "title": "Nosferatu",
         "year": "1922",
         "dateSeen": "9/4/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
         "title": "Donnie Darko",
         "year": "2001",
         "dateSeen": "9/5/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -698,14 +698,14 @@
         "year": "2009",
         "director": "von Trier",
         "dateSeen": "9/7/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
         "title": "I Am Trying to Break Your Heart",
         "year": "2002",
         "dateSeen": "9/8/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "5",
@@ -713,7 +713,7 @@
         "year": "1992",
         "director": "Mamet",
         "dateSeen": "10/1/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
@@ -721,7 +721,7 @@
         "year": "1987",
         "director": "Mamet",
         "dateSeen": "10/2/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -729,7 +729,7 @@
         "year": "2004",
         "director": "Mamet",
         "dateSeen": "10/3/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "1",
@@ -737,28 +737,28 @@
         "year": "1997",
         "director": "Mamet",
         "dateSeen": "10/4/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
         "title": "In Bruges",
         "year": "2008",
         "dateSeen": "10/5/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
         "title": "Terms of Endearment",
         "year": "1983",
         "dateSeen": "10/6/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
         "title": "The Beatles Anthology",
         "year": "1995",
         "dateSeen": "10/7/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -766,7 +766,7 @@
         "year": "1992",
         "director": "Tarantino",
         "dateSeen": "10/8/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
@@ -774,7 +774,7 @@
         "year": "2007",
         "director": "Coen Bros.",
         "dateSeen": "10/9/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
@@ -782,21 +782,21 @@
         "year": "1996",
         "director": "Coen Bros.",
         "dateSeen": "10/10/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
         "title": "Rain Man",
         "year": "1988",
         "dateSeen": "10/11/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "1",
         "title": "Frost/Nixon",
         "year": "2008",
         "dateSeen": "10/12/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
@@ -804,21 +804,21 @@
         "year": "1981",
         "director": "Malle",
         "dateSeen": "10/13/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
         "title": "Waking Life",
         "year": "2001",
         "dateSeen": "10/14/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "1",
         "title": "Paranormal Activity",
         "year": "2007",
         "dateSeen": "10/15/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
@@ -826,56 +826,56 @@
         "year": "1980",
         "director": "Kubrick",
         "dateSeen": "10/16/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
         "title": "Moon",
         "year": "2009",
         "dateSeen": "10/17/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
         "title": "Silence of the Lambs",
         "year": "1991",
         "dateSeen": "10/18/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
         "title": "Squid and the Whale",
         "year": "2005",
         "dateSeen": "10/19/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
         "title": "District 9",
         "year": "2009",
         "dateSeen": "10/21/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "5",
         "title": "Fight Club",
         "year": "1999",
         "dateSeen": "10/22/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "5",
         "title": "The Hurt Locker",
         "year": "2008",
         "dateSeen": "11/1/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
         "title": "The Insider",
         "year": "1999",
         "dateSeen": "11/2/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "5",
@@ -883,7 +883,7 @@
         "year": "1957",
         "director": "Mackendrick",
         "dateSeen": "11/3/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
@@ -891,7 +891,7 @@
         "year": "2009",
         "director": "Coen Bros.",
         "dateSeen": "11/4/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
@@ -899,49 +899,49 @@
         "year": "1991",
         "director": "Coen Bros.",
         "dateSeen": "11/5/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
         "title": "The Third Man",
         "year": "1949",
         "dateSeen": "11/6/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "1",
         "title": "Pirate Radio",
         "year": "2009",
         "dateSeen": "11/7/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
         "title": "Capote",
         "year": "2005",
         "dateSeen": "11/10/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
         "title": "The Savages",
         "year": "2007",
         "dateSeen": "11/11/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
         "title": "Before the Devil Knows You're Dead",
         "year": "2007",
         "dateSeen": "11/12/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
         "title": "Into The Wild",
         "year": "2007",
         "dateSeen": "11/13/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -949,7 +949,7 @@
         "year": "2003",
         "director": "Jarmusch",
         "dateSeen": "11/14/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
@@ -957,7 +957,7 @@
         "year": "1990",
         "director": "Coen Bros.",
         "dateSeen": "11/15/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "1",
@@ -965,14 +965,14 @@
         "year": "2003",
         "director": "Coen Bros.",
         "dateSeen": "11/16/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "5",
         "title": "Children of Men",
         "year": "2006",
         "dateSeen": "12/1/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -980,14 +980,14 @@
         "year": "2002",
         "director": "Spike Jonze",
         "dateSeen": "12/2/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
         "title": "Stephen Tobolowsky's Birthday Party",
         "year": "2005",
         "dateSeen": "12/3/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "5",
@@ -995,7 +995,7 @@
         "year": "1988",
         "director": "Scorsese",
         "dateSeen": "12/4/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
@@ -1003,7 +1003,7 @@
         "year": "1954",
         "director": "Kurosawa",
         "dateSeen": "12/6/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "5",
@@ -1011,7 +1011,7 @@
         "year": "1993",
         "director": "Linklater",
         "dateSeen": "12/7/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "5",
@@ -1019,14 +1019,14 @@
         "year": "1967",
         "director": "Melville",
         "dateSeen": "12/8/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
         "title": "It Might Get Loud",
         "year": "2008",
         "dateSeen": "12/9/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "5",
@@ -1034,63 +1034,63 @@
         "year": "1970",
         "director": "Melville",
         "dateSeen": "12/10/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
         "title": "Life of Brian",
         "year": "1979",
         "dateSeen": "12/11/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
         "title": "Traffic",
         "year": "2000",
         "dateSeen": "12/12/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
         "title": "Titanic",
         "year": "1997",
         "dateSeen": "12/13/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
         "title": "A Night To Remember",
         "year": "1958",
         "dateSeen": "12/14/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
         "title": "Revolutionary Road",
         "year": "2008",
         "dateSeen": "12/15/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
         "title": "Humpday",
         "year": "2009",
         "dateSeen": "12/17/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
         "title": "My Effortless Brilliance",
         "year": "2008",
         "dateSeen": "12/18/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "1",
         "title": "Great World of Sound",
         "year": "2007",
         "dateSeen": "12/19/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -1098,35 +1098,35 @@
         "year": "1994",
         "director": "Malle",
         "dateSeen": "12/20/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
         "title": "Metropolis",
         "year": "1927",
         "dateSeen": "12/21/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
         "title": "American History X",
         "year": "1998",
         "dateSeen": "12/22/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
         "title": "A Clockwork Orange",
         "year": "1971",
         "dateSeen": "12/23/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
         "title": "The Shawshank Redemption",
         "year": "1994",
         "dateSeen": "12/24/2009",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
@@ -1134,7 +1134,7 @@
         "year": "1990",
         "director": "Scorsese",
         "dateSeen": "1/1/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -1142,7 +1142,7 @@
         "year": "2009",
         "director": "Goldenberg",
         "dateSeen": "1/2/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -1150,7 +1150,7 @@
         "year": "2009",
         "director": "Reitman",
         "dateSeen": "1/3/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "5",
@@ -1158,7 +1158,7 @@
         "year": "2001",
         "director": "Cuarón",
         "dateSeen": "1/4/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -1166,7 +1166,7 @@
         "year": "1974",
         "director": "Clark",
         "dateSeen": "1/5/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -1174,7 +1174,7 @@
         "year": "1984",
         "director": "Coen",
         "dateSeen": "1/6/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -1182,7 +1182,7 @@
         "year": "1962",
         "director": "Marker",
         "dateSeen": "1/7/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -1190,7 +1190,7 @@
         "year": "1962",
         "director": "Melville",
         "dateSeen": "1/8/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "5",
@@ -1198,7 +1198,7 @@
         "year": "1956",
         "director": "Melville",
         "dateSeen": "1/9/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "5",
@@ -1206,7 +1206,7 @@
         "year": "1994",
         "director": "Smith",
         "dateSeen": "1/10/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -1214,7 +1214,7 @@
         "year": "1999",
         "director": "Jonze",
         "dateSeen": "1/11/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "5",
@@ -1222,7 +1222,7 @@
         "year": "2008",
         "director": "Kaufman",
         "dateSeen": "1/12/2010",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "3",
@@ -1230,7 +1230,7 @@
         "year": "1946",
         "director": "Cocteau",
         "dateSeen": "1/13/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -1238,7 +1238,7 @@
         "year": "1997",
         "director": "Smith",
         "dateSeen": "1/14/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -1246,7 +1246,7 @@
         "year": "1987",
         "director": "Coen",
         "dateSeen": "1/15/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
@@ -1254,7 +1254,7 @@
         "year": "2009",
         "director": "Wes Anderson",
         "dateSeen": "1/16/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -1262,7 +1262,7 @@
         "year": "1970",
         "director": "Kastle",
         "dateSeen": "1/17/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -1270,7 +1270,7 @@
         "year": "1964",
         "director": "Kubrick",
         "dateSeen": "1/18/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "5",
@@ -1278,7 +1278,7 @@
         "year": "1998",
         "director": "Coen",
         "dateSeen": "1/19/2010",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "3",
@@ -1286,7 +1286,7 @@
         "year": "2000",
         "director": "Crowe",
         "dateSeen": "1/20/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "1",
@@ -1294,7 +1294,7 @@
         "year": "1999",
         "director": "Flender",
         "dateSeen": "1/21/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "1",
@@ -1302,7 +1302,7 @@
         "year": "2008",
         "director": "Favreau",
         "dateSeen": "1/22/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "5",
@@ -1310,7 +1310,7 @@
         "year": "1972",
         "director": "Boorman",
         "dateSeen": "1/23/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -1318,14 +1318,14 @@
         "year": "2009",
         "director": "Barthes",
         "dateSeen": "1/24/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
         "title": "La Moité Gauche Du Frigo",
         "year": "2000",
         "dateSeen": "1/25/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -1333,7 +1333,7 @@
         "year": "1993",
         "director": "Martin",
         "dateSeen": "1/26/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "5",
@@ -1341,7 +1341,7 @@
         "year": "1997",
         "director": "PTA",
         "dateSeen": "1/27/2010",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "2",
@@ -1349,7 +1349,7 @@
         "year": "2006",
         "director": "Steel",
         "dateSeen": "1/28/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "5",
@@ -1357,7 +1357,7 @@
         "year": "2002",
         "director": "PTA",
         "dateSeen": "1/29/2010",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "3",
@@ -1365,7 +1365,7 @@
         "year": "1976",
         "director": "Lumet",
         "dateSeen": "1/30/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "5",
@@ -1373,7 +1373,7 @@
         "year": "1999",
         "director": "PTA",
         "dateSeen": "1/31/2010",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "3",
@@ -1381,7 +1381,7 @@
         "year": "1953",
         "director": "Minnelli",
         "dateSeen": "2/1/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -1389,7 +1389,7 @@
         "year": "1953",
         "director": "Sidney",
         "dateSeen": "2/2/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
@@ -1397,7 +1397,7 @@
         "year": "1952",
         "director": "Gene Kelly",
         "dateSeen": "2/3/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -1405,7 +1405,7 @@
         "year": "1975",
         "director": "Altman",
         "dateSeen": "2/4/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -1413,7 +1413,7 @@
         "year": "1934",
         "director": "Sandrich",
         "dateSeen": "2/5/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -1421,7 +1421,7 @@
         "year": "1938",
         "director": "Sandrich",
         "dateSeen": "2/6/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
@@ -1429,7 +1429,7 @@
         "year": "2009",
         "director": "Coen",
         "dateSeen": "2/7/2010",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "4",
@@ -1437,7 +1437,7 @@
         "year": "1999",
         "director": "Mendes",
         "dateSeen": "2/8/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -1445,7 +1445,7 @@
         "year": "2007",
         "director": "Coen",
         "dateSeen": "2/9/2010",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "4",
@@ -1453,7 +1453,7 @@
         "year": "2009",
         "director": "Scherfig",
         "dateSeen": "2/10/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -1461,14 +1461,14 @@
         "year": "1998",
         "director": "Weir",
         "dateSeen": "2/11/2010",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "2",
         "title": "The Informant",
         "year": "2009",
         "dateSeen": "2/12/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "1",
@@ -1476,7 +1476,7 @@
         "year": "1947",
         "director": "Welles",
         "dateSeen": "2/13/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -1484,7 +1484,7 @@
         "year": "2000",
         "director": "Aronofsky",
         "dateSeen": "2/14/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -1492,7 +1492,7 @@
         "year": "1939",
         "director": "Lubitsch",
         "dateSeen": "2/15/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -1500,7 +1500,7 @@
         "year": "1990",
         "director": "Burton",
         "dateSeen": "2/16/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -1508,7 +1508,7 @@
         "year": "2010",
         "director": "Scorsese",
         "dateSeen": "2/17/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "1",
@@ -1516,7 +1516,7 @@
         "year": "2005",
         "director": "Mangold",
         "dateSeen": "2/18/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "1",
@@ -1524,7 +1524,7 @@
         "year": "1998",
         "director": "Saget",
         "dateSeen": "2/19/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -1532,7 +1532,7 @@
         "year": "2003",
         "director": "Tarantino",
         "dateSeen": "2/20/2010",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "3",
@@ -1540,7 +1540,7 @@
         "year": "2004",
         "director": "Tarantino",
         "dateSeen": "2/21/2010",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "5",
@@ -1548,7 +1548,7 @@
         "year": "1976",
         "director": "Scorsese",
         "dateSeen": "2/22/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -1556,7 +1556,7 @@
         "year": "1981",
         "director": "De Palma",
         "dateSeen": "3/1/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "5",
@@ -1564,7 +1564,7 @@
         "year": "1959",
         "director": "Hawks",
         "dateSeen": "3/2/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -1572,7 +1572,7 @@
         "year": "2006",
         "director": "Leconte",
         "dateSeen": "3/3/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
@@ -1580,7 +1580,7 @@
         "year": "2009",
         "director": "Daniels",
         "dateSeen": "3/4/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "5",
@@ -1588,14 +1588,14 @@
         "year": "1955",
         "director": "Dassin",
         "dateSeen": "3/5/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
         "title": "L'homme qui plantait des arbres",
         "year": "1987",
         "dateSeen": "3/6/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "5",
@@ -1603,7 +1603,7 @@
         "year": "2009",
         "director": "Tarantino",
         "dateSeen": "3/7/2010",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "2",
@@ -1611,7 +1611,7 @@
         "year": "1965",
         "director": "Buñuel",
         "dateSeen": "3/8/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "1",
@@ -1619,7 +1619,7 @@
         "year": "2009",
         "director": "Vallée",
         "dateSeen": "3/9/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -1627,7 +1627,7 @@
         "year": "1984",
         "director": "Forman",
         "dateSeen": "3/10/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "5",
@@ -1635,7 +1635,7 @@
         "year": "1968",
         "director": "Leone",
         "dateSeen": "3/11/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "1",
@@ -1643,7 +1643,7 @@
         "year": "1997",
         "director": "Robbins",
         "dateSeen": "3/12/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
@@ -1651,7 +1651,7 @@
         "year": "1966",
         "director": "Leone",
         "dateSeen": "3/13/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -1659,7 +1659,7 @@
         "year": "1960",
         "director": "Milestone",
         "dateSeen": "3/14/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "5",
@@ -1667,7 +1667,7 @@
         "year": "2009",
         "director": "Bigelow",
         "dateSeen": "3/15/2010",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "2",
@@ -1675,14 +1675,14 @@
         "year": "2009",
         "director": "Sheridan",
         "dateSeen": "3/16/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
         "title": "Under the Great White Northern Lights",
         "year": "2010",
         "dateSeen": "3/17/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "5",
@@ -1690,7 +1690,7 @@
         "year": "1932",
         "director": "Lubitsch",
         "dateSeen": "3/18/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -1698,7 +1698,7 @@
         "year": "1940",
         "director": "Lubitsch",
         "dateSeen": "3/19/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
@@ -1706,7 +1706,7 @@
         "year": "1942",
         "director": "Lubitsch",
         "dateSeen": "3/20/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "1",
@@ -1714,7 +1714,7 @@
         "year": "1988",
         "director": "Parker",
         "dateSeen": "3/21/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -1722,7 +1722,7 @@
         "year": "2008",
         "director": "Duplass",
         "dateSeen": "3/22/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -1730,7 +1730,7 @@
         "year": "2005",
         "director": "Duplass",
         "dateSeen": "3/23/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -1738,7 +1738,7 @@
         "year": "2001",
         "director": "Lynch",
         "dateSeen": "3/24/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -1746,7 +1746,7 @@
         "year": "1986",
         "director": "Lynch",
         "dateSeen": "3/25/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -1754,7 +1754,7 @@
         "year": "1943",
         "director": "Lubitsch",
         "dateSeen": "3/26/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -1762,7 +1762,7 @@
         "year": "1933",
         "director": "Lubitsch",
         "dateSeen": "3/27/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "5",
@@ -1770,7 +1770,7 @@
         "year": "1941",
         "director": "Welles",
         "dateSeen": "4/1/2010",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "4",
@@ -1778,7 +1778,7 @@
         "year": "1942",
         "director": "Curtiz",
         "dateSeen": "4/2/2010",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "3",
@@ -1786,14 +1786,14 @@
         "year": "2008",
         "director": "Marsh",
         "dateSeen": "4/3/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "1",
         "title": "Blonde Fever",
         "year": "1944",
         "dateSeen": "4/4/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "5",
@@ -1801,7 +1801,7 @@
         "year": "1964",
         "director": "Edwards",
         "dateSeen": "4/5/2010",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "1",
@@ -1809,14 +1809,14 @@
         "year": "2000",
         "director": "Brill",
         "dateSeen": "4/6/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
         "title": "Enemies of Reason",
         "year": "2007",
         "dateSeen": "4/7/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "5",
@@ -1824,7 +1824,7 @@
         "year": "1979",
         "director": "Ashby",
         "dateSeen": "4/8/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "1",
@@ -1832,7 +1832,7 @@
         "year": "2010",
         "director": "Levy",
         "dateSeen": "4/9/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -1840,7 +1840,7 @@
         "year": "2009",
         "director": "Phillips",
         "dateSeen": "4/10/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -1848,7 +1848,7 @@
         "year": "2009",
         "director": "Soderbergh",
         "dateSeen": "4/11/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "5",
@@ -1856,7 +1856,7 @@
         "year": "2004",
         "director": "Linklater",
         "dateSeen": "4/12/2010",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "3",
@@ -1864,7 +1864,7 @@
         "year": "1994",
         "director": "Kieślowski",
         "dateSeen": "4/13/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -1872,7 +1872,7 @@
         "year": "1951",
         "director": "Kazan",
         "dateSeen": "4/14/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
@@ -1880,7 +1880,7 @@
         "year": "2004",
         "director": "Weingartner",
         "dateSeen": "4/15/2010",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "2",
@@ -1888,7 +1888,7 @@
         "year": "2003",
         "director": "Becker",
         "dateSeen": "4/16/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -1896,13 +1896,13 @@
         "year": "1946",
         "director": "Vidor",
         "dateSeen": "4/17/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
         "title": "Five Evenings",
         "dateSeen": "4/18/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -1910,21 +1910,21 @@
         "year": "1991",
         "director": "Linklater",
         "dateSeen": "4/19/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
         "title": "Glass: A portrait of Philip in Twelve Parts",
         "year": "2007",
         "dateSeen": "4/20/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "1",
         "title": "Walking to Werner",
         "year": "2006",
         "dateSeen": "5/1/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
@@ -1932,7 +1932,7 @@
         "year": "1957",
         "director": "Kalatozov",
         "dateSeen": "5/2/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -1940,14 +1940,14 @@
         "year": "1998",
         "director": "Dahl",
         "dateSeen": "5/3/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "1",
         "title": "Nerdcore Rising",
         "year": "2008",
         "dateSeen": "5/4/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "1",
@@ -1955,7 +1955,7 @@
         "year": "2009",
         "director": "Moverman",
         "dateSeen": "5/5/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -1963,7 +1963,7 @@
         "year": "2009",
         "director": "Linklater",
         "dateSeen": "5/6/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -1971,7 +1971,7 @@
         "year": "1974",
         "director": "Welles",
         "dateSeen": "5/7/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
@@ -1979,7 +1979,7 @@
         "year": "1950",
         "director": "Wilder",
         "dateSeen": "5/8/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -1987,7 +1987,7 @@
         "year": "2009",
         "director": "Eckman",
         "dateSeen": "5/9/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
@@ -1995,7 +1995,7 @@
         "year": "2008",
         "director": "Woody Allen",
         "dateSeen": "5/10/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
@@ -2003,7 +2003,7 @@
         "year": "2006",
         "director": "Greengrass",
         "dateSeen": "5/11/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -2011,7 +2011,7 @@
         "year": "2002",
         "director": "Greengrass",
         "dateSeen": "5/12/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -2019,7 +2019,7 @@
         "year": "1977",
         "director": "Woody Allen",
         "dateSeen": "5/13/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
@@ -2027,14 +2027,14 @@
         "year": "1980",
         "director": "Scorsese",
         "dateSeen": "5/14/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "5",
         "title": "His Butler's Sister",
         "year": "1943",
         "dateSeen": "6/1/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "1",
@@ -2042,7 +2042,7 @@
         "year": "2004",
         "director": "George",
         "dateSeen": "6/2/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -2050,7 +2050,7 @@
         "year": "1952",
         "director": "Hughes",
         "dateSeen": "6/3/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "1",
@@ -2058,7 +2058,7 @@
         "year": "2001",
         "director": "Stiller",
         "dateSeen": "6/4/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
@@ -2066,7 +2066,7 @@
         "year": "2007",
         "director": "Mottola",
         "dateSeen": "6/5/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -2074,7 +2074,7 @@
         "year": "1945",
         "director": "Wilder",
         "dateSeen": "6/6/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "5",
@@ -2082,7 +2082,7 @@
         "year": "1939",
         "director": "Wilder",
         "dateSeen": "6/7/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
@@ -2090,7 +2090,7 @@
         "year": "1960",
         "director": "Wilder",
         "dateSeen": "6/8/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -2098,7 +2098,7 @@
         "year": "1998",
         "director": "Soderburgh",
         "dateSeen": "6/9/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -2106,7 +2106,7 @@
         "year": "1967",
         "director": "Rosenberg",
         "dateSeen": "6/10/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -2114,7 +2114,7 @@
         "year": "1953",
         "director": "Wilder",
         "dateSeen": "6/11/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -2122,7 +2122,7 @@
         "year": "1985",
         "director": "Zemeckis",
         "dateSeen": "7/1/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -2130,7 +2130,7 @@
         "year": "1966",
         "director": "Antonioni",
         "dateSeen": "7/2/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
@@ -2138,7 +2138,7 @@
         "year": "1974",
         "director": "Coppola",
         "dateSeen": "7/3/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "5",
@@ -2146,7 +2146,7 @@
         "year": "1972",
         "director": "Coppola",
         "dateSeen": "7/4/2010",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "2",
@@ -2154,7 +2154,7 @@
         "year": "1979",
         "director": "Coppola",
         "dateSeen": "7/5/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
@@ -2162,7 +2162,7 @@
         "year": "1974",
         "director": "Coppola",
         "dateSeen": "7/6/2010",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "3",
@@ -2170,7 +2170,7 @@
         "year": "1995",
         "director": "Davis",
         "dateSeen": "7/7/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -2178,7 +2178,7 @@
         "year": "1996",
         "director": "Forman",
         "dateSeen": "7/8/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -2186,7 +2186,7 @@
         "year": "2009",
         "director": "Coppola",
         "dateSeen": "7/9/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "5",
@@ -2194,7 +2194,7 @@
         "year": "1988",
         "director": "Gallo",
         "dateSeen": "7/10/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -2202,7 +2202,7 @@
         "year": "1956",
         "director": "Kubrick",
         "dateSeen": "7/11/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -2210,7 +2210,7 @@
         "year": "1997",
         "director": "Thomas",
         "dateSeen": "7/12/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -2218,7 +2218,7 @@
         "year": "2010",
         "director": "Nolan",
         "dateSeen": "7/13/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "1",
@@ -2226,7 +2226,7 @@
         "year": "2003",
         "director": "Gallo",
         "dateSeen": "7/14/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -2234,7 +2234,7 @@
         "year": "2005",
         "director": "Johnson",
         "dateSeen": "7/15/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -2242,7 +2242,7 @@
         "year": "1914",
         "director": "Pastrone",
         "dateSeen": "7/16/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -2250,7 +2250,7 @@
         "year": "1973",
         "director": "Altman",
         "dateSeen": "7/17/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -2258,7 +2258,7 @@
         "year": "1939",
         "director": "Hawks",
         "dateSeen": "7/18/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "5",
@@ -2266,14 +2266,14 @@
         "year": "1973",
         "director": "Scorsese",
         "dateSeen": "7/25/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
         "title": "Beautiful Dreamer (The Making of SMiLE)",
         "year": "2003",
         "dateSeen": "7/26/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -2281,7 +2281,7 @@
         "year": "1975",
         "director": "Lumet",
         "dateSeen": "7/27/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -2289,7 +2289,7 @@
         "year": "1915",
         "director": "Griffith",
         "dateSeen": "7/29/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -2297,7 +2297,7 @@
         "year": "2006",
         "director": "Iñárritu",
         "dateSeen": "7/30/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "5",
@@ -2305,7 +2305,7 @@
         "year": "2004",
         "director": "Linklater",
         "dateSeen": "7/31/2010",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "2",
@@ -2313,7 +2313,7 @@
         "year": "2006",
         "director": "Altman",
         "dateSeen": "8/1/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
@@ -2321,14 +2321,14 @@
         "year": "2009",
         "director": "Alfredson",
         "dateSeen": "8/3/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
         "title": "Woodstock",
         "year": "1970",
         "dateSeen": "8/6/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "5",
@@ -2336,7 +2336,7 @@
         "year": "1989",
         "director": "Soderbergh",
         "dateSeen": "8/8/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "5",
@@ -2344,7 +2344,7 @@
         "year": "1948",
         "director": "Powell, Pressburger",
         "dateSeen": "8/8/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "5",
@@ -2352,7 +2352,7 @@
         "year": "1997",
         "director": "Amiel",
         "dateSeen": "8/9/2010",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "2",
@@ -2360,7 +2360,7 @@
         "year": "1996",
         "director": "Soderbergh",
         "dateSeen": "8/9/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -2368,7 +2368,7 @@
         "year": "1973",
         "director": "Malick",
         "dateSeen": "8/11/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
@@ -2376,7 +2376,7 @@
         "year": "1999",
         "director": "Kubrick",
         "dateSeen": "8/14/2010",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "3",
@@ -2384,7 +2384,7 @@
         "year": "1999",
         "director": "Shyamalan",
         "dateSeen": "8/14/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -2392,7 +2392,7 @@
         "year": "1979",
         "director": "Bridges",
         "dateSeen": "8/17/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "5",
@@ -2400,7 +2400,7 @@
         "year": "2000",
         "director": "Yang",
         "dateSeen": "8/20/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
@@ -2408,7 +2408,7 @@
         "year": "1968",
         "director": "Saks",
         "dateSeen": "8/21/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "5",
@@ -2416,7 +2416,7 @@
         "year": "1960",
         "director": "Powell",
         "dateSeen": "8/22/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -2424,7 +2424,7 @@
         "year": "2001",
         "director": "Benguigui",
         "dateSeen": "8/26/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
@@ -2432,7 +2432,7 @@
         "year": "1964",
         "director": "Ray",
         "dateSeen": "9/18/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -2440,7 +2440,7 @@
         "year": "1986",
         "director": "Berri",
         "dateSeen": "9/2/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -2448,7 +2448,7 @@
         "year": "1986",
         "director": "Berri",
         "dateSeen": "9/9/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -2456,7 +2456,7 @@
         "year": "1991",
         "director": "Chabrol",
         "dateSeen": "9/16/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -2464,7 +2464,7 @@
         "year": "1997",
         "director": "Guédiguian",
         "dateSeen": "9/23/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -2472,7 +2472,7 @@
         "year": "1996",
         "director": "Leconte",
         "dateSeen": "9/30/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -2480,7 +2480,7 @@
         "year": "2008",
         "director": "Aronofsky",
         "dateSeen": "10/6/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -2488,7 +2488,7 @@
         "year": "1998",
         "director": "Veber",
         "dateSeen": "10/10/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "5",
@@ -2496,7 +2496,7 @@
         "year": "1967",
         "director": "Tati",
         "dateSeen": "10/10/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -2504,7 +2504,7 @@
         "year": "2003",
         "director": "Kechiche",
         "dateSeen": "10/14/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -2512,7 +2512,7 @@
         "year": "1987",
         "director": "Stone",
         "dateSeen": "10/15/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -2520,7 +2520,7 @@
         "year": "2000",
         "director": "Leconte",
         "dateSeen": "10/21/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -2528,7 +2528,7 @@
         "year": "2002",
         "director": "Tremaine",
         "dateSeen": "10/26/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -2536,7 +2536,7 @@
         "year": "2010",
         "director": "Fincher",
         "dateSeen": "10/27/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
@@ -2544,7 +2544,7 @@
         "year": "1987",
         "director": "Malle",
         "dateSeen": "10/28/2010",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "2",
@@ -2552,7 +2552,7 @@
         "year": "2006",
         "director": "Tremaine",
         "dateSeen": "10/28/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -2560,7 +2560,7 @@
         "year": "2002",
         "director": "Ozon",
         "dateSeen": "11/4/2010",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "3",
@@ -2568,7 +2568,7 @@
         "year": "1982",
         "director": "Scorsese",
         "dateSeen": "11/6/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -2576,7 +2576,7 @@
         "year": "1990",
         "director": "Rappeneau",
         "dateSeen": "11/11/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
@@ -2584,7 +2584,7 @@
         "year": "2008",
         "director": "Soderbergh",
         "dateSeen": "11/12/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
@@ -2592,7 +2592,7 @@
         "year": "2008",
         "director": "Soderbergh",
         "dateSeen": "11/12/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -2600,7 +2600,7 @@
         "year": "1998",
         "director": "Eyre",
         "dateSeen": "11/28/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -2608,7 +2608,7 @@
         "year": "2002",
         "director": "Eyre",
         "dateSeen": "11/29/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -2616,7 +2616,7 @@
         "year": "1959",
         "director": "Bresson",
         "dateSeen": "12/3/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
@@ -2624,7 +2624,7 @@
         "year": "2001",
         "director": "Jackson",
         "dateSeen": "12/4/2010",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "3",
@@ -2632,7 +2632,7 @@
         "year": "2002",
         "director": "Jackson",
         "dateSeen": "12/6/2010",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "4",
@@ -2640,7 +2640,7 @@
         "year": "2003",
         "director": "Jackson",
         "dateSeen": "12/8/2010",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "4",
@@ -2648,7 +2648,7 @@
         "year": "2010",
         "director": "Banksy",
         "dateSeen": "12/10/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -2656,7 +2656,7 @@
         "year": "1953",
         "director": "Tati",
         "dateSeen": "12/13/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -2664,7 +2664,7 @@
         "year": "2010",
         "director": "Affleck",
         "dateSeen": "12/17/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -2672,7 +2672,7 @@
         "year": "2010",
         "director": "Cholodenko",
         "dateSeen": "12/23/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -2680,7 +2680,7 @@
         "year": "2010",
         "director": "Coen",
         "dateSeen": "12/24/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -2688,13 +2688,13 @@
         "year": "1945",
         "director": "Stahl",
         "dateSeen": "12/25/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
         "title": "Bring on the Night",
         "dateSeen": "12/26/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
@@ -2702,7 +2702,7 @@
         "year": "1997",
         "director": "Thomas",
         "dateSeen": "12/26/2010",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "5",
@@ -2710,7 +2710,7 @@
         "year": "2010",
         "director": "Aronofsky",
         "dateSeen": "12/30/2010",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -2718,7 +2718,7 @@
         "year": "2010",
         "director": "Russell",
         "dateSeen": "1/1/2011",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
@@ -2726,7 +2726,7 @@
         "year": "2001",
         "director": "Goldbacher",
         "dateSeen": "1/8/2011",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -2734,7 +2734,7 @@
         "year": "1965",
         "director": "Polanski",
         "dateSeen": "1/8/2011",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -2742,7 +2742,7 @@
         "year": "2009",
         "director": "Ficarra",
         "dateSeen": "1/9/2011",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
@@ -2750,7 +2750,7 @@
         "year": "2005",
         "director": "Jensen",
         "dateSeen": "1/9/2011",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -2758,7 +2758,7 @@
         "year": "2000",
         "director": "Jensen",
         "dateSeen": "1/10/2011",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -2766,7 +2766,7 @@
         "year": "2010",
         "director": "Cianfrance",
         "dateSeen": "1/18/2011",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -2774,7 +2774,7 @@
         "year": "1990",
         "director": "Franklin, Murray",
         "dateSeen": "1/20/2011",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -2782,7 +2782,7 @@
         "year": "2010",
         "director": "Hopper",
         "dateSeen": "1/20/2011",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
@@ -2790,7 +2790,7 @@
         "year": "1996",
         "director": "Von Trier",
         "dateSeen": "1/27/2011",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
@@ -2798,7 +2798,7 @@
         "year": "1991",
         "director": "Singleton",
         "dateSeen": "2/3/2011",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
@@ -2806,7 +2806,7 @@
         "year": "1952",
         "director": "Fleischer",
         "dateSeen": "2/6/2011",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -2814,7 +2814,7 @@
         "year": "1942",
         "director": "Keighley",
         "dateSeen": "3/4/2011",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "5",
@@ -2822,7 +2822,7 @@
         "year": "1967",
         "director": "Nichols",
         "dateSeen": "3/5/2011",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "4",
@@ -2830,7 +2830,7 @@
         "year": "1936",
         "director": "La Cava",
         "dateSeen": "3/8/2011",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "5",
@@ -2838,7 +2838,7 @@
         "year": "1974",
         "director": "Coppola",
         "dateSeen": "4/6/2011",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "5",
@@ -2846,7 +2846,7 @@
         "year": "1972",
         "director": "Coppola",
         "dateSeen": "4/17/2011",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "5",
@@ -2854,7 +2854,7 @@
         "year": "1974",
         "director": "Coppola",
         "dateSeen": "4/18/2011",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "3",
@@ -2862,7 +2862,7 @@
         "year": "1990",
         "director": "Coppola",
         "dateSeen": "4/19/2011",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
@@ -2870,14 +2870,14 @@
         "year": "1954",
         "director": "Becker",
         "dateSeen": "4/24/2011",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
         "title": "The Asphalt Jungle",
         "year": "1950",
         "dateSeen": "4/24/2011",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -2885,28 +2885,28 @@
         "year": "2011",
         "director": "Saldanha",
         "dateSeen": "4/25/2011",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "5",
         "title": "Some Like It Hot",
         "director": "Wilder",
         "dateSeen": "5/6/2011",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "3",
         "title": "Kind Hearts and Coronets",
         "year": "1949",
         "dateSeen": "5/17/2011",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
         "title": "Barney’s Version",
         "year": "2010",
         "dateSeen": "5/18/2011",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "5",
@@ -2914,7 +2914,7 @@
         "year": "1979",
         "director": "Tarkovsky",
         "dateSeen": "6/1/2011",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "1",
@@ -2922,7 +2922,7 @@
         "year": "1948",
         "director": "Farrow",
         "dateSeen": "6/4/2011",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "5",
@@ -2930,14 +2930,14 @@
         "year": "1994",
         "director": "Zwigoff",
         "dateSeen": "6/6/2011",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
         "title": "The Thin Red Line",
         "year": "1998",
         "dateSeen": "6/12/2011",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -2945,13 +2945,13 @@
         "year": "1987",
         "director": "Kubrick",
         "dateSeen": "6/14/2011",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "3",
         "title": "Anatomy of a Murder",
         "dateSeen": "6/17/2011",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -2959,14 +2959,14 @@
         "year": "2010",
         "director": "Tremaine",
         "dateSeen": "6/20/2011",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
         "title": "Essential Killing",
         "director": "Skolimowski",
         "dateSeen": "6/21/2011",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -2974,14 +2974,14 @@
         "year": "2011",
         "director": "Allen",
         "dateSeen": "6/24/2011",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "5",
         "title": "Yi Yi",
         "director": "Yang",
         "dateSeen": "7/4/2011",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "2",
@@ -2989,7 +2989,7 @@
         "year": "2010",
         "director": "Yates",
         "dateSeen": "7/14/2011",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -2997,28 +2997,28 @@
         "year": "2011",
         "director": "Yates",
         "dateSeen": "7/15/2011",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
         "title": "Taxi Driver",
         "director": "Scorsese",
         "dateSeen": "7/16/2011",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "5",
         "title": "To Be or Not To Be",
         "director": "Lubitsch",
         "dateSeen": "7/27/2011",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "2",
         "title": "The Passenger",
         "director": "Antonioni",
         "dateSeen": "8/11/2011",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -3026,21 +3026,21 @@
         "year": "1939",
         "director": "Carné",
         "dateSeen": "8/13/2011",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "5",
         "title": "Before Sunrise",
         "director": "Linklater",
         "dateSeen": "8/20/2011",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "5",
         "title": "Before Sunset",
         "director": "Linklater",
         "dateSeen": "8/21/2011",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "4",
@@ -3048,7 +3048,7 @@
         "year": "1955",
         "director": "Resnais",
         "dateSeen": "8/27/2011",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -3056,13 +3056,13 @@
         "year": "1999",
         "director": "Burke",
         "dateSeen": "9/2/2011",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "2",
         "title": "Des hommes et des dieux",
         "dateSeen": "9/8/2011",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -3070,7 +3070,7 @@
         "year": "2007",
         "director": "Gordon",
         "dateSeen": "9/22/2011",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
@@ -3078,7 +3078,7 @@
         "year": "2008",
         "director": "Kuenne",
         "dateSeen": "9/23/2011",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "5",
@@ -3086,7 +3086,7 @@
         "year": "1997",
         "director": "Tarantino",
         "dateSeen": "9/25/2011",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -3094,7 +3094,7 @@
         "year": "2010",
         "director": "Press",
         "dateSeen": "9/25/2011",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -3102,7 +3102,7 @@
         "year": "2008",
         "director": "Bahrani",
         "dateSeen": "10/8/2011",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -3110,14 +3110,14 @@
         "year": "2001",
         "director": "Bean",
         "dateSeen": "10/11/2011",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
         "title": "Rosemary’s Baby",
         "year": "1968",
         "dateSeen": "10/14/2011",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "5",
@@ -3125,7 +3125,7 @@
         "year": "1979",
         "director": "Kieslowski",
         "dateSeen": "10/18/2011",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "5",
@@ -3133,14 +3133,14 @@
         "year": "1991",
         "director": "Kieslowski",
         "dateSeen": "10/19/2011",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
         "title": "Humpday",
         "year": "2009",
         "dateSeen": "10/21/2011",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "5",
@@ -3148,7 +3148,7 @@
         "year": "2002",
         "director": "Almodovar",
         "dateSeen": "10/22/2011",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "5",
@@ -3156,14 +3156,14 @@
         "year": "1971",
         "director": "Bogdanovich",
         "dateSeen": "10/27/2011",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
         "title": "Live Flesh",
         "director": "Almodovar",
         "dateSeen": "11/2/2011",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
@@ -3171,7 +3171,7 @@
         "year": "1968",
         "director": "Lindsay Anderson",
         "dateSeen": "11/5/2011",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -3179,7 +3179,7 @@
         "year": "2009",
         "director": "Baker, Vlack",
         "dateSeen": "11/8/2011",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -3187,14 +3187,14 @@
         "year": "2011",
         "director": "Von Trier",
         "dateSeen": "12/6/2011",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "1",
         "title": "The Pastor’s Wife",
         "year": "2011",
         "dateSeen": "12/6/2011",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -3202,14 +3202,14 @@
         "year": "1969",
         "director": "Woody Allen",
         "dateSeen": "12/6/2011",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
         "title": "Warrior",
         "year": "2011",
         "dateSeen": "12/7/2011",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -3217,28 +3217,28 @@
         "year": "1968",
         "director": "Mel Brooks",
         "dateSeen": "12/8/2011",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
         "title": "Zelig",
         "director": "Woody Allen",
         "dateSeen": "12/10/2011",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "5",
         "title": "Rope",
         "director": "Hitchcock",
         "dateSeen": "12/11/2011",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "5",
         "title": "Rushmore",
         "director": "Wes Anderson",
         "dateSeen": "12/11/2011",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "4",
@@ -3246,28 +3246,28 @@
         "year": "1938",
         "director": "Hitchcock",
         "dateSeen": "12/13/2011",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
         "title": "The Earrings of Madame de....",
         "year": "1953",
         "dateSeen": "12/15/2011",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
         "title": "Cedar Rapids",
         "year": "2011",
         "dateSeen": "12/16/2011",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "5",
         "title": "Pulp Fiction",
         "director": "Tarantino",
         "dateSeen": "12/25/2011",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "2",
@@ -3275,27 +3275,27 @@
         "year": "2003",
         "director": "Bong",
         "dateSeen": "12/28/2011",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
         "title": "Unbreakable",
         "dateSeen": "12/30/2011",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
         "title": "Reservoir Dogs",
         "director": "Tarantino",
         "dateSeen": "12/30/2011",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "5",
         "title": "Boogie Nights",
         "director": "PT Anderson",
         "dateSeen": "12/31/2011",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "4",
@@ -3303,7 +3303,7 @@
         "year": "1928",
         "director": "Dreyer",
         "dateSeen": "1/2/2012",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
@@ -3311,7 +3311,7 @@
         "year": "1926",
         "director": "Bruckman, Keaton",
         "dateSeen": "1/4/2012",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -3319,7 +3319,7 @@
         "year": "1939",
         "director": "Ford",
         "dateSeen": "1/5/2012",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
@@ -3327,7 +3327,7 @@
         "year": "1927",
         "director": "Murnau",
         "dateSeen": "1/5/2012",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "5",
@@ -3335,7 +3335,7 @@
         "year": "1959",
         "director": "Truffaut",
         "dateSeen": "1/8/2012",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -3343,7 +3343,7 @@
         "year": "2011",
         "director": "Levine",
         "dateSeen": "1/8/2012",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
@@ -3351,7 +3351,7 @@
         "year": "1939",
         "director": "Renoir",
         "dateSeen": "1/9/2012",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "5",
@@ -3359,7 +3359,7 @@
         "year": "1963",
         "director": "Kurosawa",
         "dateSeen": "1/12/2012",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -3367,7 +3367,7 @@
         "year": "2011",
         "director": "Refn",
         "dateSeen": "1/15/2012",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
@@ -3375,7 +3375,7 @@
         "year": "1988",
         "director": "Kieslowski",
         "dateSeen": "1/18/2012",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -3383,7 +3383,7 @@
         "year": "2011",
         "director": "Kaurismaki",
         "dateSeen": "1/19/2012",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
@@ -3391,7 +3391,7 @@
         "year": "1988",
         "director": "Kieslowski",
         "dateSeen": "1/20/2012",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
@@ -3399,7 +3399,7 @@
         "year": "2011",
         "director": "Farhadi",
         "dateSeen": "1/21/2012",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
@@ -3407,7 +3407,7 @@
         "year": "1958",
         "director": "Wajda",
         "dateSeen": "1/27/2012",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -3415,7 +3415,7 @@
         "year": "1988",
         "director": "Kieslowski",
         "dateSeen": "1/29/2012",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -3423,7 +3423,7 @@
         "year": "1988",
         "director": "Kieslowski",
         "dateSeen": "2/5/2012",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -3431,7 +3431,7 @@
         "year": "2011",
         "director": "Miller",
         "dateSeen": "2/8/2012",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -3439,7 +3439,7 @@
         "year": "1965",
         "director": "Coe",
         "dateSeen": "2/8/2012",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -3447,7 +3447,7 @@
         "year": "1997",
         "director": "Mamet",
         "dateSeen": "2/9/2012",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -3455,7 +3455,7 @@
         "year": "1987",
         "director": "Mamet",
         "dateSeen": "2/9/2012",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "2",
@@ -3463,7 +3463,7 @@
         "year": "1988",
         "director": "Kieslowski",
         "dateSeen": "2/11/2012",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -3471,7 +3471,7 @@
         "year": "2011",
         "director": "Hazanavicius",
         "dateSeen": "2/14/2012",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -3479,7 +3479,7 @@
         "year": "1955",
         "director": "Mann",
         "dateSeen": "2/16/2012",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
@@ -3487,7 +3487,7 @@
         "year": "1988",
         "director": "Kieslowski",
         "dateSeen": "2/21/2012",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -3495,7 +3495,7 @@
         "year": "1988",
         "director": "Kieslowski",
         "dateSeen": "2/26/2012",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -3503,7 +3503,7 @@
         "year": "1988",
         "director": "Kieslowski",
         "dateSeen": "2/28/2012",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
@@ -3511,7 +3511,7 @@
         "year": "1988",
         "director": "Kieslowski",
         "dateSeen": "2/29/2012",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
@@ -3519,7 +3519,7 @@
         "year": "1988",
         "director": "Kieslowski",
         "dateSeen": "3/1/2012",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
@@ -3527,7 +3527,7 @@
         "year": "1993",
         "director": "Brooks",
         "dateSeen": "3/8/2012",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "2",
@@ -3535,7 +3535,7 @@
         "year": "1998",
         "director": "Frankenheimer",
         "dateSeen": "3/9/2012",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
@@ -3543,7 +3543,7 @@
         "year": "1984",
         "director": "Wenders",
         "dateSeen": "3/25/2012",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "5",
@@ -3551,7 +3551,7 @@
         "year": "1959",
         "director": "Wilder",
         "dateSeen": "3/27/2012",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "3",
@@ -3559,7 +3559,7 @@
         "year": "2011",
         "director": "McCarthy",
         "dateSeen": "3/28/2012",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "5",
@@ -3567,7 +3567,7 @@
         "year": "1932",
         "director": "Lubitsch",
         "dateSeen": "3/29/2012",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "3",
@@ -3575,7 +3575,7 @@
         "year": "1962",
         "director": "Harvey",
         "dateSeen": "4/3/2012",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -3583,7 +3583,7 @@
         "year": "2005",
         "director": "Provenza",
         "dateSeen": "4/6/2012",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
@@ -3591,14 +3591,14 @@
         "year": "1969",
         "director": "Costa-Garvas",
         "dateSeen": "4/8/2012",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
         "title": "Once Upon a Crime",
         "year": "1992",
         "dateSeen": "4/9/2012",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
@@ -3606,7 +3606,7 @@
         "year": "1953",
         "director": "Ozu",
         "dateSeen": "4/9/2012",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
@@ -3614,7 +3614,7 @@
         "year": "2008",
         "director": "Cantent",
         "dateSeen": "4/18/2012",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "3",
@@ -3622,7 +3622,7 @@
         "year": "1925",
         "director": "Chaplin",
         "dateSeen": "4/20/2012",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -3630,7 +3630,7 @@
         "year": "1947",
         "director": "Tourneur",
         "dateSeen": "4/21/2012",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "1",
@@ -3638,7 +3638,7 @@
         "year": "1980",
         "director": "Cimino",
         "dateSeen": "4/22/2012",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -3646,7 +3646,7 @@
         "year": "1988",
         "director": "Landis",
         "dateSeen": "5/1/2012",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -3654,7 +3654,7 @@
         "year": "2003",
         "director": "Berman, Pulcini",
         "dateSeen": "5/5/2012",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
@@ -3662,26 +3662,26 @@
         "year": "1975",
         "director": "Kubrick",
         "dateSeen": "5/7/2012",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "5",
         "title": "Crumb",
         "dateSeen": "5/7/2012",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "4",
         "title": "The Lives of Others",
         "year": "2006",
         "dateSeen": "5/20/2012",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "5",
         "title": "Eternal Sunshine of the Spotless Mind",
         "dateSeen": "5/21/2012",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "3",
@@ -3689,73 +3689,73 @@
         "year": "1986",
         "director": "Yang",
         "dateSeen": "5/22/2012",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
         "title": "The Fog of War",
         "dateSeen": "5/24/2012",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "5",
         "title": "Yi Yi (A one and a two)",
         "director": "Yang",
         "dateSeen": "5/28/2012",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "3",
         "title": "Jeff Who Lives at Home",
         "dateSeen": "6/10/2012",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
         "title": "Evil",
         "dateSeen": "6/15/2012",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
         "title": "Indie Game the Movie",
         "year": "2012",
         "dateSeen": "6/18/2012",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
         "title": "Seven Chances",
         "director": "Keaton",
         "dateSeen": "6/22/2012",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
         "title": "LOTR: The Fellowship of the Ring",
         "director": "Jackson",
         "dateSeen": "6/27/2012",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "3",
         "title": "LOTR: The Two Towers",
         "director": "Jackson",
         "dateSeen": "6/28/2012",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "3",
         "title": "When Harry Met Sally",
         "year": "1989",
         "dateSeen": "6/28/2012",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
         "title": "Saturday Night Fever",
         "dateSeen": "7/1/2012",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -3763,14 +3763,14 @@
         "year": "1976",
         "director": "Ritt",
         "dateSeen": "7/12/2012",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
         "title": "Schindler’s List",
         "director": "Spielberg",
         "dateSeen": "7/15/2012",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -3778,7 +3778,7 @@
         "year": "2012",
         "director": "Nolan",
         "dateSeen": "7/20/2012",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -3786,7 +3786,7 @@
         "year": "2011",
         "director": "Markovics",
         "dateSeen": "7/30/2012",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
@@ -3794,7 +3794,7 @@
         "year": "2007",
         "director": "Andersson",
         "dateSeen": "7/31/2012",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
@@ -3802,7 +3802,7 @@
         "year": "2000",
         "director": "Andersson",
         "dateSeen": "8/1/2012",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -3810,7 +3810,7 @@
         "year": "2007",
         "director": "Kolirin",
         "dateSeen": "8/8/2012",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
@@ -3818,7 +3818,7 @@
         "year": "2012",
         "director": "Wes Anderson",
         "dateSeen": "8/10/2012",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "5",
@@ -3826,7 +3826,7 @@
         "year": "2002",
         "director": "Almodovar",
         "dateSeen": "8/15/2012",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "3",
@@ -3834,7 +3834,7 @@
         "year": "2012",
         "director": "Almodovar",
         "dateSeen": "8/19/2012",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -3842,7 +3842,7 @@
         "year": "2011",
         "director": "Gelb",
         "dateSeen": "8/29/2012",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
@@ -3850,49 +3850,49 @@
         "year": "1951",
         "director": "Minnelli",
         "dateSeen": "9/3/2012",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
         "title": "True Romance",
         "year": "1993",
         "dateSeen": "9/3/2012",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "1",
         "title": "2016",
         "year": "2012",
         "dateSeen": "9/14/2012",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "5",
         "title": "Magnolia",
         "director": "P.T. Anderson",
         "dateSeen": "9/16/2012",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "2",
         "title": "Hard Eight",
         "director": "P.T. Anderson",
         "dateSeen": "10/9/2012",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
         "title": "Looper",
         "year": "2012",
         "dateSeen": "10/10/2012",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "5",
         "title": "Crumb",
         "director": "Zwigoff",
         "dateSeen": "10/15/2012",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "2",
@@ -3900,7 +3900,7 @@
         "year": "1993",
         "director": "Turteltaub",
         "dateSeen": "10/20/2012",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -3908,7 +3908,7 @@
         "year": "1983",
         "director": "Cronenberg",
         "dateSeen": "11/4/2012",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "5",
@@ -3916,7 +3916,7 @@
         "year": "1964",
         "director": "Godard",
         "dateSeen": "11/8/2012",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "3",
@@ -3924,7 +3924,7 @@
         "year": "2012",
         "director": "Mendes",
         "dateSeen": "11/14/2012",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -3932,14 +3932,14 @@
         "year": "2012",
         "director": "Spielberg",
         "dateSeen": "11/22/2012",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
         "title": "Farinelli",
         "year": "1994",
         "dateSeen": "12/4/2012",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -3947,7 +3947,7 @@
         "year": "1945",
         "director": "Fritz Lang",
         "dateSeen": "12/9/2012",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
@@ -3955,60 +3955,60 @@
         "year": "1994",
         "director": "Kieslowski",
         "dateSeen": "12/11/2012",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
         "title": "Solaris",
         "director": "Tarkovsky",
         "dateSeen": "12/13/2012",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
         "title": "Unfaithfully Yours",
         "dateSeen": "12/15/2012",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
         "title": "Les yeux sans visage",
         "dateSeen": "12/16/2012",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
         "title": "It’s a Wonderful Life",
         "dateSeen": "12/22/2012",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
         "title": "The Dictator",
         "director": "Cohen",
         "dateSeen": "12/28/2012",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
         "title": "The Hobbit",
         "director": "Jackson",
         "dateSeen": "12/30/2012",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
         "title": "United 93",
         "director": "Greengrass",
         "dateSeen": "12/30/2012",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "5",
         "title": "Pulp Fiction",
         "director": "Tarantino",
         "dateSeen": "12/31/2012",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "4",
@@ -4016,7 +4016,7 @@
         "year": "2012",
         "director": "Tarantino",
         "dateSeen": "1/2/2013",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -4024,7 +4024,7 @@
         "year": "1932",
         "director": "LeRoy",
         "dateSeen": "2/1/2013",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
@@ -4032,7 +4032,7 @@
         "year": "2001",
         "director": "Wes Anderson",
         "dateSeen": "2/16/2013",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "3",
@@ -4040,7 +4040,7 @@
         "year": "2012",
         "director": "P.T. Anderson",
         "dateSeen": "2/23/2013",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -4048,7 +4048,7 @@
         "year": "2012",
         "director": "Greenfield",
         "dateSeen": "2/26/2013",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -4056,7 +4056,7 @@
         "year": "2012",
         "director": "Bendjelloul",
         "dateSeen": "2/27/2013",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -4064,7 +4064,7 @@
         "year": "2012",
         "director": "Russell",
         "dateSeen": "3/9/2013",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -4072,7 +4072,7 @@
         "year": "1996",
         "director": "Leigh",
         "dateSeen": "3/16/2013",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "5",
@@ -4080,7 +4080,7 @@
         "year": "1995",
         "director": "Linklater",
         "dateSeen": "4/6/2013",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "3",
@@ -4088,7 +4088,7 @@
         "year": "1946",
         "director": "Capra",
         "dateSeen": "4/13/2013",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "5",
@@ -4096,7 +4096,7 @@
         "year": "2004",
         "director": "Linklater",
         "dateSeen": "4/19/2013",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "2",
@@ -4104,7 +4104,7 @@
         "year": "2013",
         "director": "Black",
         "dateSeen": "5/4/2013",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -4112,7 +4112,7 @@
         "year": "2012",
         "director": "Webb",
         "dateSeen": "5/8/2013",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -4120,7 +4120,7 @@
         "year": "1941",
         "director": "Waggner",
         "dateSeen": "5/16/2013",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -4128,7 +4128,7 @@
         "year": "2008",
         "director": "Winter",
         "dateSeen": "5/23/2013",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -4136,7 +4136,7 @@
         "year": "2013",
         "director": "Lin",
         "dateSeen": "5/24/2013",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -4144,7 +4144,7 @@
         "year": "2011",
         "director": "Cahill",
         "dateSeen": "5/31/2013",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -4152,7 +4152,7 @@
         "year": "2002",
         "director": "Hanson",
         "dateSeen": "6/5/2013",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "3",
@@ -4160,7 +4160,7 @@
         "year": "2013",
         "director": "Goldberg, Rogan",
         "dateSeen": "6/14/2013",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -4168,7 +4168,7 @@
         "year": "2013",
         "director": "Snyder",
         "dateSeen": "6/22/2013",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "5",
@@ -4176,7 +4176,7 @@
         "year": "2013",
         "director": "Linklater",
         "dateSeen": "6/28/2013",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -4184,7 +4184,7 @@
         "year": "1985",
         "director": "Kurosawa",
         "dateSeen": "7/18/2013",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -4192,7 +4192,7 @@
         "year": "2013",
         "director": "Mangold",
         "dateSeen": "7/26/2013",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -4200,7 +4200,7 @@
         "year": "2013",
         "director": "Kormakur",
         "dateSeen": "7/30/2013",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -4208,7 +4208,7 @@
         "year": "2013",
         "director": "Forster",
         "dateSeen": "8/2/2013",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -4216,7 +4216,7 @@
         "year": "2013",
         "director": "Thurber",
         "dateSeen": "8/11/2013",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
@@ -4224,7 +4224,7 @@
         "year": "1969",
         "director": "Coppola",
         "dateSeen": "8/18/2013",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -4232,7 +4232,7 @@
         "year": "2003",
         "director": "Gallo",
         "dateSeen": "8/19/2013",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "4",
@@ -4240,7 +4240,7 @@
         "year": "1962",
         "director": "Ozu",
         "dateSeen": "8/20/2013",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
@@ -4248,7 +4248,7 @@
         "year": "1994",
         "director": "Tarantino",
         "dateSeen": "10/9/2013",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "4",
@@ -4256,7 +4256,7 @@
         "year": "2004",
         "director": "Gondry",
         "dateSeen": "10/10/2013",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "4",
@@ -4264,7 +4264,7 @@
         "year": "2008",
         "director": "Kauffman",
         "dateSeen": "10/11/2013",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "3",
@@ -4272,7 +4272,7 @@
         "year": "2013",
         "director": "Cuaron",
         "dateSeen": "10/11/2013",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -4280,7 +4280,7 @@
         "year": "2013",
         "director": "Gordon-Levitt",
         "dateSeen": "10/12/2013",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -4288,7 +4288,7 @@
         "year": "2013",
         "director": "Greengrass",
         "dateSeen": "10/18/2013",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -4296,7 +4296,7 @@
         "year": "2013",
         "director": "Faxon & Rash",
         "dateSeen": "11/8/2013",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -4304,7 +4304,7 @@
         "year": "2009",
         "director": "Cutler",
         "dateSeen": "11/9/2013",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -4312,7 +4312,7 @@
         "year": "2010",
         "director": "Thoretton",
         "dateSeen": "11/12/2013",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -4320,7 +4320,7 @@
         "year": "2006",
         "director": "Frankel",
         "dateSeen": "11/15/2013",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -4328,7 +4328,7 @@
         "year": "1995",
         "director": "Winkler",
         "dateSeen": "11/24/2013",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
@@ -4336,7 +4336,7 @@
         "year": "1979",
         "director": "Kieslowski",
         "dateSeen": "11/24/2013",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "3",
@@ -4344,7 +4344,7 @@
         "year": "2007",
         "director": "Apatow",
         "dateSeen": "11/26/2013",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -4352,7 +4352,7 @@
         "year": "2008",
         "director": "Stoller",
         "dateSeen": "11/27/2013",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -4360,7 +4360,7 @@
         "year": "1994",
         "director": "Yakin",
         "dateSeen": "11/29/2013",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "5",
@@ -4368,7 +4368,7 @@
         "year": "2013",
         "director": "Linklater",
         "dateSeen": "12/1/2013",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "3",
@@ -4376,7 +4376,7 @@
         "year": "1954",
         "director": "Rossellini",
         "dateSeen": "12/2/2013",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -4384,7 +4384,7 @@
         "year": "1978",
         "director": "Cimino",
         "dateSeen": "12/5/2013",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
@@ -4392,7 +4392,7 @@
         "year": "2007",
         "director": "Mottola",
         "dateSeen": "12/8/2013",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "2",
@@ -4400,7 +4400,7 @@
         "year": "2013",
         "director": "Scorsese",
         "dateSeen": "1/1/2014",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -4408,7 +4408,7 @@
         "year": "2013",
         "director": "Russell",
         "dateSeen": "1/4/2014",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -4416,7 +4416,7 @@
         "year": "2013",
         "director": "Jonze",
         "dateSeen": "1/11/2014",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -4424,7 +4424,7 @@
         "year": "2002",
         "director": "Lehmann",
         "dateSeen": "1/24/2014",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
@@ -4432,7 +4432,7 @@
         "year": "2012",
         "director": "Vinterberg",
         "dateSeen": "3/20/2014",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -4440,7 +4440,7 @@
         "year": "2007",
         "director": "Apatow",
         "dateSeen": "3/21/2014",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "3",
@@ -4448,7 +4448,7 @@
         "year": "2004",
         "director": "Proenneke",
         "dateSeen": "3/22/2014",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
@@ -4456,7 +4456,7 @@
         "year": "1937",
         "director": "Renoir",
         "dateSeen": "3/22/2014",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "5",
@@ -4464,7 +4464,7 @@
         "year": "2013",
         "director": "Kechiche",
         "dateSeen": "4/1/2014",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -4472,7 +4472,7 @@
         "year": "1941",
         "director": "Sturges",
         "dateSeen": "4/9/2014",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -4480,7 +4480,7 @@
         "year": "1990",
         "director": "Kiarostami",
         "dateSeen": "4/10/2014",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -4488,7 +4488,7 @@
         "year": "2004",
         "director": "Hirschbiegel",
         "dateSeen": "4/16/2014",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -4496,7 +4496,7 @@
         "year": "2013",
         "director": "Coen",
         "dateSeen": "5/4/2014",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -4504,53 +4504,53 @@
         "year": "2014",
         "director": "Stoller",
         "dateSeen": "5/10/2014",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
         "title": "Encounters at the end of the world",
         "director": "Herzog",
         "dateSeen": "6/1/2014",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
         "title": "One flew over the cuckoo's nest",
         "dateSeen": "6/1/2014",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "3",
         "title": "Happy people a year in the taiga",
         "dateSeen": "6/2/2014",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
         "title": "Aguirre",
         "director": "Herzog",
         "dateSeen": "6/4/2014",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
         "title": "The Grand Budapest Hotel",
         "director": "Wes Anderson",
         "dateSeen": "6/8/2014",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
         "title": "A Walk to Remember",
         "dateSeen": "7/13/2014",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
         "title": "Guardians of the Galaxy",
         "year": "2014",
         "dateSeen": "8/9/2014",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -4558,105 +4558,105 @@
         "year": "2014",
         "director": "Linklater",
         "dateSeen": "8/16/2014",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
         "title": "The Hundred-Foot Journey",
         "year": "2014",
         "dateSeen": "8/25/2014",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
         "title": "Fault in Our Stars",
         "year": "2014",
         "dateSeen": "9/19/2014",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
         "title": "Amelie",
         "dateSeen": "10/5/2014",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "4",
         "title": "Godfather Pt. 1",
         "dateSeen": "10/6/2014",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "4",
         "title": "Some Like It Hot",
         "dateSeen": "10/7/2014",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "3",
         "title": "Zodiac",
         "dateSeen": "10/15/2014",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
         "title": "Katthi ",
         "dateSeen": "10/21/2014",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
         "title": "Chef",
         "dateSeen": "10/22/2014",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
         "title": "Instructions Not Included",
         "dateSeen": "10/23/2014",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "1",
         "title": "Sahara",
         "dateSeen": "10/24/2014",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
         "title": "Charlie and the Chocolate Factory",
         "dateSeen": "10/25/2014",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "1",
         "title": "The Purge",
         "dateSeen": "10/25/2014",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
         "title": "Purge 2",
         "dateSeen": "10/25/2014",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
         "title": "Interstellar",
         "dateSeen": "11/7/2014",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
         "title": "Contact",
         "dateSeen": "11/15/2014",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
         "title": "The Interview",
         "dateSeen": "12/26/2014",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -4664,7 +4664,7 @@
         "year": "1996",
         "director": "Buz Luhrmann",
         "dateSeen": "1/8/2015",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -4672,7 +4672,7 @@
         "year": "1992",
         "director": "Fricke",
         "dateSeen": "1/9/2015",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -4680,7 +4680,7 @@
         "year": "2014",
         "director": "Hirani",
         "dateSeen": "1/10/2015",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
@@ -4688,7 +4688,7 @@
         "year": "2014",
         "director": "Chazelle",
         "dateSeen": "1/10/2015",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -4696,7 +4696,7 @@
         "year": "2014",
         "director": "Inarritu",
         "dateSeen": "1/11/2015",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -4704,7 +4704,7 @@
         "year": "2014",
         "director": "DuVernay",
         "dateSeen": "1/12/2015",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -4712,7 +4712,7 @@
         "year": "1998",
         "director": "Coen Brothers",
         "dateSeen": "1/15/2015",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "3",
@@ -4720,7 +4720,7 @@
         "year": "1996",
         "director": "Thornton",
         "dateSeen": "1/22/2015",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -4728,7 +4728,7 @@
         "year": "2010",
         "director": "Kapadia",
         "dateSeen": "1/30/2015",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -4736,7 +4736,7 @@
         "year": "2013",
         "director": "Howard",
         "dateSeen": "1/31/2015",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -4744,7 +4744,7 @@
         "year": "2000",
         "director": "Kar-wai",
         "dateSeen": "2/1/2015",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -4752,7 +4752,7 @@
         "year": "1991",
         "director": "Demme",
         "dateSeen": "2/7/2015",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "2",
@@ -4760,7 +4760,7 @@
         "year": "1986",
         "director": "Mann",
         "dateSeen": "2/15/2015",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -4768,7 +4768,7 @@
         "year": "2014",
         "director": "Clment, Waititi",
         "dateSeen": "2/27/2015",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -4776,7 +4776,7 @@
         "year": "1951",
         "director": "Hitchcock",
         "dateSeen": "3/1/2015",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "2",
@@ -4784,7 +4784,7 @@
         "year": "2014",
         "director": "Janiak",
         "dateSeen": "3/22/2015",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
@@ -4792,7 +4792,7 @@
         "year": "1977",
         "director": "Lucas",
         "dateSeen": "4/4/2015",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -4800,7 +4800,7 @@
         "year": "1980",
         "director": "Kershner",
         "dateSeen": "4/4/2015",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -4808,7 +4808,7 @@
         "year": "1983",
         "director": "Marquand",
         "dateSeen": "4/4/2015",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "1",
@@ -4816,7 +4816,7 @@
         "year": "1983",
         "director": "Landis",
         "dateSeen": "4/14/2015",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -4824,7 +4824,7 @@
         "year": "2006",
         "director": "Almodovar",
         "dateSeen": "4/15/2015",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -4832,7 +4832,7 @@
         "year": "2001",
         "director": "Michalek",
         "dateSeen": "4/16/2015",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -4840,7 +4840,7 @@
         "year": "1964",
         "director": "Hitchcock",
         "dateSeen": "5/1/2015",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -4848,7 +4848,7 @@
         "year": "1975",
         "director": "Spielberg",
         "dateSeen": "5/10/2015",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -4856,7 +4856,7 @@
         "year": "2015",
         "director": "Taylor-Johnston",
         "dateSeen": "5/9/2015",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -4864,7 +4864,7 @@
         "year": "2015",
         "director": "Whedon",
         "dateSeen": "5/8/2015",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
@@ -4872,7 +4872,7 @@
         "year": "1999",
         "director": "Judge",
         "dateSeen": "5/22/2015",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "4",
@@ -4880,7 +4880,7 @@
         "year": "2002",
         "director": "Spielberg",
         "dateSeen": "5/23/2015",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "3",
@@ -4888,7 +4888,7 @@
         "year": "2007",
         "director": "Mottola",
         "dateSeen": "5/24/2015",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "2",
@@ -4896,7 +4896,7 @@
         "year": "1955",
         "director": "Wilder",
         "dateSeen": "5/27/2015",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -4904,7 +4904,7 @@
         "year": "2012",
         "director": "Layton",
         "dateSeen": "6/4/2015",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "5",
@@ -4912,7 +4912,7 @@
         "year": "2012",
         "director": "Vinterberg",
         "dateSeen": "6/5/2015",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "4",
@@ -4920,7 +4920,7 @@
         "year": "2015",
         "director": "Miller",
         "dateSeen": "6/7/2015",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -4928,7 +4928,7 @@
         "year": "2015",
         "director": "Rajamouli",
         "dateSeen": "7/25/2015",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
@@ -4936,7 +4936,7 @@
         "year": "2003",
         "director": "Tarantino",
         "dateSeen": "7/27/2015",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "4",
@@ -4944,7 +4944,7 @@
         "year": "2004",
         "director": "Tarantino",
         "dateSeen": "7/28/2015",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "4",
@@ -4952,7 +4952,7 @@
         "year": "1996",
         "director": "Suo",
         "dateSeen": "7/31/2015",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -4960,7 +4960,7 @@
         "year": "1960",
         "director": "Fellini",
         "dateSeen": "8/15/2015",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -4968,7 +4968,7 @@
         "year": "1947",
         "director": "Reed",
         "dateSeen": "9/6/2015",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -4976,7 +4976,7 @@
         "year": "2014",
         "director": "Poitras",
         "dateSeen": "9/13/2015",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -4984,7 +4984,7 @@
         "year": "2010",
         "director": "Fincher",
         "dateSeen": "9/14/2015",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "2",
@@ -4992,7 +4992,7 @@
         "year": "2010",
         "director": "Ferguson",
         "dateSeen": "9/15/2015",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "5",
@@ -5000,7 +5000,7 @@
         "year": "2008",
         "director": "Bigelow",
         "dateSeen": "9/19/2015",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "3",
@@ -5008,7 +5008,7 @@
         "year": "2006",
         "director": "Snyder",
         "dateSeen": "9/25/2015",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "2",
@@ -5016,7 +5016,7 @@
         "year": "2012",
         "director": "Lee",
         "dateSeen": "9/25/2015",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -5024,7 +5024,7 @@
         "year": "2006",
         "director": "Campbell",
         "dateSeen": "9/26/2015",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "2",
@@ -5032,7 +5032,7 @@
         "year": "2014",
         "director": "Vallée",
         "dateSeen": "9/28/2015",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -5040,7 +5040,7 @@
         "year": "2002",
         "director": "Columbus",
         "dateSeen": "9/29/2015",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "5",
@@ -5048,7 +5048,7 @@
         "year": "2006",
         "director": "Scorcese",
         "dateSeen": "10/2/2015",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "2",
@@ -5056,7 +5056,7 @@
         "year": "1999",
         "director": "Makin",
         "dateSeen": "10/3/2015",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -5064,7 +5064,7 @@
         "year": "2011",
         "director": "Stenders",
         "dateSeen": "10/15/2015",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -5072,7 +5072,7 @@
         "year": "2013",
         "director": "Knight",
         "dateSeen": "10/24/2015",
-        "repeat?": false,
+        "repeat": false,
         "imdb": "tt2692904"
     },
     {
@@ -5081,7 +5081,7 @@
         "year": "2015",
         "director": "Scott",
         "dateSeen": "10/30/2015",
-        "repeat?": false,
+        "repeat": false,
         "imdb": "tt3659388"
     },
     {
@@ -5090,7 +5090,7 @@
         "year": "1996",
         "director": "Rodriguez",
         "dateSeen": "10/31/2015",
-        "repeat?": false,
+        "repeat": false,
         "imdb": "tt0116367"
     },
     {
@@ -5099,7 +5099,7 @@
         "year": "2013",
         "director": "Frears",
         "dateSeen": "11/1/2015",
-        "repeat?": false,
+        "repeat": false,
         "imdb": "tt2431286"
     },
     {
@@ -5108,7 +5108,7 @@
         "year": "1991",
         "director": "Sonnenfeld",
         "dateSeen": "11/4/2015",
-        "repeat?": false,
+        "repeat": false,
         "imdb": "tt0101272"
     },
     {
@@ -5117,7 +5117,7 @@
         "year": "2015",
         "director": "Mendes",
         "dateSeen": "11/6/2015",
-        "repeat?": false,
+        "repeat": false,
         "imdb": "tt2379713"
     },
     {
@@ -5126,7 +5126,7 @@
         "year": "2015",
         "director": "Garland",
         "dateSeen": "11/8/2015",
-        "repeat?": false,
+        "repeat": false,
         "imdb": "tt0470752"
     },
     {
@@ -5135,7 +5135,7 @@
         "year": "2011",
         "director": "Jardin",
         "dateSeen": "11/11/2015",
-        "repeat?": false,
+        "repeat": false,
         "imdb": "tt1683921"
     },
     {
@@ -5144,7 +5144,7 @@
         "year": "2001",
         "director": "Stiller",
         "dateSeen": "11/13/2015",
-        "repeat?": true,
+        "repeat": true,
         "imdb": "tt0196229"
     },
     {
@@ -5153,7 +5153,7 @@
         "year": "2015",
         "director": "Ritchie",
         "dateSeen": "11/14/2015",
-        "repeat?": false,
+        "repeat": false,
         "imdb": "tt1638355"
     },
     {
@@ -5162,7 +5162,7 @@
         "year": "2015",
         "director": "Apatow",
         "dateSeen": "11/21/2015",
-        "repeat?": false,
+        "repeat": false,
         "imdb": "tt3152624"
     },
     {
@@ -5171,7 +5171,7 @@
         "year": "1942",
         "director": "Curtiz",
         "dateSeen": "12/1/2015",
-        "repeat?": true,
+        "repeat": true,
         "imdb": "tt0034583"
     },
     {
@@ -5180,7 +5180,7 @@
         "year": "2009",
         "director": "Tarantino",
         "dateSeen": "12/5/2015",
-        "repeat?": true,
+        "repeat": true,
         "imdb": "tt0361748"
     },
     {
@@ -5189,7 +5189,7 @@
         "year": "1952",
         "director": "Donen, Kelly",
         "dateSeen": "12/6/2015",
-        "repeat?": true,
+        "repeat": true,
         "imdb": "tt0045152"
     },
     {
@@ -5198,7 +5198,7 @@
         "year": "2012",
         "director": "Bigelow",
         "dateSeen": "12/12/2015",
-        "repeat?": true,
+        "repeat": true,
         "imdb": "tt1790885"
     },
     {
@@ -5207,7 +5207,7 @@
         "year": "2014",
         "director": "Chandor",
         "dateSeen": "12/13/2015",
-        "repeat?": false,
+        "repeat": false,
         "imdb": "tt2937898"
     },
     {
@@ -5216,7 +5216,7 @@
         "year": "1947",
         "director": "Seaton",
         "dateSeen": "12/18/2015",
-        "repeat?": false,
+        "repeat": false,
         "imdb": "tt0039628"
     },
     {
@@ -5225,7 +5225,7 @@
         "year": "1990",
         "director": "Columbus",
         "dateSeen": "12/19/2015",
-        "repeat?": false,
+        "repeat": false,
         "imdb": "tt0099785"
     },
     {
@@ -5234,7 +5234,7 @@
         "year": "1987",
         "director": "Edwards",
         "dateSeen": "12/20/2015",
-        "repeat?": false,
+        "repeat": false,
         "imdb": "tt0092666",
         "country": "USA"
     },
@@ -5244,7 +5244,7 @@
         "year": "1974",
         "director": "Lumet",
         "dateSeen": "12/21/2015",
-        "repeat?": false,
+        "repeat": false,
         "imdb": "tt0071877",
         "country": "United Kingdom"
     },
@@ -5254,7 +5254,7 @@
         "year": "1967",
         "director": "Gayday",
         "dateSeen": "12/22/2015",
-        "repeat?": false,
+        "repeat": false,
         "imdb": "tt0060584",
         "country": "Soviet Union"
     },
@@ -5264,7 +5264,7 @@
         "year": "2015",
         "director": "Abrams",
         "dateSeen": "12/25/2015",
-        "repeat?": false,
+        "repeat": false,
         "imdb": "tt2488496",
         "country": "USA"
     },
@@ -5274,7 +5274,7 @@
         "year": "1954",
         "director": "Kurosawa",
         "dateSeen": "12/26/2015",
-        "repeat?": true,
+        "repeat": true,
         "imdb": "tt0047478",
         "country": "Japan"
     },
@@ -5284,7 +5284,7 @@
         "year": "2015",
         "director": "Puthren",
         "dateSeen": "1/2/2016",
-        "repeat?": false,
+        "repeat": false,
         "imdb": "tt4679210",
         "country": "India"
     },
@@ -5294,7 +5294,7 @@
         "year": "2015",
         "director": "Inarritu",
         "dateSeen": "1/8/2016",
-        "repeat?": false,
+        "repeat": false,
         "imdb": "tt1663202",
         "country": "USA"
     },
@@ -5304,7 +5304,7 @@
         "year": "2015",
         "director": "McKay",
         "dateSeen": "1/11/2016",
-        "repeat?": false,
+        "repeat": false,
         "imdb": "tt1596363",
         "country": "USA"
     },
@@ -5314,7 +5314,7 @@
         "year": "1979",
         "director": "Tarkovsky",
         "dateSeen": "1/16/2016",
-        "repeat?": true,
+        "repeat": true,
         "imdb": "tt0079944",
         "country": "Soviet Union"
     },
@@ -5324,7 +5324,7 @@
         "year": "1987",
         "director": "Kubrick",
         "dateSeen": "2/9/2016",
-        "repeat?": true,
+        "repeat": true,
         "imdb": "tt0093058",
         "country": "USA"
     },
@@ -5334,7 +5334,7 @@
         "year": "1964",
         "director": "Kubrick",
         "dateSeen": "2/10/2016",
-        "repeat?": true,
+        "repeat": true,
         "imdb": "tt0057012",
         "country": "USA"
     },
@@ -5344,7 +5344,7 @@
         "year": "2002",
         "director": "Jonze",
         "dateSeen": "2/19/2016",
-        "repeat?": true,
+        "repeat": true,
         "imdb": "tt0268126",
         "country": "USA"
     },
@@ -5354,7 +5354,7 @@
         "year": "2009",
         "director": "Almodovar",
         "dateSeen": "3/1/2016",
-        "repeat?": false,
+        "repeat": false,
         "imdb": "tt0913425",
         "country": "Spain"
     },
@@ -5364,7 +5364,7 @@
         "year": "2015",
         "director": "Speilberg",
         "dateSeen": "3/5/2016",
-        "repeat?": false,
+        "repeat": false,
         "imdb": "tt3682448",
         "country": "USA"
     },
@@ -5374,7 +5374,7 @@
         "year": "2015",
         "director": "Abrahamson",
         "dateSeen": "3/17/2016",
-        "repeat?": false,
+        "repeat": false,
         "imdb": "tt3170832",
         "country": "USA"
     },
@@ -5384,7 +5384,7 @@
         "year": "2015",
         "director": "Roach",
         "dateSeen": "3/19/2016",
-        "repeat?": false,
+        "repeat": false,
         "imdb": "tt3203606",
         "country": "USA"
     },
@@ -5394,7 +5394,7 @@
         "year": "1960",
         "director": "Becker",
         "dateSeen": "3/20/2016",
-        "repeat?": false,
+        "repeat": false,
         "imdb": "tt0054407",
         "country": "France"
     },
@@ -5404,7 +5404,7 @@
         "year": "1962",
         "director": "Kobayashi",
         "dateSeen": "3/26/2016",
-        "repeat?": false,
+        "repeat": false,
         "imdb": "tt0056058",
         "country": "Japan"
     },
@@ -5414,7 +5414,7 @@
         "year": "2015",
         "director": "McCarthy",
         "dateSeen": "3/27/2016",
-        "repeat?": false,
+        "repeat": false,
         "imdb": "tt1895587",
         "country": "USA"
     },
@@ -5424,7 +5424,7 @@
         "year": "2016",
         "director": "Miller",
         "dateSeen": "4/1/2016",
-        "repeat?": false,
+        "repeat": false,
         "imdb": "tt1431045",
         "country": "USA"
     },
@@ -5434,7 +5434,7 @@
         "year": "1995",
         "director": "Linklater",
         "dateSeen": "4/14/2016",
-        "repeat?": true,
+        "repeat": true,
         "imdb": "tt0112471",
         "country": "USA"
     },
@@ -5444,7 +5444,7 @@
         "year": "2002",
         "director": "Liman",
         "dateSeen": "4/23/2016",
-        "repeat?": true,
+        "repeat": true,
         "imdb": "tt0258463",
         "country": "USA"
     },
@@ -5454,7 +5454,7 @@
         "year": "1989",
         "director": "Weir",
         "dateSeen": "4/25/2016",
-        "repeat?": false,
+        "repeat": false,
         "imdb": "tt0097165",
         "country": "USA"
     },
@@ -5464,7 +5464,7 @@
         "year": "2004",
         "director": "Greengrass",
         "dateSeen": "5/1/2016",
-        "repeat?": false,
+        "repeat": false,
         "imdb": "tt0372183",
         "country": "USA"
     },
@@ -5474,7 +5474,7 @@
         "year": "2007",
         "director": "Greengrass",
         "dateSeen": "5/1/2016",
-        "repeat?": false,
+        "repeat": false,
         "imdb": "tt0440963",
         "country": "USA"
     },
@@ -5484,7 +5484,7 @@
         "year": "2015",
         "director": "Johnson, Kaufman",
         "dateSeen": "5/2/2016",
-        "repeat?": false,
+        "repeat": false,
         "imdb": "tt2401878",
         "country": "USA"
     },
@@ -5494,7 +5494,7 @@
         "year": "2013",
         "director": "Allen",
         "dateSeen": "5/7/2016",
-        "repeat?": false,
+        "repeat": false,
         "imdb": "tt2334873",
         "country": "USA"
     },
@@ -5504,7 +5504,7 @@
         "year": "2015",
         "director": "Muylaert",
         "dateSeen": "5/12/2016",
-        "repeat?": false,
+        "repeat": false,
         "imdb": "tt3742378",
         "country": "Brazil"
     },
@@ -5514,7 +5514,7 @@
         "year": "1966",
         "director": "Leone",
         "dateSeen": "5/12/2016",
-        "repeat?": true,
+        "repeat": true,
         "imdb": "tt0060196",
         "country": "Italy"
     },
@@ -5524,7 +5524,7 @@
         "year": "2016",
         "director": "Trachtenberg",
         "dateSeen": "5/13/2016",
-        "repeat?": false,
+        "repeat": false,
         "imdb": "tt1179933",
         "country": "USA"
     },
@@ -5534,7 +5534,7 @@
         "year": "2014",
         "director": "Andersson",
         "dateSeen": "5/14/2016",
-        "repeat?": false,
+        "repeat": false,
         "imdb": "tt1883180",
         "country": "Sweden"
     },
@@ -5544,7 +5544,7 @@
         "year": "1999",
         "director": "Sommers",
         "dateSeen": "5/22/2016",
-        "repeat?": false,
+        "repeat": false,
         "imdb": "tt0120616"
     },
     {
@@ -5553,7 +5553,7 @@
         "year": "2016",
         "director": "Black",
         "dateSeen": "5/23/2016",
-        "repeat?": false,
+        "repeat": false,
         "imdb": "tt3799694"
     },
     {
@@ -5562,7 +5562,7 @@
         "year": "2000",
         "director": "Boyle",
         "dateSeen": "5/23/2016",
-        "repeat?": false,
+        "repeat": false,
         "imdb": "tt0163978"
     },
     {
@@ -5571,7 +5571,7 @@
         "year": "1957",
         "director": "Wilder",
         "dateSeen": "5/26/2016",
-        "repeat?": false,
+        "repeat": false,
         "imdb": "tt0051201"
     },
     {
@@ -5580,7 +5580,7 @@
         "year": "2015",
         "director": "Trevorrow",
         "dateSeen": "6/4/2016",
-        "repeat?": false,
+        "repeat": false,
         "imdb": "tt0369610"
     },
     {
@@ -5589,7 +5589,7 @@
         "year": "2016",
         "director": "Howard",
         "dateSeen": "6/9/2016",
-        "repeat?": false,
+        "repeat": false,
         "imdb": "tt2948356"
     },
     {
@@ -5598,7 +5598,7 @@
         "year": "2013",
         "director": "Harlin",
         "dateSeen": "6/16/2016",
-        "repeat?": false,
+        "repeat": false,
         "imdb": "tt1905040"
     },
     {
@@ -5607,7 +5607,7 @@
         "year": "2012",
         "director": "McQuarrie",
         "dateSeen": "6/22/2016",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
@@ -5615,7 +5615,7 @@
         "year": "1954",
         "director": "Hitchcock",
         "dateSeen": "7/2/2016",
-        "repeat?": true,
+        "repeat": true,
         "imdb": "tt0047396",
         "country": "USA"
     },
@@ -5625,7 +5625,7 @@
         "year": "2016",
         "director": "DeMonaco",
         "dateSeen": "7/8/2016",
-        "repeat?": false,
+        "repeat": false,
         "imdb": "tt4094724"
     },
     {
@@ -5634,7 +5634,7 @@
         "year": "1934",
         "director": "Capra",
         "dateSeen": "7/9/2016",
-        "repeat?": false,
+        "repeat": false,
         "imdb": "tt0025316",
         "country": "USA"
     },
@@ -5644,7 +5644,7 @@
         "year": "2015",
         "director": "Audiard",
         "dateSeen": "7/10/2016",
-        "repeat?": false,
+        "repeat": false,
         "imdb": "tt4082068",
         "country": "France"
     },
@@ -5654,7 +5654,7 @@
         "year": "1958",
         "director": "Welles",
         "dateSeen": "7/11/2016",
-        "repeat?": false,
+        "repeat": false,
         "imdb": "tt0052311",
         "country": "USA"
     },
@@ -5664,7 +5664,7 @@
         "year": "1948",
         "director": "De Sica",
         "dateSeen": "7/12/2016",
-        "repeat?": false,
+        "repeat": false,
         "imdb": "tt0040522",
         "country": "Italy"
     },
@@ -5674,7 +5674,7 @@
         "year": "2008",
         "director": "Stoller",
         "dateSeen": "7/14/2016",
-        "repeat?": true,
+        "repeat": true,
         "imdb": "tt0800039",
         "country": "USA"
     },
@@ -5684,7 +5684,7 @@
         "year": "1987",
         "director": "Reiner",
         "dateSeen": "7/16/2016",
-        "repeat?": false,
+        "repeat": false,
         "imdb": "tt0093779"
     },
     {
@@ -5693,7 +5693,7 @@
         "year": "1984",
         "director": "Brest",
         "dateSeen": "7/19/2016",
-        "repeat?": false,
+        "repeat": false,
         "imdb": "tt0086960"
     },
     {
@@ -5702,7 +5702,7 @@
         "year": "1995",
         "director": "Krissna",
         "dateSeen": "7/20/2016",
-        "repeat?": false,
+        "repeat": false,
         "country": "India"
     },
     {
@@ -5711,7 +5711,7 @@
         "year": "2016",
         "director": "Ranjith",
         "dateSeen": "7/21/2016",
-        "repeat?": false,
+        "repeat": false,
         "country": "India"
     },
     {
@@ -5720,7 +5720,7 @@
         "year": "2016",
         "director": "Greengrass",
         "dateSeen": "7/29/2016",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -5728,7 +5728,7 @@
         "year": "1999",
         "director": "Harlin",
         "dateSeen": "7/30/2016",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "5",
@@ -5736,7 +5736,7 @@
         "year": "1981",
         "director": "Petersen",
         "dateSeen": "8/5/2016",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -5744,7 +5744,7 @@
         "year": "2012",
         "director": "Subbaraj",
         "dateSeen": "8/6/2016",
-        "repeat?": false,
+        "repeat": false,
         "country": "India"
     },
     {
@@ -5753,7 +5753,7 @@
         "year": "2016",
         "director": "Coen Brothers",
         "dateSeen": "8/13/2016",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
@@ -5761,7 +5761,7 @@
         "year": "2009",
         "director": "Audiard",
         "dateSeen": "8/16/2016",
-        "repeat?": false,
+        "repeat": false,
         "country": "France"
     },
     {
@@ -5770,7 +5770,7 @@
         "year": "1924",
         "director": "Keaton",
         "dateSeen": "8/18/2016",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
@@ -5778,7 +5778,7 @@
         "year": "2014",
         "director": "Gordon",
         "dateSeen": "9/2/2016",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -5786,7 +5786,7 @@
         "year": "1961",
         "director": "Kazan",
         "dateSeen": "9/13/2016",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "5",
@@ -5794,7 +5794,7 @@
         "year": "2007",
         "director": "Mungiu",
         "dateSeen": "9/17/2016",
-        "repeat?": false,
+        "repeat": false,
         "imdb": "tt1032846",
         "country": "Romania"
     },
@@ -5804,7 +5804,7 @@
         "year": "2008",
         "director": "Alfredson",
         "dateSeen": "9/23/2016",
-        "repeat?": false,
+        "repeat": false,
         "country": "Sweden"
     },
     {
@@ -5813,7 +5813,7 @@
         "year": "2016",
         "director": "Alvarez",
         "dateSeen": "9/29/2016",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -5821,7 +5821,7 @@
         "year": "2016",
         "director": "Goetschel",
         "dateSeen": "9/30/2016",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -5829,7 +5829,7 @@
         "year": "2011",
         "director": "Fincher",
         "dateSeen": "9/30/2016",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "5",
@@ -5837,7 +5837,7 @@
         "year": "2004",
         "director": "Linklater",
         "dateSeen": "10/3/2016",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "2",
@@ -5845,7 +5845,7 @@
         "year": "2014",
         "director": "Dowdle",
         "dateSeen": "10/4/2016",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
@@ -5853,7 +5853,7 @@
         "year": "1954",
         "director": "Hitchcock",
         "dateSeen": "10/6/2016",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "1",
@@ -5861,7 +5861,7 @@
         "year": "2016",
         "director": "Taylor",
         "dateSeen": "10/15/2016",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
@@ -5869,7 +5869,7 @@
         "year": "2014",
         "director": "Fincher",
         "dateSeen": "10/15/2016",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -5877,7 +5877,7 @@
         "year": "2005",
         "director": "Deva",
         "dateSeen": "10/16/2016",
-        "repeat?": false,
+        "repeat": false,
         "country": "India"
     },
     {
@@ -5886,7 +5886,7 @@
         "year": "2001",
         "director": "Jackson",
         "dateSeen": "10/21/2016",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "3",
@@ -5894,7 +5894,7 @@
         "year": "2002",
         "director": "Jackson",
         "dateSeen": "10/22/2016",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "4",
@@ -5902,7 +5902,7 @@
         "year": "2003",
         "director": "Jackson",
         "dateSeen": "10/23/2016",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "4",
@@ -5910,7 +5910,7 @@
         "year": "1948",
         "director": "Hitchcock",
         "dateSeen": "10/29/2016",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "3",
@@ -5918,7 +5918,7 @@
         "year": "2005",
         "director": "Allen",
         "dateSeen": "10/30/2016",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -5926,7 +5926,7 @@
         "year": "1995",
         "director": "Fincher",
         "dateSeen": "10/31/2016",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
@@ -5934,7 +5934,7 @@
         "year": "2013",
         "director": "Linklater",
         "dateSeen": "11/1/2016",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "2",
@@ -5942,7 +5942,7 @@
         "year": "1980",
         "director": "Kubrick",
         "dateSeen": "11/4/2016",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "4",
@@ -5950,7 +5950,7 @@
         "year": "1998",
         "director": "Wes Anderson",
         "dateSeen": "11/7/2016",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "3",
@@ -5958,7 +5958,7 @@
         "year": "1961",
         "director": "Wilder",
         "dateSeen": "11/10/2016",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -5966,7 +5966,7 @@
         "year": "2016",
         "director": "Ragussis",
         "dateSeen": "11/12/2016",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -5974,7 +5974,7 @@
         "year": "1963",
         "director": "Young",
         "dateSeen": "11/19/2016",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "1",
@@ -5982,7 +5982,7 @@
         "year": "1964",
         "director": "Hamilton",
         "dateSeen": "11/19/2016",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -5990,7 +5990,7 @@
         "year": "1995",
         "director": "Campbell",
         "dateSeen": "11/20/2016",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "5",
@@ -5998,7 +5998,7 @@
         "year": "1994",
         "director": "Tarantino",
         "dateSeen": "11/23/2016",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "3",
@@ -6006,7 +6006,7 @@
         "year": "2001",
         "director": "Audiard",
         "dateSeen": "12/9/2016",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
@@ -6014,7 +6014,7 @@
         "year": "2016",
         "director": "Chan-wook",
         "dateSeen": "12/10/2016",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -6022,7 +6022,7 @@
         "year": "1949",
         "director": "Wyler",
         "dateSeen": "12/15/2016",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -6030,7 +6030,7 @@
         "year": "2005",
         "director": "Chow",
         "dateSeen": "12/16/2016",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -6038,7 +6038,7 @@
         "year": "1951",
         "director": "Hurst",
         "dateSeen": "12/24/2016",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -6046,7 +6046,7 @@
         "year": "2016",
         "director": "Tiwari",
         "dateSeen": "12/25/2016",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -6054,7 +6054,7 @@
         "year": "1974",
         "director": "Brooks",
         "dateSeen": "12/30/2016",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -6062,7 +6062,7 @@
         "year": "2014",
         "director": "Inarritu",
         "dateSeen": "2/8/2017",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "3",
@@ -6070,7 +6070,7 @@
         "year": "2016",
         "director": "Chazelle",
         "dateSeen": "2/9/2017",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -6078,7 +6078,7 @@
         "year": "2016",
         "director": "Lonergan",
         "dateSeen": "2/11/2017",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -6086,7 +6086,7 @@
         "year": "1999",
         "director": "Minghella",
         "dateSeen": "2/12/2017",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "1",
@@ -6094,7 +6094,7 @@
         "year": "2017",
         "director": "Stahelski",
         "dateSeen": "2/17/2017",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -6102,7 +6102,7 @@
         "year": "1935",
         "director": "Hitchcock",
         "dateSeen": "2/18/2017",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -6110,7 +6110,7 @@
         "year": "2008",
         "director": "Na Hong-Jin",
         "dateSeen": "2/18/2017",
-        "repeat?": false,
+        "repeat": false,
         "country": "South Korea"
     },
     {
@@ -6119,7 +6119,7 @@
         "year": "1946",
         "director": "Hitchcock",
         "dateSeen": "2/19/2017",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -6127,7 +6127,7 @@
         "year": "2010",
         "director": "Jeong-Beom",
         "dateSeen": "2/23/2017",
-        "repeat?": false,
+        "repeat": false,
         "country": "South Korea"
     },
     {
@@ -6136,7 +6136,7 @@
         "year": "2016",
         "director": "Villeneuve",
         "dateSeen": "2/24/2017",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -6144,7 +6144,7 @@
         "year": "2016",
         "director": "Shyamalan",
         "dateSeen": "2/25/2017",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
@@ -6152,7 +6152,7 @@
         "year": "2016",
         "director": "Farhadi",
         "dateSeen": "2/26/2017",
-        "repeat?": false,
+        "repeat": false,
         "imdb": "tt5186714",
         "country": "Iran"
     },
@@ -6162,7 +6162,7 @@
         "year": "2001",
         "director": "Lynch",
         "dateSeen": "3/7/2017",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "3",
@@ -6170,7 +6170,7 @@
         "year": "1959",
         "director": "Monicelli",
         "dateSeen": "3/8/2017",
-        "repeat?": false,
+        "repeat": false,
         "country": "Italy"
     },
     {
@@ -6179,7 +6179,7 @@
         "year": "1945",
         "director": "Fritz Lang",
         "dateSeen": "3/9/2017",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "5",
@@ -6187,7 +6187,7 @@
         "year": "1964",
         "director": "Edwards",
         "dateSeen": "3/19/2017",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "2",
@@ -6195,7 +6195,7 @@
         "year": "2011",
         "director": "Ficarra",
         "dateSeen": "3/30/2017",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
@@ -6203,7 +6203,7 @@
         "year": "2012",
         "director": "Cianfrance",
         "dateSeen": "3/31/2017",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -6211,7 +6211,7 @@
         "year": "1997",
         "director": "Besson",
         "dateSeen": "4/15/2017",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "3",
@@ -6219,7 +6219,7 @@
         "year": "1998",
         "director": "Ratner",
         "dateSeen": "4/16/2017",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "2",
@@ -6227,7 +6227,7 @@
         "year": "1981",
         "director": "Spielberg",
         "dateSeen": "4/28/2017",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -6235,7 +6235,7 @@
         "year": "2011",
         "director": "Allen",
         "dateSeen": "5/19/2017",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "3",
@@ -6243,7 +6243,7 @@
         "year": "1956",
         "director": "Hitchcock",
         "dateSeen": "5/25/2017",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -6251,7 +6251,7 @@
         "year": "1998",
         "director": "Ross",
         "dateSeen": "6/9/2017",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -6259,7 +6259,7 @@
         "year": "1977",
         "director": "Gilbert",
         "dateSeen": "6/23/2017",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -6267,7 +6267,7 @@
         "year": "1992",
         "director": "Tong",
         "dateSeen": "7/4/2017",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -6275,7 +6275,7 @@
         "year": "1997",
         "director": "Fincher",
         "dateSeen": "7/23/2017",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -6283,7 +6283,7 @@
         "year": "1996",
         "director": "Allen",
         "dateSeen": "7/24/2017",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -6291,7 +6291,7 @@
         "year": "2017",
         "director": "Nolan",
         "dateSeen": "7/26/2017",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -6299,7 +6299,7 @@
         "year": "2016",
         "director": "Dubuque",
         "dateSeen": "7/27/2017",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -6307,7 +6307,7 @@
         "year": "2008",
         "director": "Yip",
         "dateSeen": "7/30/2017",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "1",
@@ -6315,7 +6315,7 @@
         "year": "2016",
         "director": "Stanton, MacLane",
         "dateSeen": "8/3/2017",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -6323,7 +6323,7 @@
         "year": "1969",
         "director": "Allen",
         "dateSeen": "8/5/2017",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -6331,7 +6331,7 @@
         "year": "2017",
         "director": "Peele",
         "dateSeen": "8/12/2017",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
@@ -6339,7 +6339,7 @@
         "year": "1948",
         "director": "Powell, Pressburger",
         "dateSeen": "8/14/2017",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "3",
@@ -6347,7 +6347,7 @@
         "year": "1952",
         "director": "De Sica",
         "dateSeen": "8/17/2017",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -6355,7 +6355,7 @@
         "year": "2001",
         "director": "Ratner",
         "dateSeen": "8/18/2017",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "4",
@@ -6363,7 +6363,7 @@
         "year": "1999",
         "director": "Kaplun",
         "dateSeen": "8/20/2017",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -6371,7 +6371,7 @@
         "year": "2002",
         "director": "Chan-wook",
         "dateSeen": "8/24/2017",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -6379,7 +6379,7 @@
         "year": "1942",
         "director": "Lewton",
         "dateSeen": "10/27/2017",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -6387,7 +6387,7 @@
         "year": "1943",
         "director": "Lewton",
         "dateSeen": "10/28/2017",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -6395,7 +6395,7 @@
         "year": "1943",
         "director": "Lewton",
         "dateSeen": "10/29/2017",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "5",
@@ -6403,7 +6403,7 @@
         "year": "2007",
         "director": "Tarantino",
         "dateSeen": "11/5/2017",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "3",
@@ -6411,7 +6411,7 @@
         "year": "2012",
         "director": "Tarantino",
         "dateSeen": "11/6/2017",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "3",
@@ -6419,7 +6419,7 @@
         "year": "1948",
         "director": "Sturges",
         "dateSeen": "11/10/2017",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
@@ -6427,7 +6427,7 @@
         "year": "1963",
         "director": "Kurosawa",
         "dateSeen": "11/14/2017",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "3",
@@ -6435,7 +6435,7 @@
         "year": "1961",
         "director": "Ray",
         "dateSeen": "11/22/2017",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -6443,7 +6443,7 @@
         "year": "1939",
         "director": "Hitchock",
         "dateSeen": "11/23/2017",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -6451,7 +6451,7 @@
         "year": "2007",
         "director": "Ratner",
         "dateSeen": "11/24/2017",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "3",
@@ -6459,7 +6459,7 @@
         "year": "1997",
         "director": "Roach",
         "dateSeen": "11/29/2017",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "2",
@@ -6467,7 +6467,7 @@
         "year": "1999",
         "director": "Roach",
         "dateSeen": "11/30/2017",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "2",
@@ -6475,7 +6475,7 @@
         "year": "2002",
         "director": "Roach",
         "dateSeen": "12/2/2017",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "3",
@@ -6483,7 +6483,7 @@
         "year": "2017",
         "director": "Showalter",
         "dateSeen": "12/24/2017",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -6491,7 +6491,7 @@
         "year": "2017",
         "director": "Bigelow",
         "dateSeen": "12/27/2017",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
@@ -6499,7 +6499,7 @@
         "year": "1988",
         "director": "McTiernan",
         "dateSeen": "12/29/2017",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
@@ -6507,7 +6507,7 @@
         "year": "2014",
         "director": "Almodovar",
         "dateSeen": "1/1/2018",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -6515,7 +6515,7 @@
         "year": "1999",
         "director": "Almodovar",
         "dateSeen": "1/2/2018",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -6523,7 +6523,7 @@
         "year": "2002",
         "director": "Hanson",
         "dateSeen": "1/13/2018",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "4",
@@ -6531,7 +6531,7 @@
         "year": "2017",
         "director": "Lindsay, Martin",
         "dateSeen": "1/15/2018",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -6539,7 +6539,7 @@
         "year": "2017",
         "director": "Franco",
         "dateSeen": "1/22/2018",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -6547,7 +6547,7 @@
         "year": "2017",
         "director": "Wright",
         "dateSeen": "2/10/2018",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -6555,7 +6555,7 @@
         "year": "2017",
         "director": "McDonagh",
         "dateSeen": "2/15/2018",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -6563,7 +6563,7 @@
         "year": "2017",
         "director": "PT Anderson",
         "dateSeen": "4/6/2018",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -6571,7 +6571,7 @@
         "year": "1957",
         "director": "Wilder",
         "dateSeen": "5/18/2018",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
@@ -6579,7 +6579,7 @@
         "year": "1975",
         "director": "Kubrick",
         "dateSeen": "6/10/2018",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "4",
@@ -6587,7 +6587,7 @@
         "year": "2004",
         "director": "Hirschbiegel",
         "dateSeen": "6/12/2018",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "3",
@@ -6595,7 +6595,7 @@
         "year": "1956",
         "director": "Lang",
         "dateSeen": "6/17/2018",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -6603,7 +6603,7 @@
         "year": "1937",
         "director": "Lang",
         "dateSeen": "6/19/2018",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -6611,7 +6611,7 @@
         "year": "2017",
         "director": "Unkrich",
         "dateSeen": "6/23/2018",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -6619,7 +6619,7 @@
         "year": "2016",
         "director": "Almodovar",
         "dateSeen": "7/1/2018",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
@@ -6627,7 +6627,7 @@
         "year": "1957",
         "director": "Mackendrick",
         "dateSeen": "7/4/2018",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "5",
@@ -6635,7 +6635,7 @@
         "year": "2000",
         "director": "Yang",
         "dateSeen": "7/6/2018",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "5",
@@ -6643,7 +6643,7 @@
         "year": "2011",
         "director": "Gelb",
         "dateSeen": "7/14/2018",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "5",
@@ -6651,7 +6651,7 @@
         "year": "1994",
         "director": "Besson",
         "dateSeen": "7/25/2018",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "2",
@@ -6659,7 +6659,7 @@
         "year": "2000",
         "director": "Chan-wook",
         "dateSeen": "8/24/2018",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -6667,7 +6667,7 @@
         "year": "2013",
         "director": "Osder",
         "dateSeen": "8/25/2018",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "5",
@@ -6675,7 +6675,7 @@
         "year": "2006",
         "director": "Scorcese",
         "dateSeen": "8/31/2018",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "3",
@@ -6683,7 +6683,7 @@
         "year": "1940",
         "director": "Lubitsch",
         "dateSeen": "9/8/2018",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -6691,7 +6691,7 @@
         "year": "1997",
         "director": "Brooks",
         "dateSeen": "9/14/2018",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -6699,7 +6699,7 @@
         "year": "2018",
         "director": "Neville",
         "dateSeen": "9/27/2018",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": 3,
@@ -6707,7 +6707,7 @@
         "year": "2013",
         "director": "Rogen, Goldberg",
         "dateSeen": "10/10/2018",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "2",
@@ -6715,7 +6715,7 @@
         "year": "2012",
         "director": "Jackson",
         "dateSeen": "10/10/2018",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "3",
@@ -6723,7 +6723,7 @@
         "year": "2008",
         "director": "Green",
         "dateSeen": "10/14/2018",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "4",
@@ -6731,7 +6731,7 @@
         "year": "2000",
         "director": "Scott",
         "dateSeen": "10/15/2018",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": "4",
@@ -6739,7 +6739,7 @@
         "year": "2000",
         "director": "Ritchie",
         "dateSeen": "10/18/2018",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -6747,7 +6747,7 @@
         "year": "1967",
         "director": "Melville",
         "dateSeen": "10/19/2018",
-        "repeat?": true
+        "repeat": true
     },
     {
         "rating": 4,
@@ -6755,7 +6755,7 @@
         "year": "1998",
         "director": "Ritchie",
         "dateSeen": "10/20/2018",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "3",
@@ -6763,7 +6763,7 @@
         "year": "2003",
         "director": "Weir",
         "dateSeen": "10/28/2018",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "2",
@@ -6771,7 +6771,7 @@
         "year": "2014",
         "director": "Vaughn",
         "dateSeen": "11/2/2018",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
@@ -6779,7 +6779,7 @@
         "year": "1997",
         "director": "Niccol",
         "dateSeen": "11/23/2018",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
@@ -6787,7 +6787,7 @@
         "year": "2018",
         "director": "Jackson",
         "dateSeen": "12/14/2018",
-        "repeat?": false
+        "repeat": false
     },
     {
         "rating": "4",
@@ -6795,6 +6795,6 @@
         "year": "1998",
         "director": "Spielberg",
         "dateSeen": "12/14/2018",
-        "repeat?": false
+        "repeat": true
     }
 ]

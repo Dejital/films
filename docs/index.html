@@ -25,13 +25,20 @@
             <div class="pure-u-1 pure-u-md-2-3 films" ng-controller="FilmsController">
 
                 <div id="analytics">
-                    <button class="pure-button" ng-hide="showAnalytics" href="" ng-click="showAnalytics=true">Show Data Charts</button>
-                    <button class="pure-button" ng-show="showAnalytics" ng-click="showAnalytics=false">Hide Data Charts</button>
+                    <button class="pure-button pure-button-primary" ng-hide="showAnalytics" href="" ng-click="showAnalytics=true">📈 Show Charts</button>
+                    <button class="pure-button pure-button-primary" ng-show="showAnalytics" ng-click="showAnalytics=false">📈 Hide Charts</button>
 
-                    <div ng-if="showAnalytics" ng-controller="ChartsController">
+                    <div ng-if="showAnalytics" style="margin-bottom:3em;" ng-controller="ChartsController">
+                        <div id="yearsChart" style="margin: 0 auto"></div>
                         <div id="ratingsChart" style="margin: 0 auto"></div>
                         <div id="decadesChart" style="margin: 0 auto"></div>
-                        <div id="yearsChart" style="margin: 0 auto"></div>
+                        <div id="daysChart" style="margin: 2em auto 0"></div>
+                        <div id="repeatsChart" style="margin: 0 auto"></div>
+                        <div id="monthsChart" style="margin: 0 auto 1em"></div>
+                        <span>
+                          <a href="https://github.com/Dejital/films/raw/master/app/data/data.json">Download the raw data</a> <br>
+                            <a href="#">↑ Back to top</a>
+                        </span>
                     </div>
                 </div>
 

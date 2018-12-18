@@ -34,9 +34,39 @@ module.exports = function($scope, filmDataService) {
     {name: '2018', y: 0},
     {name: '2019', y: 0}
   ];
+  var months = [
+    {name: 'Jan', y: 0},
+    {name: 'Feb', y: 0},
+    {name: 'Mar', y: 0},
+    {name: 'Apr', y: 0},
+    {name: 'May', y: 0},
+    {name: 'Jun', y: 0},
+    {name: 'Jul', y: 0},
+    {name: 'Aug', y: 0},
+    {name: 'Sep', y: 0},
+    {name: 'Oct', y: 0},
+    {name: 'Nov', y: 0},
+    {name: 'Dec', y: 0}
+  ];
+  var days = [
+    {name: 'Sunday', y: 0},
+    {name: 'Monday', y: 0},
+    {name: 'Tuesday', y: 0},
+    {name: 'Wednesday', y: 0},
+    {name: 'Thursday', y: 0},
+    {name: 'Friday', y: 0},
+    {name: 'Saturday', y: 0}
+  ];
+  var repeats = [
+    {name: 'First', y: 0},
+    {name: 'Repeat', y: 0}
+  ];
   var data = filmDataService.getFilms();
   angular.forEach(data, function(film){
     scores[film.rating - 1].y += 1;
+
+    if (!film.repeat) repeats[0].y += 1;
+    else repeats[1].y += 1;
 
     if (film.year) {
       if (film.year >= 2010) decades[8].y += 1;
@@ -63,6 +93,29 @@ module.exports = function($scope, filmDataService) {
       else if (year == 2011) years[2].y += 1;
       else if (year == 2010) years[1].y += 1;
       else if (year == 2009) years[0].y += 1;
+
+      var month = film.dateSeen.getMonth();
+      if (month == 1) months[0].y += 1;
+      else if (month == 2) months[1].y += 1;
+      else if (month == 3) months[2].y += 1;
+      else if (month == 4) months[3].y += 1;
+      else if (month == 5) months[4].y += 1;
+      else if (month == 6) months[5].y += 1;
+      else if (month == 7) months[6].y += 1;
+      else if (month == 8) months[7].y += 1;
+      else if (month == 9) months[8].y += 1;
+      else if (month == 10) months[9].y += 1;
+      else if (month == 11) months[10].y += 1;
+      else months[11].y += 1;
+
+      var day = film.dateSeen.getDay();
+      if (day == 0) days[0].y += 1;
+      else if (day == 1) days[1].y += 1;
+      else if (day == 2) days[2].y += 1;
+      else if (day == 3) days[3].y += 1;
+      else if (day == 4) days[4].y += 1;
+      else if (day == 5) days[5].y += 1;
+      else days[6].y += 1;
     }
   });
 
@@ -100,6 +153,41 @@ module.exports = function($scope, filmDataService) {
       type: 'pie',
       innerSize: '50%',
       data: scores
+    }]
+  });
+
+  Highcharts.chart('repeatsChart', {
+    chart: {
+      type: 'pie'
+    },
+    title: {
+      text: 'First vs Repeat Viewings',
+      y: 80
+    },
+    plotOptions: {
+      pie: {
+        size: '100%',
+        dataLabels: {
+          enabled: true,
+          distance: -50,
+          style: {
+            fontWeight: 'bold',
+            color: 'black'
+          }
+        },
+        startAngle: -90,
+        endAngle: 90,
+        center: ['50%', '75%']
+      }
+    },
+    credits: {
+      enabled: false
+    },
+    series: [{
+      name: 'Count',
+      type: 'pie',
+      innerSize: '50%',
+      data: repeats
     }]
   });
 
@@ -170,6 +258,76 @@ module.exports = function($scope, filmDataService) {
       name: 'Count',
       colorByPoint: true,
       data: years
+    }]
+  });
+
+  Highcharts.chart('monthsChart', {
+    chart: {
+      type: 'column'
+    },
+    title: {
+      text: 'Films Watched By Month'
+    },
+    xAxis: {
+      type: 'category'
+    },
+    yAxis: {
+      title: {
+        enabled: false
+      }
+    },
+    plotOptions: {
+      series: {
+        dataLabels: {
+          enabled: false
+        }
+      }
+    },
+    legend: {
+      enabled: false
+    },
+    credits: {
+      enabled: false
+    },
+    series: [{
+      name: 'Count',
+      colorByPoint: true,
+      data: months
+    }]
+  });
+
+  Highcharts.chart('daysChart', {
+    chart: {
+      type: 'column'
+    },
+    title: {
+      text: 'Films Watched By Day of the Week'
+    },
+    xAxis: {
+      type: 'category'
+    },
+    yAxis: {
+      title: {
+        enabled: false
+      }
+    },
+    plotOptions: {
+      series: {
+        dataLabels: {
+          enabled: false
+        }
+      }
+    },
+    legend: {
+      enabled: false
+    },
+    credits: {
+      enabled: false
+    },
+    series: [{
+      name: 'Count',
+      colorByPoint: true,
+      data: days
     }]
   });
 
