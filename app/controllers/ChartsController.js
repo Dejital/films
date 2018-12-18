@@ -231,7 +231,7 @@ module.exports = function($scope, filmDataService) {
       type: 'column'
     },
     title: {
-      text: 'Films Watched By Year'
+      text: 'Films Watched Each Year'
     },
     xAxis: {
       type: 'category'
