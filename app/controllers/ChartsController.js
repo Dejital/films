@@ -11,58 +11,58 @@ module.exports = function($scope, filmDataService) {
     {name: '5', y: 0, color: '#FDC131'},
   ];
   var decades = [
-    {name: '2010s', y: 0},
-    {name: '2000s', y: 0},
-    {name: '1990s', y: 0},
-    {name: '1980s', y: 0},
-    {name: '1970s', y: 0},
-    {name: '1960s', y: 0},
-    {name: '1950s', y: 0},
+    {name: '<1940', y: 0},
     {name: '1940s', y: 0},
-    {name: '<1940', y: 0}
+    {name: '1950s', y: 0},
+    {name: '1960s', y: 0},
+    {name: '1970s', y: 0},
+    {name: '1980s', y: 0},
+    {name: '1990s', y: 0},
+    {name: '2000s', y: 0},
+    {name: '2010s', y: 0}
   ];
   var years = [
-    {name: '2019', y: 0},
-    {name: '2018', y: 0},
-    {name: '2017', y: 0},
-    {name: '2016', y: 0},
-    {name: '2015', y: 0},
-    {name: '2014', y: 0},
-    {name: '2013', y: 0},
-    {name: '2012', y: 0},
-    {name: '2011', y: 0},
+    {name: '2009', y: 0},
     {name: '2010', y: 0},
-    {name: '2009', y: 0}
+    {name: '2011', y: 0},
+    {name: '2012', y: 0},
+    {name: '2013', y: 0},
+    {name: '2014', y: 0},
+    {name: '2015', y: 0},
+    {name: '2016', y: 0},
+    {name: '2017', y: 0},
+    {name: '2018', y: 0},
+    {name: '2019', y: 0}
   ];
   var data = filmDataService.getFilms();
   angular.forEach(data, function(film){
     scores[film.rating - 1].y += 1;
 
     if (film.year) {
-      if (film.year >= 2010) decades[0].y += 1;
-      else if (film.year >= 2000) decades[1].y += 1;
-      else if (film.year >= 1990) decades[2].y += 1;
-      else if (film.year >= 1980) decades[3].y += 1;
+      if (film.year >= 2010) decades[8].y += 1;
+      else if (film.year >= 2000) decades[7].y += 1;
+      else if (film.year >= 1990) decades[6].y += 1;
+      else if (film.year >= 1980) decades[5].y += 1;
       else if (film.year >= 1970) decades[4].y += 1;
-      else if (film.year >= 1960) decades[5].y += 1;
-      else if (film.year >= 1950) decades[6].y += 1;
-      else if (film.year >= 1940) decades[7].y += 1;
-      else decades[8].y += 1;
+      else if (film.year >= 1960) decades[3].y += 1;
+      else if (film.year >= 1950) decades[2].y += 1;
+      else if (film.year >= 1940) decades[1].y += 1;
+      else decades[0].y += 1;
     }
 
     if (film.dateSeen) {
       var year = film.dateSeen.getFullYear();
-      if (year == 2019) years[0].y += 1;
-      else if (year == 2018) years[1].y += 1;
-      else if (year == 2017) years[2].y += 1;
-      else if (year == 2016) years[3].y += 1;
-      else if (year == 2015) years[4].y += 1;
+      if (year == 2019) years[10].y += 1;
+      else if (year == 2018) years[9].y += 1;
+      else if (year == 2017) years[8].y += 1;
+      else if (year == 2016) years[7].y += 1;
+      else if (year == 2015) years[6].y += 1;
       else if (year == 2014) years[5].y += 1;
-      else if (year == 2013) years[6].y += 1;
-      else if (year == 2012) years[7].y += 1;
-      else if (year == 2011) years[8].y += 1;
-      else if (year == 2010) years[9].y += 1;
-      else if (year == 2009) years[10].y += 1;
+      else if (year == 2013) years[4].y += 1;
+      else if (year == 2012) years[3].y += 1;
+      else if (year == 2011) years[2].y += 1;
+      else if (year == 2010) years[1].y += 1;
+      else if (year == 2009) years[0].y += 1;
     }
   });
 
@@ -105,23 +105,28 @@ module.exports = function($scope, filmDataService) {
 
   Highcharts.chart('decadesChart', {
     chart: {
-      type: 'pie'
+      type: 'column'
     },
     title: {
-      text: 'Film Decades'
+      text: 'Films By Decade'
+    },
+    xAxis: {
+      type: 'category'
+    },
+    yAxis: {
+      title: {
+        enabled: false
+      }
     },
     plotOptions: {
-      pie: {
-        startAngle: 90,
+      series: {
         dataLabels: {
-          enabled: true,
-          distance: -50,
-          style: {
-            fontWeight: 'bold',
-            color: 'black'
-          }
+          enabled: true
         }
       }
+    },
+    legend: {
+      enabled: false
     },
     credits: {
       enabled: false
@@ -135,23 +140,28 @@ module.exports = function($scope, filmDataService) {
 
   Highcharts.chart('yearsChart', {
     chart: {
-      type: 'pie'
+      type: 'column'
     },
     title: {
       text: 'Films Watched By Year'
     },
+    xAxis: {
+      type: 'category'
+    },
+    yAxis: {
+      title: {
+        enabled: false
+      }
+    },
     plotOptions: {
-      pie: {
-        startAngle: 90,
+      series: {
         dataLabels: {
-          enabled: true,
-          distance: -50,
-          style: {
-            fontWeight: 'bold',
-            color: 'black'
-          }
+          enabled: true
         }
       }
+    },
+    legend: {
+      enabled: false
     },
     credits: {
       enabled: false
