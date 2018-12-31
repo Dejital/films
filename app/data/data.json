@@ -4522,14 +4522,9 @@
     {
         "rating": "3",
         "title": "Happy people a year in the taiga",
+        "year": "2010",
+        "director": "Vasyukov",
         "dateSeen": "6/2/2014",
-        "repeat": false
-    },
-    {
-        "rating": "3",
-        "title": "Aguirre",
-        "director": "Herzog",
-        "dateSeen": "6/4/2014",
         "repeat": false
     },
     {
@@ -6774,7 +6769,7 @@
         "repeat": false
     },
     {
-        "rating": "4",
+        "rating": "3",
         "title": "Gattaca",
         "year": "1997",
         "director": "Niccol",
@@ -6796,5 +6791,45 @@
         "director": "Spielberg",
         "dateSeen": "12/14/2018",
         "repeat": true
+    },
+    {
+        "rating": "2",
+        "title": "My Man Godfrey",
+        "year": "1936",
+        "director": "La Cava",
+        "dateSeen": "12/22/2018",
+        "repeat": false
+    },
+    {
+        "rating": "5",
+        "title": "Trouble in Paradise",
+        "year": "1932",
+        "director": "Lubitsch",
+        "dateSeen": "12/23/2018",
+        "repeat": true
+    },
+    {
+        "rating": "2",
+        "title": "Paris, je t'aime",
+        "year": "2006",
+        "director": "Multiple",
+        "dateSeen": "12/24/2018",
+        "repeat": true
+    },
+    {
+        "rating": "4",
+        "title": "Mr. Smith Goes to Washington",
+        "year": "1939",
+        "director": "Capra",
+        "dateSeen": "12/25/2018",
+        "repeat": true
+    },
+    {
+        "rating": "3",
+        "title": "I Confess!",
+        "year": "1953",
+        "director": "Hitchcock",
+        "dateSeen": "12/28/2018",
+        "repeat": false
     }
 ]
