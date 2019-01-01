@@ -12,6 +12,12 @@
     color: #2288ee;
     border-bottom: 1px dotted #2288ee; }
 
+#film-images {
+  background-image: url("../assets/img/background.jpg");
+  background-size: 100% auto;
+  background-repeat: repeat-y;
+}
+
 @media (max-width: 1000px) {
   .pure-table {
     font-size: 90%; } }
