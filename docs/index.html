@@ -25,7 +25,7 @@
 
                 </header>
 
-                <div id="analytics">
+                <div id="analytics" ng-cloak>
                     <button class="pure-button pure-button-primary" ng-hide="showAnalytics" href="" ng-click="showAnalytics=true">📈 Show Charts</button>
                     <button class="pure-button pure-button-primary" ng-show="showAnalytics" ng-click="showAnalytics=false">📈 Hide Charts</button>
 
@@ -44,10 +44,10 @@
                     </div>
                 </div>
 
-                <form class="pure-form">
+                <form ng-cloak class="pure-form">
                     <input style="width: 100%;" ng-model="query" placeholder="Type to filter">
                 </form>
-                <table class="pure-table pure-table-bordered">
+                <table ng-cloak class="pure-table pure-table-bordered">
                     <thead>
                     <tr>
                         <th>
