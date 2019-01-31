@@ -6697,7 +6697,7 @@
         "repeat": false
     },
     {
-        "rating": 3,
+        "rating": "3",
         "title": "This Is the End",
         "year": "2013",
         "director": "Rogen, Goldberg",
@@ -6745,7 +6745,7 @@
         "repeat": true
     },
     {
-        "rating": 4,
+        "rating": "4",
         "title": "Lock, Stock and Two Smoking Barrels",
         "year": "1998",
         "director": "Ritchie",
