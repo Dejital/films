@@ -4572,6 +4572,8 @@
     {
         "rating": "4",
         "title": "Amelie",
+        "year": "2001",
+        "director": "Jeunet",
         "dateSeen": "10/5/2014",
         "repeat": true
     },
@@ -6846,6 +6848,118 @@
         "year": "1992",
         "director": "Tarantino",
         "dateSeen": "1/5/2019",
+        "repeat": true
+    },
+    {
+        "rating": "3",
+        "title": "The Big Heat",
+        "year": "1953",
+        "director": "Lang",
+        "dateSeen": "2/1/2019",
+        "repeat": false
+    },
+    {
+        "rating": "4",
+        "title": "The Lady Eve",
+        "year": "1941",
+        "director": "Sturges",
+        "dateSeen": "2/4/2019",
+        "repeat": false
+    },
+    {
+        "rating": "3",
+        "title": "Ball of Fire",
+        "year": "1941",
+        "director": "Hawks",
+        "dateSeen": "2/5/2019",
+        "repeat": false
+    },
+    {
+        "rating": "3",
+        "title": "The Woman in the Window",
+        "year": "1944",
+        "director": "Lang",
+        "dateSeen": "2/6/2019",
+        "repeat": false
+    },
+    {
+        "rating": "4",
+        "title": "Baby Face",
+        "year": "1933",
+        "director": "Green",
+        "dateSeen": "2/10/2019",
+        "repeat": false
+    },
+    {
+        "rating": "3",
+        "title": "Roman Holiday",
+        "year": "1953",
+        "director": "Wyler",
+        "dateSeen": "2/14/2019",
+        "repeat": false
+    },
+    {
+        "rating": "4",
+        "title": "Amelie",
+        "year": "2001",
+        "director": "Jeunet",
+        "dateSeen": "2/14/2019",
+        "repeat": true
+    },
+    {
+        "rating": "2",
+        "title": "Sorry, Wrong Number",
+        "year": "1948",
+        "director": "Litvak",
+        "dateSeen": "2/15/2019",
+        "repeat": false
+    },
+    {
+        "rating": "4",
+        "title": "Infernal Affairs",
+        "year": "2002",
+        "director": "Mak, Lau",
+        "dateSeen": "2/16/2019",
+        "repeat": true
+    },
+    {
+        "rating": "2",
+        "title": "Three on a Match",
+        "year": "1932",
+        "director": "LeRoy",
+        "dateSeen": "2/17/2019",
+        "repeat": false
+    },
+    {
+        "rating": "3",
+        "title": "Castle in the Sky",
+        "year": "1989",
+        "director": "Miyazaki",
+        "dateSeen": "2/23/2019",
+        "repeat": false
+    },
+    {
+        "rating": "2",
+        "title": "Clash by Night",
+        "year": "1952",
+        "director": "Lang",
+        "dateSeen": "2/26/2019",
+        "repeat": false
+    },
+    {
+        "rating": "3",
+        "title": "Marty",
+        "year": "1955",
+        "director": "Mann",
+        "dateSeen": "3/3/2019",
+        "repeat": true
+    },
+    {
+        "rating": "2",
+        "title": "Apocalypse Now",
+        "year": "1979",
+        "director": "Coppola",
+        "dateSeen": "3/9/2019",
         "repeat": true
     }
 ]
