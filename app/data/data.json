@@ -6961,5 +6961,45 @@
         "director": "Coppola",
         "dateSeen": "3/9/2019",
         "repeat": true
+    },
+    {
+        "rating": "3",
+        "title": "Free Solo",
+        "year": "2018",
+        "director": "Chin",
+        "dateSeen": "3/29/2019",
+        "repeat": false
+    },
+    {
+        "rating": "3",
+        "title": "Meet John Doe",
+        "year": "1941",
+        "director": "Capra",
+        "dateSeen": "4/1/2019",
+        "repeat": false
+    },
+    {
+        "rating": "3",
+        "title": "The Postman Always Rings Twice",
+        "year": "1946",
+        "director": "Garnett",
+        "dateSeen": "4/3/2019",
+        "repeat": false
+    },
+    {
+        "rating": "3",
+        "title": "Night Nurse",
+        "year": "1931",
+        "director": "Wellman",
+        "dateSeen": "4/10/2019",
+        "repeat": false
+    },
+    {
+        "rating": "4",
+        "title": "The Man Who Knew Too Little",
+        "year": "1997",
+        "director": "Amiel",
+        "dateSeen": "4/8/2019",
+        "repeat": true
     }
 ]
