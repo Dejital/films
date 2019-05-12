@@ -7001,5 +7001,45 @@
         "director": "Amiel",
         "dateSeen": "4/8/2019",
         "repeat": true
+    },
+    {
+        "rating": "5",
+        "title": "Before Sunset",
+        "year": "2004",
+        "director": "Linklater",
+        "dateSeen": "4/15/2019",
+        "repeat": true
+    },
+    {
+        "rating": "3",
+        "title": "Psycho",
+        "year": "1960",
+        "director": "Hitchcock",
+        "dateSeen": "4/16/2019",
+        "repeat": false
+    },
+    {
+        "rating": "3",
+        "title": "Ran",
+        "year": "1985",
+        "director": "Kurosawa",
+        "dateSeen": "4/20/2019",
+        "repeat": false
+    },
+    {
+        "rating": "3",
+        "title": "Spirited Away",
+        "year": "2003",
+        "director": "Miyazaki",
+        "dateSeen": "5/7/2019",
+        "repeat": true
+    },
+    {
+        "rating": "3",
+        "title": "There's Always A Woman",
+        "year": "1938",
+        "director": "Hall",
+        "dateSeen": "5/11/2019",
+        "repeat": false
     }
 ]
