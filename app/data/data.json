@@ -7041,5 +7041,61 @@
         "director": "Hall",
         "dateSeen": "5/11/2019",
         "repeat": false
+    },
+    {
+        "rating": "2",
+        "title": "Passengers",
+        "year": "2016",
+        "director": "Tyldum",
+        "dateSeen": "6/5/2019",
+        "repeat": false
+    },
+    {
+        "rating": "5",
+        "title": "Hable Con Ella",
+        "year": "2002",
+        "director": "Almodovar",
+        "dateSeen": "6/12/2019",
+        "repeat": true
+    },
+    {
+        "rating": "3",
+        "title": "The Guilty",
+        "year": "2018",
+        "director": "Moller",
+        "dateSeen": "6/15/2019",
+        "repeat": false
+    },
+    {
+        "rating": "3",
+        "title": "Kansas City Princesses",
+        "year": "1934",
+        "director": "Keighly",
+        "dateSeen": "6/22/2019",
+        "repeat": false
+    },
+    {
+        "rating": "3",
+        "title": "Cold War",
+        "year": "2018",
+        "director": "Pawlikowski",
+        "dateSeen": "6/28/2019",
+        "repeat": false
+    },
+    {
+        "rating": "3",
+        "title": "Kedi",
+        "year": "2017",
+        "director": "Torun",
+        "dateSeen": "6/29/2019",
+        "repeat": false
+    },
+    {
+        "rating": "3",
+        "title": "Midnight",
+        "year": "1939",
+        "director": "Leisen",
+        "dateSeen": "7/12/2019",
+        "repeat": false
     }
 ]
