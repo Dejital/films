@@ -7097,5 +7097,29 @@
         "director": "Leisen",
         "dateSeen": "7/12/2019",
         "repeat": false
+    },
+    {
+        "rating": "3",
+        "title": "Pickup on South Street",
+        "year": "1953",
+        "director": "Fuller",
+        "dateSeen": "10/21/2019",
+        "repeat": false
+    },
+    {
+        "rating": "3",
+        "title": "The Mad Miss Manton",
+        "year": "1938",
+        "director": "Jason",
+        "dateSeen": "10/23/2019",
+        "repeat": false
+    },
+    {
+        "rating": "2",
+        "title": "The Maltese Falcon",
+        "year": "1941",
+        "director": "Huston",
+        "dateSeen": "10/30/2019",
+        "repeat": false
     }
 ]
