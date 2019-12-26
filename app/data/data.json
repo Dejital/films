@@ -7121,5 +7121,77 @@
         "director": "Huston",
         "dateSeen": "10/30/2019",
         "repeat": false
+    },
+    {
+        "rating": "4",
+        "title": "Double Indemnity",
+        "year": "1944",
+        "director": "Wilder",
+        "dateSeen": "10/31/2019",
+        "repeat": true
+    },
+    {
+        "rating": "4",
+        "title": "An American in Paris",
+        "year": "1951",
+        "director": "Minnelli",
+        "dateSeen": "11/02/2019",
+        "repeat": true
+    },
+    {
+        "rating": "3",
+        "title": "Adam's Rib",
+        "year": "1949",
+        "director": "Cukor",
+        "dateSeen": "11/03/2019",
+        "repeat": false
+    },
+    {
+        "rating": "3",
+        "title": "Stella Davis",
+        "year": "1937",
+        "director": "Vidor",
+        "dateSeen": "11/05/2019",
+        "repeat": false
+    },
+    {
+        "rating": "3",
+        "title": "You Belong to Me",
+        "year": "1941",
+        "director": "Ruggles",
+        "dateSeen": "11/12/2019",
+        "repeat": false
+    },
+    {
+        "rating": "4",
+        "title": "Gilda",
+        "year": "1946",
+        "director": "Vidor",
+        "dateSeen": "12/15/2019",
+        "repeat": true
+    },
+    {
+        "rating": "3",
+        "title": "Night and City",
+        "year": "1950",
+        "director": "Dassin",
+        "dateSeen": "12/23/2019",
+        "repeat": false
+    },
+    {
+        "rating": "3",
+        "title": "Parasite",
+        "year": "2019",
+        "director": "Joon-Ho",
+        "dateSeen": "12/23/2019",
+        "repeat": false
+    },
+    {
+        "rating": "3",
+        "title": "Libeled Lady",
+        "year": "1936",
+        "director": "Conway",
+        "dateSeen": "12/25/2019",
+        "repeat": false
     }
 ]
