@@ -7193,5 +7193,37 @@
         "director": "Conway",
         "dateSeen": "12/25/2019",
         "repeat": false
+    },
+    {
+        "rating": "2",
+        "title": "Double Wedding",
+        "year": "1937",
+        "director": "Thorpe",
+        "dateSeen": "12/26/2019",
+        "repeat": false
+    },
+    {
+        "rating": "4",
+        "title": "The Emperor's Candlesticks",
+        "year": "1937",
+        "director": "Fitzmaurice",
+        "dateSeen": "12/27/2019",
+        "repeat": false
+    },
+    {
+        "rating": "2",
+        "title": "I Love You Again",
+        "year": "1940",
+        "director": "Van Dyke",
+        "dateSeen": "1/2/2020",
+        "repeat": false
+    },
+    {
+        "rating": "3",
+        "title": "I Vitelloni",
+        "year": "1953",
+        "director": "Fellini",
+        "dateSeen": "1/10/2020",
+        "repeat": false
     }
 ]
