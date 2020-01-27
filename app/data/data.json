@@ -7225,5 +7225,45 @@
         "director": "Fellini",
         "dateSeen": "1/10/2020",
         "repeat": false
+    },
+    {
+        "rating": "4",
+        "title": "Key Largo",
+        "year": "1948",
+        "director": "Huston",
+        "dateSeen": "1/12/2020",
+        "repeat": false
+    },
+    {
+        "rating": "3",
+        "title": "A Bittersweet Life",
+        "year": "2005",
+        "director": "Kim Jee-woon",
+        "dateSeen": "1/13/2020",
+        "repeat": false
+    },
+    {
+        "rating": "3",
+        "title": "The Big Clock",
+        "year": "1948",
+        "director": "Farrow",
+        "dateSeen": "1/18/2020",
+        "repeat": false
+    },
+    {
+        "rating": "4",
+        "title": "In a Lonely Place",
+        "year": "1950",
+        "director": "Ray",
+        "dateSeen": "1/19/2020",
+        "repeat": false
+    },
+    {
+        "rating": "4",
+        "title": "Howl's Moving Castle",
+        "year": "2004",
+        "director": "Miyazaki",
+        "dateSeen": "1/24/2020",
+        "repeat": false
     }
 ]
