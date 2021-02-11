@@ -19,7 +19,8 @@ module.exports = function($scope, filmDataService) {
     {name: '1980s', y: 0},
     {name: '1990s', y: 0},
     {name: '2000s', y: 0},
-    {name: '2010s', y: 0}
+    {name: '2010s', y: 0},
+    {name: '2020s', y: 0}
   ];
   var years = [
     {name: '2009', y: 0},
@@ -32,7 +33,9 @@ module.exports = function($scope, filmDataService) {
     {name: '2016', y: 0},
     {name: '2017', y: 0},
     {name: '2018', y: 0},
-    {name: '2019', y: 0}
+    {name: '2019', y: 0},
+    {name: '2020', y: 0},
+    {name: '2021', y: 0}
   ];
   var months = [
     {name: 'Jan', y: 0},
@@ -69,7 +72,8 @@ module.exports = function($scope, filmDataService) {
     else repeats[1].y += 1;
 
     if (film.year) {
-      if (film.year >= 2010) decades[8].y += 1;
+      if (film.year >= 2020) decades[9].y += 1;
+      else if (film.year >= 2010) decades[8].y += 1;
       else if (film.year >= 2000) decades[7].y += 1;
       else if (film.year >= 1990) decades[6].y += 1;
       else if (film.year >= 1980) decades[5].y += 1;
@@ -82,7 +86,9 @@ module.exports = function($scope, filmDataService) {
 
     if (film.dateSeen) {
       var year = film.dateSeen.getFullYear();
-      if (year == 2019) years[10].y += 1;
+      if (year == 2021) years[12].y += 1;
+      else if (year == 2020) years[11].y += 1;
+      else if (year == 2019) years[10].y += 1;
       else if (year == 2018) years[9].y += 1;
       else if (year == 2017) years[8].y += 1;
       else if (year == 2016) years[7].y += 1;
