@@ -7369,5 +7369,229 @@
         "director": "Van Dyke",
         "dateSeen": "5/06/2020",
         "repeat": false
+    },
+    {
+        "rating": "3",
+        "title": "Porco Rosso",
+        "year": "1992",
+        "director": "Miyazaki",
+        "dateSeen": "5/17/2020",
+        "repeat": false
+    },
+    {
+        "rating": "3",
+        "title": "The Wind Rises",
+        "year": "2013",
+        "director": "Miyazaki",
+        "dateSeen": "6/1/2020",
+        "repeat": false
+    },
+    {
+        "rating": "4",
+        "title": "The Bridge on the River Kwai",
+        "year": "1957",
+        "director": "David Lean",
+        "dateSeen": "6/13/2020",
+        "repeat": false
+    },
+    {
+        "rating": "2",
+        "title": "Pat and Mike",
+        "year": "1952",
+        "director": "Cukor",
+        "dateSeen": "6/15/2020",
+        "repeat": false
+    },
+    {
+        "rating": "2",
+        "title": "Shadow of the Thin Man",
+        "year": "1941",
+        "director": "Van Dyke",
+        "dateSeen": "6/18/2020",
+        "repeat": false
+    },
+    {
+        "rating": "3",
+        "title": "The Whole Town's Talking",
+        "year": "1935",
+        "director": "Ford",
+        "dateSeen": "8/7/2020",
+        "repeat": false
+    },
+    {
+        "rating": "4",
+        "title": "Once Upon a Time in the West",
+        "year": "1969",
+        "director": "Leone",
+        "dateSeen": "8/21/2020",
+        "repeat": true
+    },
+    {
+        "rating": "4",
+        "title": "The Gentlemen",
+        "year": "2020",
+        "director": "Ritchie",
+        "dateSeen": "8/28/2020",
+        "repeat": false
+    },
+    {
+        "rating": "3",
+        "title": "The Secret in Their Eyes",
+        "year": "2009",
+        "director": "Campanella",
+        "dateSeen": "9/5/2020",
+        "repeat": false
+    },
+    {
+        "rating": "3",
+        "title": "Layer Cake",
+        "year": "2004",
+        "director": "Vaughn",
+        "dateSeen": "9/12/2020",
+        "repeat": false
+    },
+    {
+        "rating": "4",
+        "title": "The Princess Bride",
+        "year": "1987",
+        "director": "Reiner",
+        "dateSeen": "9/21/2020",
+        "repeat": true
+    },
+    {
+        "rating": "3",
+        "title": "The Yellow Sea",
+        "year": "2010",
+        "director": "Na",
+        "dateSeen": "9/25/2020",
+        "repeat": false
+    },
+    {
+        "rating": "4",
+        "title": "Dial M for Murder",
+        "year": "1954",
+        "director": "Hitchcock",
+        "dateSeen": "10/2/2020",
+        "repeat": true
+    },
+    {
+        "rating": "3",
+        "title": "From Up on Poppy Hill",
+        "year": "2011",
+        "director": "Miyazaki",
+        "dateSeen": "10/16/2020",
+        "repeat": false
+    },
+    {
+        "rating": "2",
+        "title": "The Cat Returns",
+        "year": "2002",
+        "director": "Morita",
+        "dateSeen": "10/19/2020",
+        "repeat": false
+    },
+    {
+        "rating": "3",
+        "title": "Whisper of the Heart",
+        "year": "1995",
+        "director": "Kondo",
+        "dateSeen": "10/31/2020",
+        "repeat": false
+    },
+    {
+        "rating": "3",
+        "title": "The Secret World of Arrietty",
+        "year": "2010",
+        "director": "Yonebayashi",
+        "dateSeen": "11/07/2020",
+        "repeat": false
+    },
+    {
+        "rating": "3",
+        "title": "An Autumn Afternoon",
+        "year": "1962",
+        "director": "Ozu",
+        "dateSeen": "11/29/2020",
+        "repeat": false
+    },
+    {
+        "rating": "2",
+        "title": "Ratatouille",
+        "year": "2007",
+        "director": "Bird",
+        "dateSeen": "12/19/2020",
+        "repeat": false
+    },
+    {
+        "rating": "2",
+        "title": "Song of the Thin Man",
+        "year": "1947",
+        "director": "Buzzell",
+        "dateSeen": "12/21/2020",
+        "repeat": false
+    },
+    {
+        "rating": "4",
+        "title": "A Shot in the Dark",
+        "year": "1964",
+        "director": "Edwards",
+        "dateSeen": "12/22/2020",
+        "repeat": true
+    },
+    {
+        "rating": "5",
+        "title": "Kiki's Delivery Service",
+        "year": "1989",
+        "director": "Miyazaki",
+        "dateSeen": "12/23/2020",
+        "repeat": true
+    },
+    {
+        "rating": "4",
+        "title": "Home Alone",
+        "year": "1990",
+        "director": "Hughes",
+        "dateSeen": "12/24/2020",
+        "repeat": true
+    },
+    {
+        "rating": "3",
+        "title": "Knock on Wood",
+        "year": "1981",
+        "director": "Veber",
+        "dateSeen": "12/27/2020",
+        "repeat": false
+    },
+    {
+        "rating": "4",
+        "title": "Ponyo",
+        "year": "2008",
+        "director": "Miyazaki",
+        "dateSeen": "1/1/2021",
+        "repeat": false
+    },
+    {
+        "rating": "3",
+        "title": "A Taxi Driver",
+        "year": "2017",
+        "director": "Jang",
+        "dateSeen": "1/28/2021",
+        "repeat": false
+    },
+    {
+        "rating": "3",
+        "title": "Sullivan's Travels",
+        "year": "1941",
+        "director": "Sturges",
+        "dateSeen": "2/5/2021",
+        "repeat": false
+    },
+    {
+        "rating": "3",
+        "title": "The Tall Blond Man with One Black Shoe",
+        "year": "1972",
+        "director": "Robert",
+        "dateSeen": "2/6/2021",
+        "repeat": false
     }
 ]
