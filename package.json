@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/Dejital/films#readme",
   "devDependencies": {
+    "google-spreadsheet": "^3.2.0",
     "gsjson": "^0.1.8"
   },
   "dependencies": {

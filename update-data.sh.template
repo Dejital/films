@@ -1,4 +1,4 @@
 #! /bin/bash
 
-./node_modules/.bin/gsjson {GOOGLE DRIVE DOCUMENT ID} app/data/data.json -b
+curl "https://opensheet.elk.sh/{GOOGLE DRIVE DOCUMENT ID}/1" > app/data/data.json
 ./node_modules/.bin/gulp browserify
