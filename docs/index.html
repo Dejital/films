@@ -21,7 +21,8 @@
                     <h1>
                         <a class="logo" href="http://snevsky.com"><img alt="Serge Nevsky" src="assets/img/logo.png"></a>/ Films
                     </h1>
-                    <p><a href="http://snevsky.com">Serge Nevsky</a>: A list of every film I've seen and rated since 2009.</p>
+                    <p><a href="http://snevsky.com">Serge Nevsky</a>: A list of every film I've seen and rated since 2009.
+                    Films are rated 1 (lowest) to 5 (highest).</p>
 
                 </header>
 
@@ -45,6 +46,9 @@
                 </div>
 
                 <form ng-cloak class="pure-form">
+                    <label for="five-rating">
+                        <input type="checkbox" id="five-rating" ng-model="fives" /> Show films rated as 5 only
+                    </label>
                     <input style="width: 100%;" ng-model="query" placeholder="Type to filter">
                 </form>
                 <table ng-cloak class="pure-table pure-table-bordered">
@@ -88,7 +92,7 @@
                     </tr>
                     </thead>
                     <tbody>
-                    <tr ng-repeat="film in films | filter:query | orderBy:predicate:reverseSort">
+                    <tr ng-repeat="film in films | filter:query | filter: { rating: fives ? '5' : '' } | orderBy:predicate:reverseSort">
                         <td ng-class="{'score1': film.rating == '1',
                                        'score2': film.rating == '2',
                                        'score3': film.rating == '3',
