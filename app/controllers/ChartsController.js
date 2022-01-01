@@ -35,7 +35,8 @@ module.exports = function($scope, filmDataService) {
     {name: '2018', y: 0},
     {name: '2019', y: 0},
     {name: '2020', y: 0},
-    {name: '2021', y: 0}
+    {name: '2021', y: 0},
+    {name: '2022', y: 0}
   ];
   var months = [
     {name: 'Jan', y: 0},
@@ -61,7 +62,7 @@ module.exports = function($scope, filmDataService) {
     {name: 'Saturday', y: 0}
   ];
   var repeats = [
-    {name: 'First', y: 0},
+    {name: 'First Viewing', y: 0},
     {name: 'Repeat', y: 0}
   ];
   var data = filmDataService.getFilms();
@@ -86,7 +87,8 @@ module.exports = function($scope, filmDataService) {
 
     if (film.dateSeen) {
       var year = film.dateSeen.getFullYear();
-      if (year == 2021) years[12].y += 1;
+      if (year == 2022) years[13].y += 1;
+      else if (year == 2021) years[12].y += 1;
       else if (year == 2020) years[11].y += 1;
       else if (year == 2019) years[10].y += 1;
       else if (year == 2018) years[9].y += 1;

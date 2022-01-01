@@ -11,7 +11,7 @@ module.exports = function(store) {
         title: row["TITLE"],
         year: row["YEAR"],
         director: row["DIRECTOR"],
-        dateSeen: row["DATE SEEN"],
+        dateSeen: new Date(row["DATE SEEN"]),
         repeat: row["REPEAT"] === "TRUE",
       };
       cleaned.push(film);
