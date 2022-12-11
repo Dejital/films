@@ -7942,5 +7942,277 @@
         "REPEAT": "FALSE",
         "TITLE": "Lover Come Back",
         "YEAR": "1961"
+    },
+    {
+        "DATE SEEN": "1/1/2022",
+        "DIRECTOR": "Winner",
+        "RATING": "2",
+        "REPEAT": "FALSE",
+        "TITLE": "Appointment with Death",
+        "YEAR": "1988"
+    },
+    {
+        "DATE SEEN": "1/7/2022",
+        "DIRECTOR": "Miller",
+        "RATING": "2",
+        "REPEAT": "FALSE",
+        "TITLE": "Any Wednesday",
+        "YEAR": "1966"
+    },
+    {
+        "DATE SEEN": "1/14/2022",
+        "DIRECTOR": "King",
+        "RATING": "3",
+        "REPEAT": "FALSE",
+        "TITLE": "One Night in Miami",
+        "YEAR": "2020"
+    },
+    {
+        "DATE SEEN": "1/25/2022",
+        "DIRECTOR": "Scorcese",
+        "RATING": "3",
+        "REPEAT": "FALSE",
+        "TITLE": "After Hours",
+        "YEAR": "1985"
+    },
+    {
+        "DATE SEEN": "2/1/2022",
+        "DIRECTOR": "Goulding",
+        "RATING": "2",
+        "REPEAT": "FALSE",
+        "TITLE": "Nightmare Alley",
+        "YEAR": "1947"
+    },
+    {
+        "DATE SEEN": "2/9/2022",
+        "DIRECTOR": "Antonio",
+        "RATING": "2",
+        "REPEAT": "FALSE",
+        "TITLE": "Thirteen at Dinner",
+        "YEAR": "1985"
+    },
+    {
+        "DATE SEEN": "2/12/2022",
+        "DIRECTOR": "LeRoy",
+        "RATING": "4",
+        "REPEAT": "FALSE",
+        "TITLE": "Two Seconds",
+        "YEAR": "1932"
+    },
+    {
+        "DATE SEEN": "2/18/2022",
+        "DIRECTOR": "Lee",
+        "RATING": "3",
+        "REPEAT": "FALSE",
+        "TITLE": "Extreme Job",
+        "YEAR": "2019"
+    },
+    {
+        "DATE SEEN": "3/3/2022",
+        "DIRECTOR": "Sturges",
+        "RATING": "4",
+        "REPEAT": "FALSE",
+        "TITLE": "The Lady Eve",
+        "YEAR": "1941"
+    },
+    {
+        "DATE SEEN": "3/5/2022",
+        "DIRECTOR": "Boleslawski",
+        "RATING": "2",
+        "REPEAT": "FALSE",
+        "TITLE": "The Last of Mrs. Cheney",
+        "YEAR": "1937"
+    },
+    {
+        "DATE SEEN": "3/9/2022",
+        "DIRECTOR": "Cukor",
+        "RATING": "3",
+        "REPEAT": "FALSE",
+        "TITLE": "Dinner at Eight",
+        "YEAR": "1933"
+    },
+    {
+        "DATE SEEN": "3/11/2022",
+        "DIRECTOR": "Curtiz",
+        "RATING": "2",
+        "REPEAT": "FALSE",
+        "TITLE": "Life with Father",
+        "YEAR": "1947"
+    },
+    {
+        "DATE SEEN": "3/23/2022",
+        "DIRECTOR": "Scorcese",
+        "RATING": "4",
+        "REPEAT": "TRUE",
+        "TITLE": "The Departed",
+        "YEAR": "2006"
+    },
+    {
+        "DATE SEEN": "3/25/2022",
+        "DIRECTOR": "Dmytryk",
+        "RATING": "2",
+        "REPEAT": "FALSE",
+        "TITLE": "Murder, My Sweet",
+        "YEAR": "1944"
+    },
+    {
+        "DATE SEEN": "3/26/2022",
+        "DIRECTOR": "Soderbergh",
+        "RATING": "4",
+        "REPEAT": "FALSE",
+        "TITLE": "Logan Lucky",
+        "YEAR": "2017"
+    },
+    {
+        "DATE SEEN": "4/1/2022",
+        "DIRECTOR": "Capra",
+        "RATING": "3",
+        "REPEAT": "FALSE",
+        "TITLE": "Platinum Blonde",
+        "YEAR": "1931"
+    },
+    {
+        "DATE SEEN": "6/4/2022",
+        "DIRECTOR": "Nelson",
+        "RATING": "2",
+        "REPEAT": "FALSE",
+        "TITLE": "Murder in Three Acts",
+        "YEAR": "1986"
+    },
+    {
+        "DATE SEEN": "7/8/2022",
+        "DIRECTOR": "Harron",
+        "RATING": "3",
+        "REPEAT": "TRUE",
+        "TITLE": "American Psycho",
+        "YEAR": "2000"
+    },
+    {
+        "DATE SEEN": "7/8/2022",
+        "DIRECTOR": "Kwan",
+        "RATING": "3",
+        "REPEAT": "FALSE",
+        "TITLE": "Everything Everywhere All At Once",
+        "YEAR": "2022"
+    },
+    {
+        "DATE SEEN": "7/15/2022",
+        "DIRECTOR": "Itami",
+        "RATING": "3",
+        "REPEAT": "FALSE",
+        "TITLE": "Tampopo",
+        "YEAR": "1985"
+    },
+    {
+        "DATE SEEN": "7/23/2022",
+        "DIRECTOR": "Watts",
+        "RATING": "2",
+        "REPEAT": "FALSE",
+        "TITLE": "Spider-Man: No Way Home",
+        "YEAR": "2021"
+    },
+    {
+        "DATE SEEN": "8/12/2022",
+        "DIRECTOR": "Ritchie",
+        "RATING": "4",
+        "REPEAT": "FALSE",
+        "TITLE": "Rocknrolla",
+        "YEAR": "2008"
+    },
+    {
+        "DATE SEEN": "8/21/2022",
+        "DIRECTOR": "Ritchie",
+        "RATING": "4",
+        "REPEAT": "FALSE",
+        "TITLE": "Wrath of Man",
+        "YEAR": "2021"
+    },
+    {
+        "DATE SEEN": "9/16/2022",
+        "DIRECTOR": "Ritchie",
+        "RATING": "3",
+        "REPEAT": "FALSE",
+        "TITLE": "Revolver",
+        "YEAR": "2005"
+    },
+    {
+        "DATE SEEN": "9/17/2022",
+        "DIRECTOR": "Ritchie",
+        "RATING": "3",
+        "REPEAT": "FALSE",
+        "TITLE": "King Arthur: Legend of the Sword",
+        "YEAR": "2017"
+    },
+    {
+        "DATE SEEN": "9/21/2022",
+        "DIRECTOR": "Scott",
+        "RATING": "1",
+        "REPEAT": "FALSE",
+        "TITLE": "House of Gucci",
+        "YEAR": "2021"
+    },
+    {
+        "DATE SEEN": "9/27/2022",
+        "DIRECTOR": "Nolan",
+        "RATING": "2",
+        "REPEAT": "FALSE",
+        "TITLE": "Tenet",
+        "YEAR": "2020"
+    },
+    {
+        "DATE SEEN": "10/21/2022",
+        "DIRECTOR": "Mann",
+        "RATING": "4",
+        "REPEAT": "FALSE",
+        "TITLE": "Heat",
+        "YEAR": "1995"
+    },
+    {
+        "DATE SEEN": "11/2/2022",
+        "DIRECTOR": "Capra",
+        "RATING": "1",
+        "REPEAT": "FALSE",
+        "TITLE": "Mr. Deeds Goes to Town",
+        "YEAR": "1936"
+    },
+    {
+        "DATE SEEN": "11/2/2022",
+        "DIRECTOR": "Crowe",
+        "RATING": "1",
+        "REPEAT": "FALSE",
+        "TITLE": "Jerry Maguire",
+        "YEAR": "1996"
+    },
+    {
+        "DATE SEEN": "11/4/2022",
+        "DIRECTOR": "Welles",
+        "RATING": "2",
+        "REPEAT": "TRUE",
+        "TITLE": "Lady from Shanghai",
+        "YEAR": "1947"
+    },
+    {
+        "DATE SEEN": "11/12/2022",
+        "DIRECTOR": "Miyazaki",
+        "RATING": "4",
+        "REPEAT": "TRUE",
+        "TITLE": "Kiki's Delivery Service",
+        "YEAR": "1989"
+    },
+    {
+        "DATE SEEN": "11/24/2022",
+        "DIRECTOR": "Fleming",
+        "RATING": "2",
+        "REPEAT": "FALSE",
+        "TITLE": "Bombshell",
+        "YEAR": "1933"
+    },
+    {
+        "DATE SEEN": "12/9/2022",
+        "DIRECTOR": "Reed",
+        "RATING": "3",
+        "REPEAT": "TRUE",
+        "TITLE": "The Third Man",
+        "YEAR": "1949"
     }
 ]
