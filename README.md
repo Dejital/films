@@ -9,4 +9,4 @@ Then I munge it together with the client code using the Gulpfile.
 
 ## Running
 
-Use the update data shell script. Make sure Node is on version 10.x only.
+Use the update data shell script. Make sure Node is on version 10.x only. I use `nvm` for this.
